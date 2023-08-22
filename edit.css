@@ -1,0 +1,133 @@
+.reverse .preview-box {
+    grid-column: 1/3;
+}
+
+@media only screen and (max-width: 567px) {
+    .characters>.value a {
+    height: 35px;
+    width: 35px;
+    margin-bottom: -3px !important;
+    }
+
+.post-body embed,
+.post-body iframe,
+.post-body img,
+.post-body video {
+  margin-bottom: 20px;
+}
+
+img {
+  border-radius: 5px;
+}
+
+body {
+    --msr-icon-size: 70px;
+    line-height: 1.6;
+  }
+}
+
+.title-area__subtitle,
+.card__jp {
+  font-family: "Inter";
+}
+
+.info-area a {
+    color: #5da1cb;
+    transition: .2s ease-in-out;
+    border-bottom: none;
+}
+
+.info-item > .label,
+.value {
+  text-align: center;
+}
+
+.label {
+  text-align: center;
+}
+
+.cg-gallery>.tab-content>.gallery {
+    grid-template-columns: repeat(2, minmax(200px, 2fr));
+}
+
+.lightbox-content {
+    max-width: 700px;
+}
+
+.msr-cw {
+    background: #d13939;
+}
+
+.minitalk-option_header {
+  color: #ee66a6;
+}
+
+.msr-unit.expch {
+      margin-bottom: 10px;
+    }
+
+.msr-season.spring p {
+  color: #bc2d5a;
+}
+
+.msr-season.spring::before {
+  color: #bc2d5a;
+  justify-self: center;
+}
+
+.msr-season.summer p {
+  color: #60c3e1;
+}
+
+.msr-season.summer::before {
+  color: #60c3e1;
+  justify-self: center;
+}
+
+.msr-season.autumn p {
+  color: #d07825;
+}
+
+.msr-season.autumn::before {
+  color: #d07825;
+  justify-self: center;
+}
+
+.msr-season.winter p {
+  color: #57688b;
+}
+
+.msr-season.winter::before {
+  color: #57688b;
+  justify-self: center;
+}
+
+.msr-line p {
+    padding: 0.5em 0.6em;
+}
+
+:root {
+    --msr-unit-margin: 0.9em;
+}
+
+body {
+  line-height: 1.3;
+}
+
+.cg-gallery>.tab-content>.gallery {
+  grid-template-columns: repeat(auto-fit,minmax(250px,2fr));
+}
+
+a.msr-fn-inline {
+  display: inline-block;
+  vertical-align: middle;
+  margin: 0 2px;
+  font-weight: 800;
+  font-style: normal;
+  font-size: 0.65em;
+  border-radius: 3px;
+  border: solid 1px rgba(158,158,158,.4);
+  padding: 0 3px;
+  background: rgba(255,255,255,.5);
+  color: #00677e;
+}
