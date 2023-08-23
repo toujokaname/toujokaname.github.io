@@ -1,302 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Princess Kaguya — Get Along</title>
-    <url>/en/event_stories/princess_kaguya/get_along/</url>
-    <content><![CDATA[<head>
-  <link rel="stylesheet" type="text/css" href="/edit.css"  />
-  <link rel="stylesheet" type="text/css" href="/esexp.css"  />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
-</head>
-
-<div class="preview-wrapper reverse"
-  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
-  <div class="grid-wrapper">
-    <div class="preview-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1107544413837725736/1107555605822050354/latest.png')">
-    </div>
-    <div class="preview-box">
-      <div class="title-area">
-        <div class="title-area__title">Princess Kaguya</div>
-        <div class="title-area__subtitle">Get Along</div>
-        <div class="title-area__start"><a href="/princess_kaguya/get_along/#1">Start Reading</a></div>
-      </div>
-      <div class="info-area">
-        <div class="synopsis">
-          The members of Getto Spectacle begin living together in ALKALOID's former room at Seisoukan's old building. To
-          prepare themselves for their performance, they decide to come up with "wishes" to fulfill during the week.
-          However, living together proves to be difficult...
-        </div>
-        <div class="info">
-          <div class="info-item season">
-            <div class="label">
-              Season
-            </div>
-            <div class="value">
-              Winter
-            </div>
-          </div>
-          <div class="info-item chapters">
-            <div class="label">
-              Chapters
-            </div>
-            <div class="value">
-              7
-            </div>
-          </div>
-          <div class="info-item writer">
-            <div class="label">
-              Writer
-            </div>
-            <div class="value">
-              Kino Seitaro with Akira
-            </div>
-          </div>
-          <div class="info-item characters">
-            <div class="label">
-              Characters
-            </div>
-            <div class="value">
-              <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
-              <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-              <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
-              <a href="/categories/Enstars/Arashi" character="Arashi"></a>
-              <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
-            </div>
-          </div>
-          <div class="info-item tl">
-            <div class="label">
-              Translation
-            </div>
-            <div class="value">
-              Mello
-            </div>
-          </div>
-          <div class="info-item pr">
-            <div class="label">
-              Released
-            </div>
-            <div class="value">
-              8/31/2021
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<span id="more"></span>
-
-<style>
-  .preview-wrapper {
-    /* in case jquery doesn't work */
-    display: none;
-  }
-
-  @media (max-width: 567px) {
-
-    /* for NexT Mashiro: makes padding smaller on mobile */
-    .post-block {
-      padding: 5px 10px 30px !important;
-    }
-  }
-</style>
-
-<h1 id="get_along">Get Along</h1>
-
-<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya/prologue" title="Previous"><i
-      class="fa fa-arrow-left"></i></a><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
-      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/one_night_spectacle" title="Next"><i
-      class="fa fa-arrow-right"></i></a>
-</div>
-
-<h2 id="1">Chapter 1</h2>
-
-<div class="msr-location">
-  <p><span><b>Location:</b> Old Seisoukan Building</span></p>
-</div>
-
-<div class="msr-narration">
-  <p><span>An hour later.</span></p>
-</div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>So this is the room where ALKALOID spent time in the old building.</p>
-<p>It&#39;s very neat and clean. I expected something more old-fashioned from the name of the old building. It&#39;s a fine place to live in for a few days.</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>The water from the &quot;shower&quot; is running too~ It looks like I will not have trouble &quot;bathing&quot; from now on.</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. What kind of room were you both imagining?</p>
-<p>Even though it&#39;s an old building, it&#39;s still occasionally used for programs such as &quot;Bogie Time&quot;. It seems to be cleaned frequently by a cleaning company.</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ufufu. Then it&#39;s perfect for our training camp ♪</p>
-<p>But I was in a hurry &#39;cause you just didn&#39;t give us enough time to prepare! I had to rush to bring my makeup and beauty products from my dorm room!</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Though that&#39;s also an important attitude to keep in mind when performing &quot;Princess Kaguya&quot;! The reading drama is a story about making a friend&#39;s &quot;wish&quot; come true right on the day of graduation—</p>
-<p>As a part of fleshing out the characters, we need to be able to handle these kinds of unreasonable demands<a class="msr-fn-inline" data-tippy-content="The phrasing of “unreasonable demands” is a reference to Princess Kaguya, since in the story, she gives her suitors impossible tasks to complete for her hand in marriage." id="fnref:1">1</a>, don&#39;t we?</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh my. It seems like Tomoe-senpai quickly went into work mode.</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>He&#39;s quite strict. It appears we won&#39;t be able to relax from now on.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Really? I think this much is to be expected of an ES idol—</p>
-<p>...I know. I have a good idea, will you listen to it?</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>A good idea, you say?</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yup. Since we&#39;re going to live together to prepare for our roles, why don&#39;t we all write our &quot;wishes&quot; on a piece of paper?</p>
-<p>We will make everyone&#39;s &quot;wishes&quot; come true one by one—this way, we can deepen our relationships through resolution!</p>
-<p>So, there you have it. I&#39;ve already written it down on a notepad, so I&#39;ll announce mine first!</p>
-<p>As the leader, I want to make this Shuffle Project a success. That&#39;s my &quot;wish&quot; ☆</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hm. It&#39;s a good initiative. It will help us make the most of the short time we have before the performance.</p>
-<p>Well then, here&#39;s what I wrote—&quot;I want to help grant Hokuto-san&#39;s wish.&quot; How&#39;s that?</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>My wish...?</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes. I did terrible things to you during the SS preliminaries in Hokkaido. It would make me happy to be able to atone for them.</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No need, Kazehaya-senpai. Don&#39;t worry about that.</p>
-<p>It was a competition. For ALKALOID to beat us Trickstar, you needed to use any means at your disposal.</p>
-<p>I&#39;m in favor of granting wishes, but I don&#39;t want you to make assumptions about my feelings.</p>
-<p>Even though we&#39;re in a temporary unit, we&#39;re all working toward the same goal now, aren&#39;t we?</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hokuto-san—I appreciate your thoughtfulness.</p>
-<p>Then, shall I come up with another &quot;wish&quot; for myself? Of course, I&#39;d like to take this opportunity to do good deeds, without taking advantage of Hokuto-san&#39;s kindness.</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. Tatsumi and Hokuto seem to be &quot;good friends&quot; already, I&#39;m envious.</p>
-<p>&quot;Shuffle Units&quot; are made up of people who have less &quot;interaction&quot; with each other than in regular &quot;units&quot;~ So granting each other&#39;s &quot;wishes&quot; is not a bad idea.</p>
-<p>I am used to making &quot;wishes&quot; come true, am I not?</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>? Somehow it feels like there might be a hidden meaning in your words... Perhaps you have some experience in volunteer work?</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. I do not ♪</p>
-<p>Well then, my wish is to &quot;take a &quot;bath&quot; with everyone&quot; ♪</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>A bath in the winter...? It&#39;d be better to do it in, like, a hot spring or something, or else we&#39;d catch a cold.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But even that kind of unreasonable thing is fine! Compared to Princess Kaguya&#39;s unreasonable demands, it&#39;s not unattainable—</p>
-<p>Does anyone else want to share their &quot;wish&quot;? Don&#39;t hesitate to speak up ♪</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ufufu. Alright, I&#39;ll announce mine next.</p>
-<p>&quot;I want to dress everyone up in cute matching outfits&quot;... How&#39;s that ♪</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Matching...?</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yup. It&#39;s better to have a wish that can&#39;t be easily granted, isn&#39;t it? I really wanted to take this chance and make everyone look pretty!</p>
-<p>I think all the seniors and Hokuto-chan have the potential for it ♪ So please please pleeease ♪</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>U-Um, I see. I don&#39;t want to imagine it too much, but I suppose it&#39;s all for the sake of the role.</p>
-</div></div>
-
-<p><img
-  src="https://64.media.tumblr.com/ed07e68141a1e41074edbbc4c9b9d9ae/f1321e46ece9189e-cf/s1280x1920/e598f2db7e912e61dc52812f00bdf60202ec5166.png"></p>
-<div class=msr-unit character="Hokuto" kh1><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Then, I will also announce my &quot;wish&quot;.</p>
-<p>My wish is: &quot;I want to make this the best broadcast in the history of the program.&quot; After all, I want to devote my utmost effort to doing this.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mm~ That&#39;s a given, don&#39;t you think? Since we&#39;re going out of our way to imitate Princess Kaguya, you should make it a more challenging &quot;wish&quot;!</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. I think it would be challenging enough just to get the five of us to be in sync.</p>
-<p>Mutual understanding is not easy—that is why we find joy in communicating with each other.</p>
-<p>Therefore. My &quot;wish&quot; is that we all &quot;become friends who are able to share our feelings and worries with each other&quot; ♪</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hmm. That&#39;s pretty vague... Welp, it&#39;s fine, there&#39;s nothing more unproductive than forcing people to create problems they don&#39;t have—</p>
-<p>And like I said, my wish is to lead this Shuffle Project into success.</p>
-<p>Fufu. Let us live together from today forth! My dear friends of Getto Spectacle!</p>
-</div></div>
-
-<h2 id="2">Chapter 2</h2>
-
-<div class="msr-location">
-  <p><span><b>Location:</b> Old Seisoukan Building</span></p>
-</div>
-
-<div class="msr-narration">
-  <p><span>That night.</span></p>
-</div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Now that we have decided on the bathing schedule and the division of household chores, let&#39;s finally decide on the beds for each of us.</p>
-<p>Since there are two bunk beds, only one person will have to use a futon on the floor—</p>
-<p>If it&#39;s alright with you, I&#39;ll sleep on the futon, so please decide where you all want to sleep.</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No. I&#39;ll take the floor.</p>
-<p>When I stayed overnight at school, I often slept on the floor.</p>
-<p>Also, I&#39;ve been wondering since the SS preliminaries in Hokkaido, but your leg isn&#39;t completely healed, is it?</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>My apologies. Your concern is greatly appreciated.</p>
-<p>If it&#39;s about that old injury, there&#39;s nothing to worry about. But since you&#39;re generously offering me a bed, I shall take the bottom bunk.</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Then, I will take the &quot;top bunk&quot;~♪ If I do not feel the steam of the &quot;humidifier&quot;, I will &quot;dry up&quot;.</p>
-<p>&quot;Ohisama&quot;-san will also take a &quot;top bunk&quot;, right?</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Of course! As the leader, I want to be in a position where I can watch over everyone ♪</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. Then I&#39;ll take the other bottom bunk.</p>
-<p>Now that all the assignments have been decided smoothly, let&#39;s enjoy our life living together from today ♪</p>
-</div></div>
-
-<div class="msr-narration">
-  <p><span>Two hours later.</span></p>
-</div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Excuse me, Kanata-san. Could you please leave the bath soon?</p>
-<p>I&#39;m the last one, so I don&#39;t mind having to do it later, but it&#39;s going to be bedtime if you don&#39;t finish taking your bath shortly.</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Wah, is it already this &quot;late&quot;?</p>
-<p>I am sorry, for taking a long &quot;bath&quot;...♪</p>
-<p>Puka, puka... splaaash...♪</p>
-</div></div>
-
-
-
-
-
-
-
-
-<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya/prologue" title="Previous"><i
-      class="fa fa-arrow-left"></i></a><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
-      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/one_night_spectacle" title="Next"><i
-      class="fa fa-arrow-right"></i></a>
-</div>
-
-<h1 id="Translation-Notes"><a href="#Translation-Notes" class="headerlink" title="Translation Notes"></a>Translation Notes</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> The phrasing of “unreasonable demands” is a reference to Princess Kaguya, since in the story, she gives her suitors impossible tasks to complete for her hand in marriage.</li></ol></div>]]></content>
-  </entry>
-  <entry>
     <title>Princess Kaguya</title>
     <url>/en/event_stories/princess_kaguya/</url>
     <content><![CDATA[<head>
@@ -836,697 +540,6 @@
         <tag>Kino Seitaro</tag>
         <tag>Akira</tag>
         <tag>Event Story</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Princess Kaguya — Prologue</title>
-    <url>/en/event_stories/princess_kaguya/prologue/</url>
-    <content><![CDATA[<head>
-  <link rel="stylesheet" type="text/css" href="/edit.css"  />
-  <link rel="stylesheet" type="text/css" href="/esexp.css"  />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
-</head>
-
-<div class="preview-wrapper reverse"
-  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
-  <div class="grid-wrapper">
-    <div class="preview-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1107544413837725736/1113143204208967811/IMG_0296.png')">
-    </div>
-    <div class="preview-box">
-      <div class="title-area">
-        <div class="title-area__title">Princess Kaguya</div>
-        <div class="title-area__subtitle">Prologue (プロローグ)</div>
-        <div class="title-area__start"><a href="/princess_kaguya/prologue/#1">Start Reading</a></div>
-      </div>
-      <div class="info-area">
-        <div class="synopsis">
-          The chapter starts with Hiyori revealing that this will be his last performance as an idol. The timeline then
-          goes back one week earlier, to a meeting in which the plans for the Shuffle Unit "Getto Spectacle" are
-          revealed...
-        </div>
-        <div class="info">
-          <div class="info-item season">
-            <div class="label">
-              Season
-            </div>
-            <div class="value">
-              Winter
-            </div>
-          </div>
-          <div class="info-item chapters">
-            <div class="label">
-              Chapters
-            </div>
-            <div class="value">
-              1
-            </div>
-          </div>
-          <div class="info-item writer">
-            <div class="label">
-              Writer
-            </div>
-            <div class="value">
-              Kino Seitaro with Akira
-            </div>
-          </div>
-          <div class="info-item characters">
-            <div class="label">
-              Characters
-            </div>
-            <div class="value">
-              <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
-              <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
-              <a href="/categories/Enstars/Arashi" character="Arashi"></a>
-              <a href="/categories/Enstars/Kanata" character="Kanata"></a>
-              <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
-              <a href="/categories/Enstars/Anzu" character="Anzu"></a>
-            </div>
-          </div>
-          <div class="info-item tl">
-            <div class="label">
-              Translation
-            </div>
-            <div class="value">
-              Mello
-            </div>
-          </div>
-          <div class="info-item pr">
-            <div class="label">
-              Released
-            </div>
-            <div class="value">
-              8/31/2021
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<span id="more"></span>
-
-<style>
-  .preview-wrapper {
-    /* in case jquery doesn't work */
-    display: none;
-  }
-
-  @media (max-width: 567px) {
-    /* for NexT Mashiro: makes padding smaller on mobile */
-    .post-block {
-      padding: 5px 10px 30px !important;
-    }
-  }
-</style>
-
-<h1 id="prologue">Prologue</h1>
-
-<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
-      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/get_along" title="Next"><i
-      class="fa fa-arrow-right"></i></a>
-</div>
-
-<h2 id="1">Chapter 1</h2>
-
-<div class="msr-season winter">
-  <p><span><b>Season:</b> Winter</span></p>
-</div>
-
-<div class="msr-location">
-  <p><span><b>Location:</b> Princess Kaguya Stage</span></p>
-</div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—So this is where the modern version of Princess Kaguya will take place.</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>How should I put it... It&#39;s a very creative stage.</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But, it&#39;s clear a lot of effort went into making this place.</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It is as if it were a celebration of &quot;Ohisama&quot;-san&#39;s &quot;departure&quot;—a sparkling stage.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mhm, mhm. It&#39;s a suitable place to bring our Getto Spectacle to a close!</p>
-<p>And so, it will be my—</p>
-<p>The last performance of the idol Tomoe Hiyori.</p>
-</div></div>
-
-<div class="msr-narration">
-  <p><span>One week ago. Mid-January, at the ES meeting room.</span></p>
-</div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>&quot;Shuffle Unit&quot;—&quot;Getto Spectacle.&quot;<a class="msr-fn-inline" data-tippy-content="Getto Spectacle is written as &quot;月都スペクタクル&quot;, meaning &quot;Moon Capital Spectacle&quot;, however, taking the readings of 月 (<b>get</b>su) and 都 (<b>to</b>), you obtain ゲット (getto), which means Get in English." id="fnref:1">1</a></p>
-<p>So that&#39;s the unit name that will be used for this project, Anzu.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mm. It sounds good!</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>For this Shuffle Project, we have to record on &quot;DJ Classics&quot;, a popular educational program that broadcasts modern adaptations of classic works.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I heard that we&#39;ll be in charge of reading the modern adaptation of &quot;Princess Kaguya&quot; and singing the theme song.</p>
-<p>Well, we can do that with the five of us, right?</p>
-<p>It&#39;s super <em>pretty</em> that we get to perform Princess Kaguya, isn&#39;t it, Arashi-chan!</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, it was so <em>nice</em> and <em>pretty</em> of Anzu-chan to invite us to this project!</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Stop trying to put <em>pretty</em> in every sentence.</p>
-<p>Anyway, I&#39;d like to ask Anzu how the members were chosen.</p>
-<p>Putting aside Tomoe-senpai and Narukami, I&#39;m wondering why I, Kazehaya-senpai, and Shinkai-senpai were selected.</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I am not so confident in my &quot;acting ability&quot;. I was rather hesitant when I accepted this project.</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>The script will be handed to us, won&#39;t it? I&#39;d like to check how Princess Kaguya will be performed by the five of us.</p>
-<p>Hm. &quot;Princess Kaguya will be adapted into a story about five highschool boys in modern times, and then linked to their farewell story&quot;—is it.</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I see. So, the producer of the show who came up with this project saw the &quot;OJS Boys&quot; work<a class="msr-fn-inline" data-tippy-content="This is referencing the scout story White Lily." id="fnref:2">2</a> we did, and made an offer to me and Shinkai-senpai.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>&quot;OJS Boys&quot;? Sounds like an interesting job, huh?</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It was a gravure job centered around the &quot;OJS (Prince)&quot; image.</p>
-<p>I believe StarPro often receives offers for such work.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Huuh. So it <em>was</em> an interesting job.</p>
-<p>If the job came to StarPro, it&#39;s not surprising that I had nothing to do with it. Though I would&#39;ve liked to have taken it.</p>
-<p>Well, I&#39;m always everyone&#39;s sun, so there&#39;s no need for me to be a prince!</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ufufu. Having <em>pretty</em> idols like us around might make it a good balance, don&#39;t you think?</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>So what even is this <em>pretty</em> thing?</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. It&#39;s a common code word in Pretty 5, isn&#39;t it, Arashi-chan ♪</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It certainly is a common code word, Tomoe-senpai ♪</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...I probably shouldn&#39;t dig too deep into this.</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That is right~ We are getting &quot;sidetracked&quot;.</p>
-<p>I understand that Hokuto and I were &quot;invited&quot; because of the &quot;prince&quot; work.</p>
-<p>But, Tatsumi did not become a &quot;prince&quot;, did he?</p>
-<p>Is there another &quot;reason&quot;?</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I&#39;ve been wondering about that myself.</p>
-<p>The &quot;OJS Boys&quot; work was accepted by Hiiro-san, not me. So why was I the one chosen from ALKALOID instead of him?</p>
-<p>Hm. So it&#39;s because the producer was aware of my past activities, despite the fact I had a hiatus period. I&#39;m rateful for being included.</p>
-<p>Alright then, the five of us—let us perform the modern version of Princess Kaguya together in this Shuffle Project.</p>
-<p>I would like to start practicing as soon as possible for the performance. on a leader.</p>
-<p>Would anyone like to nominate themselves?</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, yes! I would like to be the leader!</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>How very assertive of you.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But, who would be better qualified than me?</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Well, Tomoe-senpai <em>is</em> qualified, considering his achievements and experience—but I&#39;d like to hear the opinions of other members.</p>
-</div></div>
-
-<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I think it is fine~ I think someone with leadership experience would be &quot;suitable&quot; for the job.</p>
-</div></div>
-
-<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I agree. He&#39;s the leader of Eve, so I have no objections.</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Same for me, I don&#39;t see any particular problems with it.</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mhm, mhm. It seems like everyone is in agreement. Then, as the leader, I will propose a way to proceed without delay.</p>
-<p>I heard that when shooting a movie for the Shuffle Project before, the members all lived in a training camp.</p>
-<p>So, why don&#39;t we also live together in the old building at Seisoukan to enhance our sense of solidarity?</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Wha...! Living together... That&#39;s awfully sudden, Tomoe-senpai...?!</p>
-</div></div>
-
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But, let&#39;s not waste the short time we have before the performance! It&#39;s easier not to worry, so let&#39;s live together and strengthen our bond!</p>
-<p>Come on, let&#39;s pack our bags and gather around!</p>
-<p>Let&#39;s enjoy these extraordinary moments together before we return to the moon<a class="msr-fn-inline" data-tippy-content="This is a reference to the Princess Kaguya story. The name of the unit is also a reference to it, since 月の都 (Tsuki no Miyako, lit. Capital of the Moon) is the name of the moon city Princess Kaguya returns to by the end." id="fnref:3">3</a>. That&#39;s some good weather...♪</p>
-</div></div>
-
-<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
-      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/get_along" title="Next"><i
-      class="fa fa-arrow-right"></i></a>
-</div>
-
-<h1 id="Translation-Notes"><a href="#Translation-Notes" class="headerlink" title="Translation Notes"></a>Translation Notes</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> Getto Spectacle is written as &quot;月都スペクタクル&quot;, meaning &quot;Moon Capital Spectacle&quot;, however, taking the readings of 月 (<b>get</b>su) and 都 (<b>to</b>), you obtain ゲット (getto), which means Get in English.</li><li id="fn:2"><a href="#fnref:2" class="arrow">↑</a> This is referencing the scout story White Lily.</li><li id="fn:3"><a href="#fnref:3" class="arrow">↑</a> This is a reference to the Princess Kaguya story. The name of the unit is also a reference to it, since 月の都 (Tsuki no Miyako, lit. Capital of the Moon) is the name of the moon city Princess Kaguya returns to by the end.</li></ol></div>]]></content>
-  </entry>
-  <entry>
-    <title>Sex Appeal 101</title>
-    <url>/en/idol_stories/jun/sex_appeal_101/</url>
-    <content><![CDATA[<head>
-  <link rel="stylesheet" type="text/css" href="/edit.css"  />
-  <link rel="stylesheet" type="text/css" href="/esexp.css"  />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
-</head>
-
-<div class="preview-wrapper reverse" 
-  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
-  <div class="grid-wrapper">
-    <div class="preview-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1109931674353025194/latest.png')">
-    </div>
-    <div class="preview-box">
-      <div class="title-area">
-        <div class="title-area__title">Sex Appeal 101</div>
-        <div class="title-area__subtitle">色気のいろは</div>
-        <div class="title-area__start"><a href="/idol_stories/jun/sex_appeal_101/#1">Start Reading</a></div>
-      </div>
-      <div class="info-area">
-        <div class="synopsis">
-          As HiMERU is getting himself a drink from the vending machine, Jun approaches him, seeking advice for an
-          upcoming job...
-        </div>
-        <div class="info">
-          <div class="info-item season">
-            <div class="label">
-              Season
-            </div>
-            <div class="value">
-              Autumn
-            </div>
-          </div>
-          <div class="info-item chapters">
-            <div class="label">
-              Chapters
-            </div>
-            <div class="value">
-              1
-            </div>
-          </div>
-          <div class="info-item writer">
-            <div class="label">
-              Writer
-            </div>
-            <div class="value">
-              Nishioka Maiko
-            </div>
-          </div>
-          <div class="info-item characters">
-            <div class="label">
-              Characters
-            </div>
-            <div class="value">
-              <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
-              <a href="/categories/Enstars/Jun" character="Jun"></a>
-              <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
-            </div>
-          </div>
-          <div class="info-item tl">
-            <div class="label">
-              Translation
-            </div>
-            <div class="value">
-              Mello
-            </div>
-          </div>
-          <div class="info-item pr">
-            <div class="label">
-              Released
-            </div>
-            <div class="value">
-              9/25/2022
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<span id="more"></span>
-
-<style>
-  .preview-wrapper {
-    /* in case jquery doesn't work */
-    display: none;
-  }
-
-  @media (max-width: 567px) {
-
-    /* for NexT Mashiro: makes padding smaller on mobile */
-    .post-block {
-      padding: 5px 10px 30px !important;
-    }
-  }
-</style>
-
-<div class="story-wrapper mobile-reverse"
-  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
-  <div class="grid-wrapper">
-    <div class="story-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1109931674931843162/latest.png')">
-    </div>
-    <div class="story-box">
-      <div class="story-cover">
-        <div><img src="https://cdn.discordapp.com/attachments/1108310788436938793/1109931674613067846/latest.png">
-        </div>
-      </div>
-      <div class="title-area">
-        <div class="title-area__title">Sex Appeal 101</div>
-        <div class="title-area__subtitle">色気のいろは</div>
-        <div class="title-area__start">
-          <a href="#1">Start Reading</a>
-        </div>
-      </div>
-      <div class="info-area">
-        <div class="synopsis">
-          As HiMERU is getting himself a drink from the vending machine, Jun approaches him, seeking advice for an
-          upcoming job...
-        </div>
-        <div class="info">
-          <div class="info-item season">
-            <div class="label">
-              Season
-            </div>
-            <div class="value">
-              Autumn
-            </div>
-          </div>
-          <div class="info-item chapters">
-            <div class="label">
-              Chapters
-            </div>
-            <div class="value">
-              1
-            </div>
-          </div>
-          <div class="info-item writer">
-            <div class="label">
-              Writer
-            </div>
-            <div class="value">
-              Nishioka Maiko
-            </div>
-          </div>
-          <div class="info-item characters">
-            <div class="label">
-              Characters
-            </div>
-            <div class="value">
-              <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
-              <a href="/categories/Enstars/Jun" character="Jun"></a>
-              <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
-            </div>
-          </div>
-          <div class="info-item tl">
-            <div class="label">
-              Translation
-            </div>
-            <div class="value">
-              Mello
-            </div>
-          </div>
-          <div class="info-item pr">
-            <div class="label">
-              Release
-            </div>
-            <div class="value">
-              12/25/2022
-            </div>
-          </div>
-        </div>
-        <div class="extra-area">
-          <div class="tab-header">
-            <div class="tab-header__name">Extra Information</div>
-          </div>
-          <div class="tab-content">
-            <div class="tab-item">
-              <div class="label">
-                Scout
-              </div>
-              <div class="value">
-                Rei Feature Scout 2
-              </div>
-            </div>
-            <div class="tab-item">
-              <div class="label">
-                Scout Duration
-              </div>
-              <div class="value">
-                9/25/2022 (15:00 JST) - 10/10/2022 (15:00 JST)
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="story-cards">
-          <div class="tab-header">
-            <div class="tab-header__name">Associated Cards</div>
-          </div>
-          <div class="tab-content">
-            <div class="cards">
-              <div class="cards-item">
-                <div class="image">
-                  <div class="single unbloomed">
-                    <img
-                      src="https://cdn.discordapp.com/attachments/1108310788436938793/1109937118760931428/28Eye-catching_Mannerisms29_Jun_Sazanami_M.png">
-                  </div>
-                  <div class="single bloomed">
-                    <img
-                      src="https://cdn.discordapp.com/attachments/1108310788436938793/1109937119096488107/28Eye-catching_Mannerisms29_Jun_Sazanami_M_Bloomed.png">
-                  </div>
-                </div>
-                <div class="lightbox">
-                  <div class="card__name">[Eye-Catching Mannerisms] Jun Sazanami</div>
-                  <div class="card__jp">[気になる仕草] 漣 ジュン</div>
-                  <div class="skills">
-                    <ul>
-                      <li id="center">
-                        <div class="name">The Innermost Secrets Of Gesturing</div>
-                        <div class="desc">Increases the Vocal of Brilliant cards</div>
-                      </li>
-                      <li id="live">
-                        <div class="name">Crash Course On Sexiness</div>
-                        <div class="desc">Increases the score</div>
-                      </li>
-                      <li id="support">
-                        <div class="name">Observations On Sex Appeal</div>
-                        <div class="desc">Increases the drop rate of Small Blue Stat Pieces</div>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="chapter-area">
-        <div class="chapters">
-          <ul>
-            <span>Sex Appeal 101</span>
-            <a href="#1">1</a>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script> <!-- IMPORTANT! removes story preview -->
-  $(document).ready(function () {
-    $('.preview-wrapper').remove();
-  }
-  )
-</script>
-
-<h1 id="1">Sex Appeal 101</h1>
-
-<div class="msr-season autumn">
-  <p><span><b>Season:</b> Autumn</span></p>
-</div>
-
-<div class="msr-location">
-  <p><span><b>Location:</b> Break Room</span></p>
-</div>
-
-<div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Mm? Why doesn&#39;t it come out, even after pressing the button? Could it be broken—</p>
-<p>—Ah, the Coke is sold out. HiMERU didn&#39;t notice the button lighting up.</p>
-<p><span class="thought">(As HiMERU, he <em>should</em> buy Coke... Well, if it&#39;s sold out, so be it. He&#39;ll just have to  settle for something else...)</span></p>
-<p><span class="thought">(Then, a black coffee.)</span></p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Phew.</p>
-<p><span class="thought">(It feels unlucky to be unable to get what he was planning to buy.)</span></p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Mm?</p>
-</div></div>
-
-<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...... <em>(Staring at HiMERU)</em></p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Sazanami, if you were there, couldn&#39;t you at least have said hello? What are you even doing? HiMERU dislikes to be stared at like that...</p>
-<p>It&#39;s impolite to begin with. Ah, maybe it&#39;s HiMERU&#39;s fault for expecting manners, when you&#39;re a stray dog.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yeah, yeah. Sorry &#39;bout that. I&#39;m a stray dog with no manners.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Well, I <em>do</em> feel bad about staring without calling out to you. I was just curious.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>? What exactly were you curious about?</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>HiMERU&#39;s always had somethin&#39; like that, right? Pheromones<a class="msr-fn-inline" data-tippy-content="No, not omegaverse-type pheromones. 😭 I didn&apos;t know people thought that until I saw it get spread under a tweet. It&apos;s more akin to &quot;sexy vibes&quot;." id="fnref:1">1</a>, I guess. It&#39;s like you&#39;re always giving &#39;em off.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" cough><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Bwuh?! —Cough! Cough-?!</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ahem— Haah. What are you saying, all of a sudden? Did you hit your head? HiMERU is giving off no such thing.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p> No, no. You definitely are. Like, the other day I saw you on the cover of a gravure magazine?</p>
-<p>The one with the blurb about sex appeal. The ad was displayed all over the station building.</p>
-<p>In that volume, didn&#39;t they call you one of the sexiest idols in the industry?</p>
-<p>Besides. Just now, I thought it when I was staring at you. Even if you&#39;re just buying a drink from the vending machine, every gesture you make is so attractive. I think that <em>must</em> be sex appeal.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—... What is wrong with you today? You&#39;re being awfully complimentary. Are you scheming something? HiMERU will not be deceived.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" apologetic><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I just give honest praise when I think something&#39;s good. What do you think I am?</p>
-</div></div>
-<div class=msr-unit character="Jun" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I mean. There <em>is</em> a good reason. The truth is, I have a job coming up soon that isn&#39;t my usual type of work. </p>
-<p>It&#39;s for a magazine, it seems they wanna contrast me as a highschooler against me as a grown-up.</p>
-<p>I thought it&#39;d be a good gap if I could create a mature atmosphere.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm... So that&#39;s why you brought it up.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I don&#39;t have much confidence in that area. I was looking at you to see if I could pick up on some of your tricks.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—From HiMERU&#39;s point of view, Sazanami seems to be sufficient. With that said, if you don&#39;t think you&#39;re cut out for it, then you shouldn&#39;t push yourself.</p>
-<p>It&#39;s possible to take any number of different approaches within your own category of expertise.</p>
-<p>Everyone has strengths and weaknesses. Why force yourself to use something you&#39;re not good at as a weapon?</p>
-</div></div>
-
-<div class=msr-unit character="Jun" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That may be true. But I also don&#39;t like leaving my weaknesses as-is. I feel like my growth as an idol would stop there.</p>
-<p>Plus, a new weapon would broaden my range.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm. HiMERU understands your feelings. And, well, he doesn&#39;t dislike that kind of self-discipline. That said, HiMERU isn&#39;t sure if he&#39;s the right person to ask for advice.</p>
-<p>......</p>
-<p>...HiMERU has heard that people who practice tea ceremony and figure skating have beautiful gestures. That&#39;s because they&#39;re aware of their nerves all the way down to their fingertips, they say.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(HiMERU can&#39;t really tell what Sazanami is talking about.)</span></p>
-<p><span class="thought">(HiMERU wore away at his nerves down to his fingertips in pursuing his goal of becoming the perfect idol, so that any third-party would see him as such.)</span></p>
-<p><span class="thought">(Could his advice really help Sazanami...?)</span></p>
-</div></div>
-
-<div class=msr-unit character="Jun" thinking><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ohh, I got it. It&#39;s true that I never thought about moving in that way.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Being aware down to your fingertips... Umm. Somethin&#39; like this? I&#39;ll brush up my hair...</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>......</p>
-<p>—Sazanami. You&#39;re forcing it a little too much.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Try to be more natural, like this...</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Huuh. As I thought, you&#39;re really good at it. Like an expert.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Like he said, HiMERU doesn&#39;t do this on purpose.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fine, fine. Isn&#39;t it good? I&#39;m complimentin&#39; you.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Uhh, how &#39;bout this?</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm~m. Your hand gesture is good, but the rest is too sloppy. How about showing the nape of your neck a little more?</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" smug2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Take for example... this.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I see...! Like this?</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, no. More. That won&#39;t catch people&#39;s eyes. Be sexier! Flaunt yourself!</p>
-</div></div>
-
-<div class=msr-unit character="Jun" worried><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Gh... This&#39;s hard.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smug><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>How &#39;bout this?</p>
-</div></div>
-
-<div class=msr-unit character="Kohaku" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>What the hell are y&#39;all even doin&#39;...?</p>
-</div></div>
-
-<div class=msr-unit character="Jun" surprise><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>S-Sakura-kun?!</p>
-</div></div>
-
-<div class=msr-unit character="Kohaku" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hrmm... Hmm...? <em>(Staring them up and down)</em></p>
-<p>What y&#39;all do is yer business. But even if you were bein&#39; discreet, it&#39;s so lame that y&#39;all&#39;re posin&#39; around with yer hair up in the break room.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" distress><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s not it...! This is a misunderstanding, Oukawa!</p>
-</div></div>
-
-<div class=msr-unit character="Jun" distraught><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s right! This&#39;s like a special training session! I was just gettin&#39; some tips from HiMERU!</p>
-</div></div>
-
-<div class=msr-unit character="Kohaku" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Riiight. You&#39;re puttin&#39; so much effort into yer special narcissist trainin&#39;. Then I can&#39;t interfere any longer. I&#39;m leavin&#39;, so keep at it~</p>
-</div></div>
-
-<div class=msr-unit character="Jun" surprise><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Narcissist?! Gaaah! That&#39;s not right either! Wait up! Please hear me out!</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>HiMERU&#39;s going after him, Sazanami! It&#39;s not right for Oukawa to maintain such a disgraceful misunderstanding!</p>
-</div></div>
-
-<div class=msr-unit character="Jun" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s my line! Please wait, Sakura-kun!</p>
-</div></div>
-
-<h1 id="Translation-Notes"><a href="#Translation-Notes" class="headerlink" title="Translation Notes"></a>Translation Notes</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> No, not omegaverse-type pheromones. 😭 I didn't know people thought that until I saw it get spread under a tweet. It's more akin to &quot;sexy vibes&quot;.</li></ol></div>]]></content>
-      <categories>
-        <category>Enstars</category>
-        <category>HiMERU</category>
-        <category>Jun</category>
-        <category>Kohaku</category>
-      </categories>
-      <tags>
-        <tag>Nishioka Maiko</tag>
-        <tag>Idol Story</tag>
       </tags>
   </entry>
   <entry>
@@ -3477,8 +2490,8 @@
       </tags>
   </entry>
   <entry>
-    <title>Tatsumi&#39;s 2022 Birthday</title>
-    <url>/en/idol_stories/tatsumi/birthday_2022/</url>
+    <title>Sex Appeal 101</title>
+    <url>/en/idol_stories/jun/sex_appeal_101/</url>
     <content><![CDATA[<head>
   <link rel="stylesheet" type="text/css" href="/edit.css"  />
   <link rel="stylesheet" type="text/css" href="/esexp.css"  />
@@ -3487,34 +2500,30 @@
   <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
 </head>
 
-<div class="preview-wrapper reverse"
+<div class="preview-wrapper reverse" 
   style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
   <div class="grid-wrapper">
     <div class="preview-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1112489701392269402/IMG_0276.png')">
+      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1109931674353025194/latest.png')">
     </div>
     <div class="preview-box">
       <div class="title-area">
-        <div class="title-area__title">Tatsumi's 2022 Birthday Party</div>
-        <div class="title-area__start"><a href="/idol_stories/tatsumi/birthday_2022/#1">Start Reading</a></div>
+        <div class="title-area__title">Sex Appeal 101</div>
+        <div class="title-area__subtitle">色気のいろは</div>
+        <div class="title-area__start"><a href="/idol_stories/jun/sex_appeal_101/#1">Start Reading</a></div>
       </div>
       <div class="info-area">
         <div class="synopsis">
-          <i>
-            <center style="
-            color: #409775;
-        ">"Something I want… is it? The best gift I could get is to be celebrated, so nothing comes to mind
-              right
-              now."</center>
-          </i>
+          As HiMERU is getting himself a drink from the vending machine, Jun approaches him, seeking advice for an
+          upcoming job...
         </div>
         <div class="info">
           <div class="info-item season">
             <div class="label">
-              Date
+              Season
             </div>
             <div class="value">
-              December 28th
+              Autumn
             </div>
           </div>
           <div class="info-item chapters">
@@ -3522,7 +2531,7 @@
               Chapters
             </div>
             <div class="value">
-              5
+              1
             </div>
           </div>
           <div class="info-item writer">
@@ -3530,7 +2539,7 @@
               Writer
             </div>
             <div class="value">
-              Happy Elements K.K
+              Nishioka Maiko
             </div>
           </div>
           <div class="info-item characters">
@@ -3538,12 +2547,9 @@
               Characters
             </div>
             <div class="value">
-              <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
+              <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
               <a href="/categories/Enstars/Jun" character="Jun"></a>
-              <a href="/categories/Enstars/Hajime" character="Hajime"></a>
-              <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
-              <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
-              <a href="/categories/Enstars/Anzu" character="Anzu"></a>
+              <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
             </div>
           </div>
           <div class="info-item tl">
@@ -3559,7 +2565,7 @@
               Released
             </div>
             <div class="value">
-              12/28/2022
+              9/25/2022
             </div>
           </div>
         </div>
@@ -3567,7 +2573,6 @@
     </div>
   </div>
 </div>
-
 
 <span id="more"></span>
 
@@ -3590,37 +2595,32 @@
   style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
   <div class="grid-wrapper">
     <div class="story-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1112490454764765214/IMG_0278.png')">
+      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1109931674931843162/latest.png')">
     </div>
     <div class="story-box">
       <div class="story-cover">
-        <div><img src="https://cdn.discordapp.com/attachments/1108310788436938793/1112489701392269402/IMG_0276.png"
-            style="object-fit: fill;">
+        <div><img src="https://cdn.discordapp.com/attachments/1108310788436938793/1109931674613067846/latest.png">
         </div>
       </div>
       <div class="title-area">
-        <div class="title-area__title">Tatsumi's 2022 Birthday Party</div>
+        <div class="title-area__title">Sex Appeal 101</div>
+        <div class="title-area__subtitle">色気のいろは</div>
         <div class="title-area__start">
           <a href="#1">Start Reading</a>
         </div>
       </div>
       <div class="info-area">
         <div class="synopsis">
-          <i>
-            <center style="
-            color: #409775;
-        ">"Something I want… is it? The best gift I could get is to be celebrated, so nothing comes to mind
-              right
-              now."</center>
-          </i>
+          As HiMERU is getting himself a drink from the vending machine, Jun approaches him, seeking advice for an
+          upcoming job...
         </div>
         <div class="info">
           <div class="info-item season">
             <div class="label">
-              Date
+              Season
             </div>
             <div class="value">
-              December 28th
+              Autumn
             </div>
           </div>
           <div class="info-item chapters">
@@ -3628,7 +2628,7 @@
               Chapters
             </div>
             <div class="value">
-              5
+              1
             </div>
           </div>
           <div class="info-item writer">
@@ -3636,7 +2636,640 @@
               Writer
             </div>
             <div class="value">
-              Happy Elements K.K
+              Nishioka Maiko
+            </div>
+          </div>
+          <div class="info-item characters">
+            <div class="label">
+              Characters
+            </div>
+            <div class="value">
+              <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
+              <a href="/categories/Enstars/Jun" character="Jun"></a>
+              <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
+            </div>
+          </div>
+          <div class="info-item tl">
+            <div class="label">
+              Translation
+            </div>
+            <div class="value">
+              Mello
+            </div>
+          </div>
+          <div class="info-item pr">
+            <div class="label">
+              Release
+            </div>
+            <div class="value">
+              12/25/2022
+            </div>
+          </div>
+        </div>
+        <div class="extra-area">
+          <div class="tab-header">
+            <div class="tab-header__name">Extra Information</div>
+          </div>
+          <div class="tab-content">
+            <div class="tab-item">
+              <div class="label">
+                Scout
+              </div>
+              <div class="value">
+                Rei Feature Scout 2
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="label">
+                Scout Duration
+              </div>
+              <div class="value">
+                9/25/2022 (15:00 JST) - 10/10/2022 (15:00 JST)
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="story-cards">
+          <div class="tab-header">
+            <div class="tab-header__name">Associated Cards</div>
+          </div>
+          <div class="tab-content">
+            <div class="cards">
+              <div class="cards-item">
+                <div class="image">
+                  <div class="single unbloomed">
+                    <img
+                      src="https://cdn.discordapp.com/attachments/1108310788436938793/1109937118760931428/28Eye-catching_Mannerisms29_Jun_Sazanami_M.png">
+                  </div>
+                  <div class="single bloomed">
+                    <img
+                      src="https://cdn.discordapp.com/attachments/1108310788436938793/1109937119096488107/28Eye-catching_Mannerisms29_Jun_Sazanami_M_Bloomed.png">
+                  </div>
+                </div>
+                <div class="lightbox">
+                  <div class="card__name">[Eye-Catching Mannerisms] Jun Sazanami</div>
+                  <div class="card__jp">[気になる仕草] 漣 ジュン</div>
+                  <div class="skills">
+                    <ul>
+                      <li id="center">
+                        <div class="name">The Innermost Secrets Of Gesturing</div>
+                        <div class="desc">Increases the Vocal of Brilliant cards</div>
+                      </li>
+                      <li id="live">
+                        <div class="name">Crash Course On Sexiness</div>
+                        <div class="desc">Increases the score</div>
+                      </li>
+                      <li id="support">
+                        <div class="name">Observations On Sex Appeal</div>
+                        <div class="desc">Increases the drop rate of Small Blue Stat Pieces</div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-area">
+        <div class="chapters">
+          <ul>
+            <span>Sex Appeal 101</span>
+            <a href="#1">1</a>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script> <!-- IMPORTANT! removes story preview -->
+  $(document).ready(function () {
+    $('.preview-wrapper').remove();
+  }
+  )
+</script>
+
+<h1 id="1">Sex Appeal 101</h1>
+
+<div class="msr-season autumn">
+  <p><span><b>Season:</b> Autumn</span></p>
+</div>
+
+<div class="msr-location">
+  <p><span><b>Location:</b> Break Room</span></p>
+</div>
+
+<div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Mm? Why doesn&#39;t it come out, even after pressing the button? Could it be broken—</p>
+<p>—Ah, the Coke is sold out. HiMERU didn&#39;t notice the button lighting up.</p>
+<p><span class="thought">(As HiMERU, he <em>should</em> buy Coke... Well, if it&#39;s sold out, so be it. He&#39;ll just have to  settle for something else...)</span></p>
+<p><span class="thought">(Then, a black coffee.)</span></p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Phew.</p>
+<p><span class="thought">(It feels unlucky to be unable to get what he was planning to buy.)</span></p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Mm?</p>
+</div></div>
+
+<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...... <em>(Staring at HiMERU)</em></p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Sazanami, if you were there, couldn&#39;t you at least have said hello? What are you even doing? HiMERU dislikes to be stared at like that...</p>
+<p>It&#39;s impolite to begin with. Ah, maybe it&#39;s HiMERU&#39;s fault for expecting manners, when you&#39;re a stray dog.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yeah, yeah. Sorry &#39;bout that. I&#39;m a stray dog with no manners.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Well, I <em>do</em> feel bad about staring without calling out to you. I was just curious.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>? What exactly were you curious about?</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>HiMERU&#39;s always had somethin&#39; like that, right? Pheromones<a class="msr-fn-inline" data-tippy-content="No, not omegaverse-type pheromones. 😭 I didn&apos;t know people thought that until I saw it get spread under a tweet. It&apos;s more akin to &quot;sexy vibes&quot;." id="fnref:1">1</a>, I guess. It&#39;s like you&#39;re always giving &#39;em off.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" cough><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Bwuh?! —Cough! Cough-?!</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ahem— Haah. What are you saying, all of a sudden? Did you hit your head? HiMERU is giving off no such thing.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p> No, no. You definitely are. Like, the other day I saw you on the cover of a gravure magazine?</p>
+<p>The one with the blurb about sex appeal. The ad was displayed all over the station building.</p>
+<p>In that volume, didn&#39;t they call you one of the sexiest idols in the industry?</p>
+<p>Besides. Just now, I thought it when I was staring at you. Even if you&#39;re just buying a drink from the vending machine, every gesture you make is so attractive. I think that <em>must</em> be sex appeal.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—... What is wrong with you today? You&#39;re being awfully complimentary. Are you scheming something? HiMERU will not be deceived.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" apologetic><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I just give honest praise when I think something&#39;s good. What do you think I am?</p>
+</div></div>
+<div class=msr-unit character="Jun" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I mean. There <em>is</em> a good reason. The truth is, I have a job coming up soon that isn&#39;t my usual type of work. </p>
+<p>It&#39;s for a magazine, it seems they wanna contrast me as a highschooler against me as a grown-up.</p>
+<p>I thought it&#39;d be a good gap if I could create a mature atmosphere.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm... So that&#39;s why you brought it up.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I don&#39;t have much confidence in that area. I was looking at you to see if I could pick up on some of your tricks.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—From HiMERU&#39;s point of view, Sazanami seems to be sufficient. With that said, if you don&#39;t think you&#39;re cut out for it, then you shouldn&#39;t push yourself.</p>
+<p>It&#39;s possible to take any number of different approaches within your own category of expertise.</p>
+<p>Everyone has strengths and weaknesses. Why force yourself to use something you&#39;re not good at as a weapon?</p>
+</div></div>
+
+<div class=msr-unit character="Jun" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That may be true. But I also don&#39;t like leaving my weaknesses as-is. I feel like my growth as an idol would stop there.</p>
+<p>Plus, a new weapon would broaden my range.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm. HiMERU understands your feelings. And, well, he doesn&#39;t dislike that kind of self-discipline. That said, HiMERU isn&#39;t sure if he&#39;s the right person to ask for advice.</p>
+<p>......</p>
+<p>...HiMERU has heard that people who practice tea ceremony and figure skating have beautiful gestures. That&#39;s because they&#39;re aware of their nerves all the way down to their fingertips, they say.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(HiMERU can&#39;t really tell what Sazanami is talking about.)</span></p>
+<p><span class="thought">(HiMERU wore away at his nerves down to his fingertips in pursuing his goal of becoming the perfect idol, so that any third-party would see him as such.)</span></p>
+<p><span class="thought">(Could his advice really help Sazanami...?)</span></p>
+</div></div>
+
+<div class=msr-unit character="Jun" thinking><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ohh, I got it. It&#39;s true that I never thought about moving in that way.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Being aware down to your fingertips... Umm. Somethin&#39; like this? I&#39;ll brush up my hair...</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>......</p>
+<p>—Sazanami. You&#39;re forcing it a little too much.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Try to be more natural, like this...</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Huuh. As I thought, you&#39;re really good at it. Like an expert.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Like he said, HiMERU doesn&#39;t do this on purpose.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fine, fine. Isn&#39;t it good? I&#39;m complimentin&#39; you.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Uhh, how &#39;bout this?</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm~m. Your hand gesture is good, but the rest is too sloppy. How about showing the nape of your neck a little more?</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" smug2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Take for example... this.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I see...! Like this?</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, no. More. That won&#39;t catch people&#39;s eyes. Be sexier! Flaunt yourself!</p>
+</div></div>
+
+<div class=msr-unit character="Jun" worried><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Gh... This&#39;s hard.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smug><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>How &#39;bout this?</p>
+</div></div>
+
+<div class=msr-unit character="Kohaku" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>What the hell are y&#39;all even doin&#39;...?</p>
+</div></div>
+
+<div class=msr-unit character="Jun" surprise><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>S-Sakura-kun?!</p>
+</div></div>
+
+<div class=msr-unit character="Kohaku" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hrmm... Hmm...? <em>(Staring them up and down)</em></p>
+<p>What y&#39;all do is yer business. But even if you were bein&#39; discreet, it&#39;s so lame that y&#39;all&#39;re posin&#39; around with yer hair up in the break room.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" distress><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s not it...! This is a misunderstanding, Oukawa!</p>
+</div></div>
+
+<div class=msr-unit character="Jun" distraught><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s right! This&#39;s like a special training session! I was just gettin&#39; some tips from HiMERU!</p>
+</div></div>
+
+<div class=msr-unit character="Kohaku" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Riiight. You&#39;re puttin&#39; so much effort into yer special narcissist trainin&#39;. Then I can&#39;t interfere any longer. I&#39;m leavin&#39;, so keep at it~</p>
+</div></div>
+
+<div class=msr-unit character="Jun" surprise><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Narcissist?! Gaaah! That&#39;s not right either! Wait up! Please hear me out!</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>HiMERU&#39;s going after him, Sazanami! It&#39;s not right for Oukawa to maintain such a disgraceful misunderstanding!</p>
+</div></div>
+
+<div class=msr-unit character="Jun" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s my line! Please wait, Sakura-kun!</p>
+</div></div>
+
+<h1 id="Translation-Notes"><a href="#Translation-Notes" class="headerlink" title="Translation Notes"></a>Translation Notes</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> No, not omegaverse-type pheromones. 😭 I didn't know people thought that until I saw it get spread under a tweet. It's more akin to &quot;sexy vibes&quot;.</li></ol></div>]]></content>
+      <categories>
+        <category>Enstars</category>
+        <category>HiMERU</category>
+        <category>Jun</category>
+        <category>Kohaku</category>
+      </categories>
+      <tags>
+        <tag>Nishioka Maiko</tag>
+        <tag>Idol Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Princess Kaguya — Get Along</title>
+    <url>/en/event_stories/princess_kaguya/get_along/</url>
+    <content><![CDATA[<head>
+  <link rel="stylesheet" type="text/css" href="/edit.css"  />
+  <link rel="stylesheet" type="text/css" href="/esexp.css"  />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
+</head>
+
+<div class="preview-wrapper reverse"
+  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
+  <div class="grid-wrapper">
+    <div class="preview-background"
+      style="background-image: url('https://cdn.discordapp.com/attachments/1107544413837725736/1107555605822050354/latest.png')">
+    </div>
+    <div class="preview-box">
+      <div class="title-area">
+        <div class="title-area__title">Princess Kaguya</div>
+        <div class="title-area__subtitle">Get Along</div>
+        <div class="title-area__start"><a href="/princess_kaguya/get_along/#1">Start Reading</a></div>
+      </div>
+      <div class="info-area">
+        <div class="synopsis">
+          The members of Getto Spectacle begin living together in ALKALOID's former room at Seisoukan's old building. To
+          prepare themselves for their performance, they decide to come up with "wishes" to fulfill during the week.
+          However, living together proves to be difficult...
+        </div>
+        <div class="info">
+          <div class="info-item season">
+            <div class="label">
+              Season
+            </div>
+            <div class="value">
+              Winter
+            </div>
+          </div>
+          <div class="info-item chapters">
+            <div class="label">
+              Chapters
+            </div>
+            <div class="value">
+              7
+            </div>
+          </div>
+          <div class="info-item writer">
+            <div class="label">
+              Writer
+            </div>
+            <div class="value">
+              Kino Seitaro with Akira
+            </div>
+          </div>
+          <div class="info-item characters">
+            <div class="label">
+              Characters
+            </div>
+            <div class="value">
+              <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
+              <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+              <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
+              <a href="/categories/Enstars/Arashi" character="Arashi"></a>
+              <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
+            </div>
+          </div>
+          <div class="info-item tl">
+            <div class="label">
+              Translation
+            </div>
+            <div class="value">
+              Mello
+            </div>
+          </div>
+          <div class="info-item pr">
+            <div class="label">
+              Released
+            </div>
+            <div class="value">
+              8/31/2021
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<span id="more"></span>
+
+<style>
+  .preview-wrapper {
+    /* in case jquery doesn't work */
+    display: none;
+  }
+
+  @media (max-width: 567px) {
+
+    /* for NexT Mashiro: makes padding smaller on mobile */
+    .post-block {
+      padding: 5px 10px 30px !important;
+    }
+  }
+</style>
+
+<h1 id="get_along">Get Along</h1>
+
+<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya/prologue" title="Previous"><i
+      class="fa fa-arrow-left"></i></a><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
+      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/one_night_spectacle" title="Next"><i
+      class="fa fa-arrow-right"></i></a>
+</div>
+
+<h2 id="1">Chapter 1</h2>
+
+<div class="msr-location">
+  <p><span><b>Location:</b> Old Seisoukan Building</span></p>
+</div>
+
+<div class="msr-narration">
+  <p><span>An hour later.</span></p>
+</div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>So this is the room where ALKALOID spent time in the old building.</p>
+<p>It&#39;s very neat and clean. I expected something more old-fashioned from the name of the old building. It&#39;s a fine place to live in for a few days.</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>The water from the &quot;shower&quot; is running too~ It looks like I will not have trouble &quot;bathing&quot; from now on.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. What kind of room were you both imagining?</p>
+<p>Even though it&#39;s an old building, it&#39;s still occasionally used for programs such as &quot;Bogie Time&quot;. It seems to be cleaned frequently by a cleaning company.</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ufufu. Then it&#39;s perfect for our training camp ♪</p>
+<p>But I was in a hurry &#39;cause you just didn&#39;t give us enough time to prepare! I had to rush to bring my makeup and beauty products from my dorm room!</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Though that&#39;s also an important attitude to keep in mind when performing &quot;Princess Kaguya&quot;! The reading drama is a story about making a friend&#39;s &quot;wish&quot; come true right on the day of graduation—</p>
+<p>As a part of fleshing out the characters, we need to be able to handle these kinds of unreasonable demands<a class="msr-fn-inline" data-tippy-content="The phrasing of “unreasonable demands” is a reference to Princess Kaguya, since in the story, she gives her suitors impossible tasks to complete for her hand in marriage." id="fnref:1">1</a>, don&#39;t we?</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh my. It seems like Tomoe-senpai quickly went into work mode.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>He&#39;s quite strict. It appears we won&#39;t be able to relax from now on.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Really? I think this much is to be expected of an ES idol—</p>
+<p>...I know. I have a good idea, will you listen to it?</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>A good idea, you say?</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yup. Since we&#39;re going to live together to prepare for our roles, why don&#39;t we all write our &quot;wishes&quot; on a piece of paper?</p>
+<p>We will make everyone&#39;s &quot;wishes&quot; come true one by one—this way, we can deepen our relationships through resolution!</p>
+<p>So, there you have it. I&#39;ve already written it down on a notepad, so I&#39;ll announce mine first!</p>
+<p>As the leader, I want to make this Shuffle Project a success. That&#39;s my &quot;wish&quot; ☆</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hm. It&#39;s a good initiative. It will help us make the most of the short time we have before the performance.</p>
+<p>Well then, here&#39;s what I wrote—&quot;I want to help grant Hokuto-san&#39;s wish.&quot; How&#39;s that?</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>My wish...?</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes. I did terrible things to you during the SS preliminaries in Hokkaido. It would make me happy to be able to atone for them.</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No need, Kazehaya-senpai. Don&#39;t worry about that.</p>
+<p>It was a competition. For ALKALOID to beat us Trickstar, you needed to use any means at your disposal.</p>
+<p>I&#39;m in favor of granting wishes, but I don&#39;t want you to make assumptions about my feelings.</p>
+<p>Even though we&#39;re in a temporary unit, we&#39;re all working toward the same goal now, aren&#39;t we?</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hokuto-san—I appreciate your thoughtfulness.</p>
+<p>Then, shall I come up with another &quot;wish&quot; for myself? Of course, I&#39;d like to take this opportunity to do good deeds, without taking advantage of Hokuto-san&#39;s kindness.</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. Tatsumi and Hokuto seem to be &quot;good friends&quot; already, I&#39;m envious.</p>
+<p>&quot;Shuffle Units&quot; are made up of people who have less &quot;interaction&quot; with each other than in regular &quot;units&quot;~ So granting each other&#39;s &quot;wishes&quot; is not a bad idea.</p>
+<p>I am used to making &quot;wishes&quot; come true, am I not?</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>? Somehow it feels like there might be a hidden meaning in your words... Perhaps you have some experience in volunteer work?</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. I do not ♪</p>
+<p>Well then, my wish is to &quot;take a &quot;bath&quot; with everyone&quot; ♪</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>A bath in the winter...? It&#39;d be better to do it in, like, a hot spring or something, or else we&#39;d catch a cold.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But even that kind of unreasonable thing is fine! Compared to Princess Kaguya&#39;s unreasonable demands, it&#39;s not unattainable—</p>
+<p>Does anyone else want to share their &quot;wish&quot;? Don&#39;t hesitate to speak up ♪</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ufufu. Alright, I&#39;ll announce mine next.</p>
+<p>&quot;I want to dress everyone up in cute matching outfits&quot;... How&#39;s that ♪</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Matching...?</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yup. It&#39;s better to have a wish that can&#39;t be easily granted, isn&#39;t it? I really wanted to take this chance and make everyone look pretty!</p>
+<p>I think all the seniors and Hokuto-chan have the potential for it ♪ So please please pleeease ♪</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>U-Um, I see. I don&#39;t want to imagine it too much, but I suppose it&#39;s all for the sake of the role.</p>
+</div></div>
+
+<p><img
+  src="https://64.media.tumblr.com/ed07e68141a1e41074edbbc4c9b9d9ae/f1321e46ece9189e-cf/s1280x1920/e598f2db7e912e61dc52812f00bdf60202ec5166.png"></p>
+<div class=msr-unit character="Hokuto" kh1><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Then, I will also announce my &quot;wish&quot;.</p>
+<p>My wish is: &quot;I want to make this the best broadcast in the history of the program.&quot; After all, I want to devote my utmost effort to doing this.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mm~ That&#39;s a given, don&#39;t you think? Since we&#39;re going out of our way to imitate Princess Kaguya, you should make it a more challenging &quot;wish&quot;!</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. I think it would be challenging enough just to get the five of us to be in sync.</p>
+<p>Mutual understanding is not easy—that is why we find joy in communicating with each other.</p>
+<p>Therefore. My &quot;wish&quot; is that we all &quot;become friends who are able to share our feelings and worries with each other&quot; ♪</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hmm. That&#39;s pretty vague... Welp, it&#39;s fine, there&#39;s nothing more unproductive than forcing people to create problems they don&#39;t have—</p>
+<p>And like I said, my wish is to lead this Shuffle Project into success.</p>
+<p>Fufu. Let us live together from today forth! My dear friends of Getto Spectacle!</p>
+</div></div>
+
+<h2 id="2">Chapter 2</h2>
+
+<div class="msr-location">
+  <p><span><b>Location:</b> Old Seisoukan Building</span></p>
+</div>
+
+<div class="msr-narration">
+  <p><span>That night.</span></p>
+</div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Now that we have decided on the bathing schedule and the division of household chores, let&#39;s finally decide on the beds for each of us.</p>
+<p>Since there are two bunk beds, only one person will have to use a futon on the floor—</p>
+<p>If it&#39;s alright with you, I&#39;ll sleep on the futon, so please decide where you all want to sleep.</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No. I&#39;ll take the floor.</p>
+<p>When I stayed overnight at school, I often slept on the floor.</p>
+<p>Also, I&#39;ve been wondering since the SS preliminaries in Hokkaido, but your leg isn&#39;t completely healed, is it?</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>My apologies. Your concern is greatly appreciated.</p>
+<p>If it&#39;s about that old injury, there&#39;s nothing to worry about. But since you&#39;re generously offering me a bed, I shall take the bottom bunk.</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Then, I will take the &quot;top bunk&quot;~♪ If I do not feel the steam of the &quot;humidifier&quot;, I will &quot;dry up&quot;.</p>
+<p>&quot;Ohisama&quot;-san will also take a &quot;top bunk&quot;, right?</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Of course! As the leader, I want to be in a position where I can watch over everyone ♪</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. Then I&#39;ll take the other bottom bunk.</p>
+<p>Now that all the assignments have been decided smoothly, let&#39;s enjoy our life living together from today ♪</p>
+</div></div>
+
+<div class="msr-narration">
+  <p><span>Two hours later.</span></p>
+</div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Excuse me, Kanata-san. Could you please leave the bath soon?</p>
+<p>I&#39;m the last one, so I don&#39;t mind having to do it later, but it&#39;s going to be bedtime if you don&#39;t finish taking your bath shortly.</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Wah, is it already this &quot;late&quot;?</p>
+<p>I am sorry, for taking a long &quot;bath&quot;...♪</p>
+<p>Puka, puka... splaaash...♪</p>
+</div></div>
+
+
+
+
+
+
+
+
+<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya/prologue" title="Previous"><i
+      class="fa fa-arrow-left"></i></a><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
+      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/one_night_spectacle" title="Next"><i
+      class="fa fa-arrow-right"></i></a>
+</div>
+
+<h1 id="Translation-Notes"><a href="#Translation-Notes" class="headerlink" title="Translation Notes"></a>Translation Notes</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> The phrasing of “unreasonable demands” is a reference to Princess Kaguya, since in the story, she gives her suitors impossible tasks to complete for her hand in marriage.</li></ol></div>]]></content>
+  </entry>
+  <entry>
+    <title>Princess Kaguya — Prologue</title>
+    <url>/en/event_stories/princess_kaguya/prologue/</url>
+    <content><![CDATA[<head>
+  <link rel="stylesheet" type="text/css" href="/edit.css"  />
+  <link rel="stylesheet" type="text/css" href="/esexp.css"  />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
+</head>
+
+<div class="preview-wrapper reverse"
+  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
+  <div class="grid-wrapper">
+    <div class="preview-background"
+      style="background-image: url('https://cdn.discordapp.com/attachments/1107544413837725736/1113143204208967811/IMG_0296.png')">
+    </div>
+    <div class="preview-box">
+      <div class="title-area">
+        <div class="title-area__title">Princess Kaguya</div>
+        <div class="title-area__subtitle">Prologue (プロローグ)</div>
+        <div class="title-area__start"><a href="/princess_kaguya/prologue/#1">Start Reading</a></div>
+      </div>
+      <div class="info-area">
+        <div class="synopsis">
+          The chapter starts with Hiyori revealing that this will be his last performance as an idol. The timeline then
+          goes back one week earlier, to a meeting in which the plans for the Shuffle Unit "Getto Spectacle" are
+          revealed...
+        </div>
+        <div class="info">
+          <div class="info-item season">
+            <div class="label">
+              Season
+            </div>
+            <div class="value">
+              Winter
+            </div>
+          </div>
+          <div class="info-item chapters">
+            <div class="label">
+              Chapters
+            </div>
+            <div class="value">
+              1
+            </div>
+          </div>
+          <div class="info-item writer">
+            <div class="label">
+              Writer
+            </div>
+            <div class="value">
+              Kino Seitaro with Akira
             </div>
           </div>
           <div class="info-item characters">
@@ -3645,10 +3278,10 @@
             </div>
             <div class="value">
               <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
-              <a href="/categories/Enstars/Jun" character="Jun"></a>
-              <a href="/categories/Enstars/Hajime" character="Hajime"></a>
-              <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
               <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
+              <a href="/categories/Enstars/Arashi" character="Arashi"></a>
+              <a href="/categories/Enstars/Kanata" character="Kanata"></a>
+              <a href="/categories/Enstars/Hiyori" character="Hiyori"></a>
               <a href="/categories/Enstars/Anzu" character="Anzu"></a>
             </div>
           </div>
@@ -3665,35 +3298,7 @@
               Released
             </div>
             <div class="value">
-              12/28/2022
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="chapter-area">
-        <div class="chapters">
-          <ul>
-            <span>Opening Speech</span>
-            <a href="#1">1</a>
-            <span>Food Talk</span>
-            <a href="#2">1</a>
-            <span>Presents from ES Idols</span>
-            <a href="#3">1</a>
-            <span>Wishes from ES Idols</span>
-            <a href="#4">1</a>
-            <span>Closing Speech</span>
-            <a href="#5">1</a>
-          </ul>
-        </div>
-        <div class="mini-talks">
-          <div class="mini-talk">
-            <div class="mt-header">Party Event</div>
-            <div class="mt-content">
-              <div class="item">
-                <a href="#6">1</a>
-                <a href="#7">2</a>
-                <a href="#8">3</a>
-              </div>
+              8/31/2021
             </div>
           </div>
         </div>
@@ -3702,197 +3307,174 @@
   </div>
 </div>
 
-<script> <!-- IMPORTANT! removes story preview -->
-  $(document).ready(function () {
-    $('.preview-wrapper').remove();
+<span id="more"></span>
+
+<style>
+  .preview-wrapper {
+    /* in case jquery doesn't work */
+    display: none;
   }
-  )
-</script>
 
-<h1 id="1">Opening Speech</h1>
+  @media (max-width: 567px) {
+    /* for NexT Mashiro: makes padding smaller on mobile */
+    .post-block {
+      padding: 5px 10px 30px !important;
+    }
+  }
+</style>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Everyone, thank you for coming to the party today.</p>
-<p>I feel honored that so many people showed up in such a busy end of the year season.</p>
-<p>I will make an effort to make this a happy time for all of you who have gathered here.</p>
-<p>Well then, please enjoy yourselves...♪</p>
-</div></div>
+<h1 id="prologue">Prologue</h1>
 
-<h1 id="2">Food Talk</h1>
-
-<div class=msr-unit character="Jun"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Tatsumi-senpai. Once again, happy birthday...♪</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Jun-san, thank you very much. I hope that you enjoy this party.</p>
-</div></div>
-
-<div class=msr-unit character="Jun"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, thank you so much!</p>
-<p>But I mean, are you really havin&#39; a good time? Aren&#39;t you always worrying about other people?</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu, just the fact that Jun-san came to congratulate me is enough for me...</p>
-<p>I know. If you could indulge one selfish request, how about having a cup of tea and talking with me again?</p>
-</div></div>
-
-<div class=msr-unit character="Jun"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Haha, that&#39;s nothin&#39; compared to Ohii-san&#39;s selfishness~ If it&#39;s okay with you, I&#39;d be glad to ♪</p>
-</div></div>
-
-<h1 id="3">Presents from ES Idols</h1>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I never thought I would receive so many gifts... It makes me very happy. Let&#39;s open one of them.</p>
-</div></div>
-
-<div class=msr-unit character="Hajime"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah, Kazehaya-senpai. That&#39;s my present...♪</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Aah, so it was from Hajime-san. Thank you very much.</p>
-<p>It seems to be very light... Are these tea leaves?</p>
-</div></div>
-
-<div class=msr-unit character="Hajime"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes. This is a gift from me inspired by Senpai&#39;s image...♪</p>
-<p>I couldn&#39;t figure out what to pick, so I ended up with something fishy...</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s not true. This is a very special present to me. I will take good care of it...♪</p>
-</div></div>
-
-<h1 id="4">Wishes from ES Idols</h1>
-
-<div class=msr-unit character="Hiiro"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Tatsumi-senpai! This is a very nice party. Everybody seems to be having a good time, and the whole place seems filled with happiness.</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, it has a pleasant atmosphere. I suppose it&#39;s also because of Kazehaya-senpai&#39;s personality.</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hiiro-san, Hokuto-san, thank you very much. I am very happy to hear you say that...♪</p>
-</div></div>
-
-<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah, happy birthday, Kazehaya-senpai. Let&#39;s continue to compete with each other as units of StarPro.</p>
-</div></div>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. Once again, thank you, Hokuto-san. I hope to perform with everyone from Trickstar again ♪</p>
-</div></div>
-
-<div class=msr-unit character="Hiiro"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Umu! I&#39;m looking forward to the day when I can sing with Trickstar as well!</p>
-</div></div>
-
-<h1 id="5">Closing Speech</h1>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Everyone, did you enjoy today&#39;s party?</p>
-<p>...Fufu, it feels like I&#39;m asking you to answer, &quot;I enjoyed it.&quot; I don&#39;t want to force an answer.</p>
-<p>At least, I really enjoyed it. I enjoyed the food, the conversation, and the gifts. It made me very happy.</p>
-<p>Now, I would like to do my best to return the happiness I have received from you all. I&#39;ll be looking forward to it...♪</p>
-</div></div>
-
-<h1 id="beginning">Party Event</h1>
-
-<h2 id="6">Minitalk 1</h2>
-
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Anzu-san. I would like to thank you very much for organizing this party today.</p>
-<p>The decorations, the food... I can&#39;t thank you enough for having prepared all of this for me.</p>
-<p>Anzu-san, please enjoy yourself as well.</p>
-</div></div>
-
-<div class="minitalk" character="Anzu">
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Please accept this.
-        </div>
-        <div class="minitalk-option_content">
-            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Thank you very much, Anzu-san. Fufu, it&#39;s a cute stuffed bear ♪</p>
-<p>Do I just put this on my clothes? Understood. I&#39;ll put it on now, please wait a moment.
-            </p>
-</div></div>
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            By the way, I got you a present...
-        </div>
-        <div class="minitalk-option_content">
-            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh, this is... Is this the stuffed animal that all the birthday people were  wearing?</p>
-<p>Thank you very much. Please let me thank you again...♪
-            </p>
-</div></div>
-        </div>
-    </div>
+<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
+      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/get_along" title="Next"><i
+      class="fa fa-arrow-right"></i></a>
 </div>
 
-<h2 id="7">Minitalk 2</h2>
+<h2 id="1">Chapter 1</h2>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh, Anzu-san. Can I help you?</p>
-<p>Ah, so you came to check on me.</p>
-<p>Rest assured, there&#39;s nothing to worry about. On the contrary, I am very happy that people from the same office and circles came to congratulate me.</p>
-</div></div>
-
-<div class="minitalk" character="Anzu">
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Have you eaten the food?
-        </div>
-        <div class="minitalk-option_content">
-            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, I just ate with everyone from ALKALOID.</p>
-<p>All the dishes were delicious. Even Aira-san, who has a small appetite, ate a lot today ♪
-            </p>
-</div></div>
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Have you seen the presents?
-        </div>
-        <div class="minitalk-option_content">
-            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, I was just about to go and see them. Would you like to join me, Anzu-san?</p>
-<p>Fufu, I can&#39;t wait to see what presents they have for me ♪
-            </p>
-</div></div>
-        </div>
-    </div>
+<div class="msr-season winter">
+  <p><span><b>Season:</b> Winter</span></p>
 </div>
 
-<h2 id="8">Minitalk 3</h2>
+<div class="msr-location">
+  <p><span><b>Location:</b> Princess Kaguya Stage</span></p>
+</div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Aah, Anzu-san. No, I&#39;m just trying to remember everything about today. It really was a great party.</p>
-<p>Not only did I get to celebrate with everyone, but they all seemed to be having a good time.</p>
-<p>It was the kind of party that made me feel happy just to be there.</p>
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—So this is where the modern version of Princess Kaguya will take place.</p>
 </div></div>
 
-<div class="minitalk" character="Anzu">
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            I'm happy you enjoyed it.
-        </div>
-        <div class="minitalk-option_content">
-            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, it&#39;s a wonderful memory. I&#39;ll be able to sleep with a warm feeling tonight.</p>
-<p>I will repay this favor through my work...♪
-            </p>
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>How should I put it... It&#39;s a very creative stage.</p>
 </div></div>
-        </div>
-    </div>
-    <div class="minitalk-option">
-        <div class="minitalk-option_header">
-            Next year, too...
-        </div>
-        <div class="minitalk-option_content">
-            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu, right now it&#39;s too early to talk about next year... I would be happy to celebrate like this again next year ♪</p>
-<p>For this purpose, I will continue my efforts as a member of ALKALOID. Anzu-san, thank you for everything you do for me.
-            </p>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But, it&#39;s clear a lot of effort went into making this place.</p>
 </div></div>
-        </div>
-    </div>
-</div>]]></content>
-      <categories>
-        <category>Enstars</category>
-        <category>Tatsumi</category>
-        <category>Jun</category>
-        <category>Hajime</category>
-        <category>Hokuto</category>
-        <category>Hiiro</category>
-        <category>Anzu</category>
-      </categories>
-      <tags>
-        <tag>Happy Elements K.K</tag>
-        <tag>Birthday Story</tag>
-      </tags>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It is as if it were a celebration of &quot;Ohisama&quot;-san&#39;s &quot;departure&quot;—a sparkling stage.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mhm, mhm. It&#39;s a suitable place to bring our Getto Spectacle to a close!</p>
+<p>And so, it will be my—</p>
+<p>The last performance of the idol Tomoe Hiyori.</p>
+</div></div>
+
+<div class="msr-narration">
+  <p><span>One week ago. Mid-January, at the ES meeting room.</span></p>
+</div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>&quot;Shuffle Unit&quot;—&quot;Getto Spectacle.&quot;<a class="msr-fn-inline" data-tippy-content="Getto Spectacle is written as &quot;月都スペクタクル&quot;, meaning &quot;Moon Capital Spectacle&quot;, however, taking the readings of 月 (<b>get</b>su) and 都 (<b>to</b>), you obtain ゲット (getto), which means Get in English." id="fnref:1">1</a></p>
+<p>So that&#39;s the unit name that will be used for this project, Anzu.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mm. It sounds good!</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>For this Shuffle Project, we have to record on &quot;DJ Classics&quot;, a popular educational program that broadcasts modern adaptations of classic works.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I heard that we&#39;ll be in charge of reading the modern adaptation of &quot;Princess Kaguya&quot; and singing the theme song.</p>
+<p>Well, we can do that with the five of us, right?</p>
+<p>It&#39;s super <em>pretty</em> that we get to perform Princess Kaguya, isn&#39;t it, Arashi-chan!</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, it was so <em>nice</em> and <em>pretty</em> of Anzu-chan to invite us to this project!</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Stop trying to put <em>pretty</em> in every sentence.</p>
+<p>Anyway, I&#39;d like to ask Anzu how the members were chosen.</p>
+<p>Putting aside Tomoe-senpai and Narukami, I&#39;m wondering why I, Kazehaya-senpai, and Shinkai-senpai were selected.</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I am not so confident in my &quot;acting ability&quot;. I was rather hesitant when I accepted this project.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>The script will be handed to us, won&#39;t it? I&#39;d like to check how Princess Kaguya will be performed by the five of us.</p>
+<p>Hm. &quot;Princess Kaguya will be adapted into a story about five highschool boys in modern times, and then linked to their farewell story&quot;—is it.</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I see. So, the producer of the show who came up with this project saw the &quot;OJS Boys&quot; work<a class="msr-fn-inline" data-tippy-content="This is referencing the scout story White Lily." id="fnref:2">2</a> we did, and made an offer to me and Shinkai-senpai.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>&quot;OJS Boys&quot;? Sounds like an interesting job, huh?</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It was a gravure job centered around the &quot;OJS (Prince)&quot; image.</p>
+<p>I believe StarPro often receives offers for such work.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Huuh. So it <em>was</em> an interesting job.</p>
+<p>If the job came to StarPro, it&#39;s not surprising that I had nothing to do with it. Though I would&#39;ve liked to have taken it.</p>
+<p>Well, I&#39;m always everyone&#39;s sun, so there&#39;s no need for me to be a prince!</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ufufu. Having <em>pretty</em> idols like us around might make it a good balance, don&#39;t you think?</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>So what even is this <em>pretty</em> thing?</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. It&#39;s a common code word in Pretty 5, isn&#39;t it, Arashi-chan ♪</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It certainly is a common code word, Tomoe-senpai ♪</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...I probably shouldn&#39;t dig too deep into this.</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That is right~ We are getting &quot;sidetracked&quot;.</p>
+<p>I understand that Hokuto and I were &quot;invited&quot; because of the &quot;prince&quot; work.</p>
+<p>But, Tatsumi did not become a &quot;prince&quot;, did he?</p>
+<p>Is there another &quot;reason&quot;?</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I&#39;ve been wondering about that myself.</p>
+<p>The &quot;OJS Boys&quot; work was accepted by Hiiro-san, not me. So why was I the one chosen from ALKALOID instead of him?</p>
+<p>Hm. So it&#39;s because the producer was aware of my past activities, despite the fact I had a hiatus period. I&#39;m rateful for being included.</p>
+<p>Alright then, the five of us—let us perform the modern version of Princess Kaguya together in this Shuffle Project.</p>
+<p>I would like to start practicing as soon as possible for the performance. on a leader.</p>
+<p>Would anyone like to nominate themselves?</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, yes! I would like to be the leader!</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>How very assertive of you.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But, who would be better qualified than me?</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Well, Tomoe-senpai <em>is</em> qualified, considering his achievements and experience—but I&#39;d like to hear the opinions of other members.</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I think it is fine~ I think someone with leadership experience would be &quot;suitable&quot; for the job.</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I agree. He&#39;s the leader of Eve, so I have no objections.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Same for me, I don&#39;t see any particular problems with it.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mhm, mhm. It seems like everyone is in agreement. Then, as the leader, I will propose a way to proceed without delay.</p>
+<p>I heard that when shooting a movie for the Shuffle Project before, the members all lived in a training camp.</p>
+<p>So, why don&#39;t we also live together in the old building at Seisoukan to enhance our sense of solidarity?</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Wha...! Living together... That&#39;s awfully sudden, Tomoe-senpai...?!</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But, let&#39;s not waste the short time we have before the performance! It&#39;s easier not to worry, so let&#39;s live together and strengthen our bond!</p>
+<p>Come on, let&#39;s pack our bags and gather around!</p>
+<p>Let&#39;s enjoy these extraordinary moments together before we return to the moon<a class="msr-fn-inline" data-tippy-content="This is a reference to the Princess Kaguya story. The name of the unit is also a reference to it, since 月の都 (Tsuki no Miyako, lit. Capital of the Moon) is the name of the moon city Princess Kaguya returns to by the end." id="fnref:3">3</a>. That&#39;s some good weather...♪</p>
+</div></div>
+
+<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
+      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/get_along" title="Next"><i
+      class="fa fa-arrow-right"></i></a>
+</div>
+
+<h1 id="Translation-Notes"><a href="#Translation-Notes" class="headerlink" title="Translation Notes"></a>Translation Notes</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> Getto Spectacle is written as &quot;月都スペクタクル&quot;, meaning &quot;Moon Capital Spectacle&quot;, however, taking the readings of 月 (<b>get</b>su) and 都 (<b>to</b>), you obtain ゲット (getto), which means Get in English.</li><li id="fn:2"><a href="#fnref:2" class="arrow">↑</a> This is referencing the scout story White Lily.</li><li id="fn:3"><a href="#fnref:3" class="arrow">↑</a> This is a reference to the Princess Kaguya story. The name of the unit is also a reference to it, since 月の都 (Tsuki no Miyako, lit. Capital of the Moon) is the name of the moon city Princess Kaguya returns to by the end.</li></ol></div>]]></content>
   </entry>
   <entry>
     <title>Introducción al Sex Appeal</title>
@@ -4314,6 +3896,424 @@
 </div></div>
 
 <h1 id="Notas-de-Traduccion"><a href="#Notas-de-Traduccion" class="headerlink" title="Notas de Traducción"></a>Notas de Traducción</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> El gravure es un género en Japón de fotos provocativas.</li></ol></div>]]></content>
+  </entry>
+  <entry>
+    <title>Tatsumi&#39;s 2022 Birthday</title>
+    <url>/en/idol_stories/tatsumi/birthday_2022/</url>
+    <content><![CDATA[<head>
+  <link rel="stylesheet" type="text/css" href="/edit.css"  />
+  <link rel="stylesheet" type="text/css" href="/esexp.css"  />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
+</head>
+
+<div class="preview-wrapper reverse"
+  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
+  <div class="grid-wrapper">
+    <div class="preview-background"
+      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1112489701392269402/IMG_0276.png')">
+    </div>
+    <div class="preview-box">
+      <div class="title-area">
+        <div class="title-area__title">Tatsumi's 2022 Birthday Party</div>
+        <div class="title-area__start"><a href="/idol_stories/tatsumi/birthday_2022/#1">Start Reading</a></div>
+      </div>
+      <div class="info-area">
+        <div class="synopsis">
+          <i>
+            <center style="
+            color: #409775;
+        ">"Something I want… is it? The best gift I could get is to be celebrated, so nothing comes to mind
+              right
+              now."</center>
+          </i>
+        </div>
+        <div class="info">
+          <div class="info-item season">
+            <div class="label">
+              Date
+            </div>
+            <div class="value">
+              December 28th
+            </div>
+          </div>
+          <div class="info-item chapters">
+            <div class="label">
+              Chapters
+            </div>
+            <div class="value">
+              5
+            </div>
+          </div>
+          <div class="info-item writer">
+            <div class="label">
+              Writer
+            </div>
+            <div class="value">
+              Happy Elements K.K
+            </div>
+          </div>
+          <div class="info-item characters">
+            <div class="label">
+              Characters
+            </div>
+            <div class="value">
+              <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
+              <a href="/categories/Enstars/Jun" character="Jun"></a>
+              <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+              <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
+              <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
+              <a href="/categories/Enstars/Anzu" character="Anzu"></a>
+            </div>
+          </div>
+          <div class="info-item tl">
+            <div class="label">
+              Translation
+            </div>
+            <div class="value">
+              Mello
+            </div>
+          </div>
+          <div class="info-item pr">
+            <div class="label">
+              Released
+            </div>
+            <div class="value">
+              12/28/2022
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<span id="more"></span>
+
+<style>
+  .preview-wrapper {
+    /* in case jquery doesn't work */
+    display: none;
+  }
+
+  @media (max-width: 567px) {
+
+    /* for NexT Mashiro: makes padding smaller on mobile */
+    .post-block {
+      padding: 5px 10px 30px !important;
+    }
+  }
+</style>
+
+<div class="story-wrapper mobile-reverse"
+  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
+  <div class="grid-wrapper">
+    <div class="story-background"
+      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1112490454764765214/IMG_0278.png')">
+    </div>
+    <div class="story-box">
+      <div class="story-cover">
+        <div><img src="https://cdn.discordapp.com/attachments/1108310788436938793/1112489701392269402/IMG_0276.png"
+            style="object-fit: fill;">
+        </div>
+      </div>
+      <div class="title-area">
+        <div class="title-area__title">Tatsumi's 2022 Birthday Party</div>
+        <div class="title-area__start">
+          <a href="#1">Start Reading</a>
+        </div>
+      </div>
+      <div class="info-area">
+        <div class="synopsis">
+          <i>
+            <center style="
+            color: #409775;
+        ">"Something I want… is it? The best gift I could get is to be celebrated, so nothing comes to mind
+              right
+              now."</center>
+          </i>
+        </div>
+        <div class="info">
+          <div class="info-item season">
+            <div class="label">
+              Date
+            </div>
+            <div class="value">
+              December 28th
+            </div>
+          </div>
+          <div class="info-item chapters">
+            <div class="label">
+              Chapters
+            </div>
+            <div class="value">
+              5
+            </div>
+          </div>
+          <div class="info-item writer">
+            <div class="label">
+              Writer
+            </div>
+            <div class="value">
+              Happy Elements K.K
+            </div>
+          </div>
+          <div class="info-item characters">
+            <div class="label">
+              Characters
+            </div>
+            <div class="value">
+              <a href="/categories/Enstars/Tatsumi" character="Tatsumi"></a>
+              <a href="/categories/Enstars/Jun" character="Jun"></a>
+              <a href="/categories/Enstars/Hajime" character="Hajime"></a>
+              <a href="/categories/Enstars/Hiiro" character="Hiiro"></a>
+              <a href="/categories/Enstars/Hokuto" character="Hokuto"></a>
+              <a href="/categories/Enstars/Anzu" character="Anzu"></a>
+            </div>
+          </div>
+          <div class="info-item tl">
+            <div class="label">
+              Translation
+            </div>
+            <div class="value">
+              Mello
+            </div>
+          </div>
+          <div class="info-item pr">
+            <div class="label">
+              Released
+            </div>
+            <div class="value">
+              12/28/2022
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-area">
+        <div class="chapters">
+          <ul>
+            <span>Opening Speech</span>
+            <a href="#1">1</a>
+            <span>Food Talk</span>
+            <a href="#2">1</a>
+            <span>Presents from ES Idols</span>
+            <a href="#3">1</a>
+            <span>Wishes from ES Idols</span>
+            <a href="#4">1</a>
+            <span>Closing Speech</span>
+            <a href="#5">1</a>
+          </ul>
+        </div>
+        <div class="mini-talks">
+          <div class="mini-talk">
+            <div class="mt-header">Party Event</div>
+            <div class="mt-content">
+              <div class="item">
+                <a href="#6">1</a>
+                <a href="#7">2</a>
+                <a href="#8">3</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script> <!-- IMPORTANT! removes story preview -->
+  $(document).ready(function () {
+    $('.preview-wrapper').remove();
+  }
+  )
+</script>
+
+<h1 id="1">Opening Speech</h1>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Everyone, thank you for coming to the party today.</p>
+<p>I feel honored that so many people showed up in such a busy end of the year season.</p>
+<p>I will make an effort to make this a happy time for all of you who have gathered here.</p>
+<p>Well then, please enjoy yourselves...♪</p>
+</div></div>
+
+<h1 id="2">Food Talk</h1>
+
+<div class=msr-unit character="Jun"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Tatsumi-senpai. Once again, happy birthday...♪</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Jun-san, thank you very much. I hope that you enjoy this party.</p>
+</div></div>
+
+<div class=msr-unit character="Jun"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, thank you so much!</p>
+<p>But I mean, are you really havin&#39; a good time? Aren&#39;t you always worrying about other people?</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu, just the fact that Jun-san came to congratulate me is enough for me...</p>
+<p>I know. If you could indulge one selfish request, how about having a cup of tea and talking with me again?</p>
+</div></div>
+
+<div class=msr-unit character="Jun"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Haha, that&#39;s nothin&#39; compared to Ohii-san&#39;s selfishness~ If it&#39;s okay with you, I&#39;d be glad to ♪</p>
+</div></div>
+
+<h1 id="3">Presents from ES Idols</h1>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I never thought I would receive so many gifts... It makes me very happy. Let&#39;s open one of them.</p>
+</div></div>
+
+<div class=msr-unit character="Hajime"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah, Kazehaya-senpai. That&#39;s my present...♪</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Aah, so it was from Hajime-san. Thank you very much.</p>
+<p>It seems to be very light... Are these tea leaves?</p>
+</div></div>
+
+<div class=msr-unit character="Hajime"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes. This is a gift from me inspired by Senpai&#39;s image...♪</p>
+<p>I couldn&#39;t figure out what to pick, so I ended up with something fishy...</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s not true. This is a very special present to me. I will take good care of it...♪</p>
+</div></div>
+
+<h1 id="4">Wishes from ES Idols</h1>
+
+<div class=msr-unit character="Hiiro"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Tatsumi-senpai! This is a very nice party. Everybody seems to be having a good time, and the whole place seems filled with happiness.</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, it has a pleasant atmosphere. I suppose it&#39;s also because of Kazehaya-senpai&#39;s personality.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hiiro-san, Hokuto-san, thank you very much. I am very happy to hear you say that...♪</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah, happy birthday, Kazehaya-senpai. Let&#39;s continue to compete with each other as units of StarPro.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu. Once again, thank you, Hokuto-san. I hope to perform with everyone from Trickstar again ♪</p>
+</div></div>
+
+<div class=msr-unit character="Hiiro"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Umu! I&#39;m looking forward to the day when I can sing with Trickstar as well!</p>
+</div></div>
+
+<h1 id="5">Closing Speech</h1>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Everyone, did you enjoy today&#39;s party?</p>
+<p>...Fufu, it feels like I&#39;m asking you to answer, &quot;I enjoyed it.&quot; I don&#39;t want to force an answer.</p>
+<p>At least, I really enjoyed it. I enjoyed the food, the conversation, and the gifts. It made me very happy.</p>
+<p>Now, I would like to do my best to return the happiness I have received from you all. I&#39;ll be looking forward to it...♪</p>
+</div></div>
+
+<h1 id="beginning">Party Event</h1>
+
+<h2 id="6">Minitalk 1</h2>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Anzu-san. I would like to thank you very much for organizing this party today.</p>
+<p>The decorations, the food... I can&#39;t thank you enough for having prepared all of this for me.</p>
+<p>Anzu-san, please enjoy yourself as well.</p>
+</div></div>
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Please accept this.
+        </div>
+        <div class="minitalk-option_content">
+            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Thank you very much, Anzu-san. Fufu, it&#39;s a cute stuffed bear ♪</p>
+<p>Do I just put this on my clothes? Understood. I&#39;ll put it on now, please wait a moment.
+            </p>
+</div></div>
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            By the way, I got you a present...
+        </div>
+        <div class="minitalk-option_content">
+            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh, this is... Is this the stuffed animal that all the birthday people were  wearing?</p>
+<p>Thank you very much. Please let me thank you again...♪
+            </p>
+</div></div>
+        </div>
+    </div>
+</div>
+
+<h2 id="7">Minitalk 2</h2>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh, Anzu-san. Can I help you?</p>
+<p>Ah, so you came to check on me.</p>
+<p>Rest assured, there&#39;s nothing to worry about. On the contrary, I am very happy that people from the same office and circles came to congratulate me.</p>
+</div></div>
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Have you eaten the food?
+        </div>
+        <div class="minitalk-option_content">
+            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, I just ate with everyone from ALKALOID.</p>
+<p>All the dishes were delicious. Even Aira-san, who has a small appetite, ate a lot today ♪
+            </p>
+</div></div>
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Have you seen the presents?
+        </div>
+        <div class="minitalk-option_content">
+            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, I was just about to go and see them. Would you like to join me, Anzu-san?</p>
+<p>Fufu, I can&#39;t wait to see what presents they have for me ♪
+            </p>
+</div></div>
+        </div>
+    </div>
+</div>
+
+<h2 id="8">Minitalk 3</h2>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Aah, Anzu-san. No, I&#39;m just trying to remember everything about today. It really was a great party.</p>
+<p>Not only did I get to celebrate with everyone, but they all seemed to be having a good time.</p>
+<p>It was the kind of party that made me feel happy just to be there.</p>
+</div></div>
+
+<div class="minitalk" character="Anzu">
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            I'm happy you enjoyed it.
+        </div>
+        <div class="minitalk-option_content">
+            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, it&#39;s a wonderful memory. I&#39;ll be able to sleep with a warm feeling tonight.</p>
+<p>I will repay this favor through my work...♪
+            </p>
+</div></div>
+        </div>
+    </div>
+    <div class="minitalk-option">
+        <div class="minitalk-option_header">
+            Next year, too...
+        </div>
+        <div class="minitalk-option_content">
+            <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu, right now it&#39;s too early to talk about next year... I would be happy to celebrate like this again next year ♪</p>
+<p>For this purpose, I will continue my efforts as a member of ALKALOID. Anzu-san, thank you for everything you do for me.
+            </p>
+</div></div>
+        </div>
+    </div>
+</div>]]></content>
+      <categories>
+        <category>Enstars</category>
+        <category>Tatsumi</category>
+        <category>Jun</category>
+        <category>Hajime</category>
+        <category>Hokuto</category>
+        <category>Hiiro</category>
+        <category>Anzu</category>
+      </categories>
+      <tags>
+        <tag>Happy Elements K.K</tag>
+        <tag>Birthday Story</tag>
+      </tags>
   </entry>
   <entry>
     <title>Seeing Off, Sent Off In The Morning</title>
@@ -4763,8 +4763,8 @@
         <category>Hiyori</category>
       </categories>
       <tags>
-        <tag>Idol Story</tag>
         <tag>Chitose Umeda</tag>
+        <tag>Idol Story</tag>
       </tags>
   </entry>
 </search>
