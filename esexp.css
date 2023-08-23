@@ -142,12 +142,64 @@
   /** Hiyori Expressions
   ***/
   
+  [character="Hiyori"][autism] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/autism.png");
+  }
+
+  [character="Hiyori"][dejected] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/dejected.png");
+  }
+
+  [character="Hiyori"][disappointed] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/disappointed.png");
+  }
+
+  [character="Hiyori"][distraught] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/distraught.png");
+  }
+
+  [character="Hiyori"][distress] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/distress.png");
+  }
+
   [character="Hiyori"][kh1] {
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/kh1.png");
   }
   
   [character="Hiyori"][kh2] {
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/kh2.png");
+  }
+
+  [character="Hiyori"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/neutral.png");
+  }
+
+  [character="Hiyori"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/smile.png");
+  }
+
+  [character="Hiyori"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/smile2.png");
+  }
+
+  [character="Hiyori"][smile3] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/smile3.png");
+  }
+
+  [character="Hiyori"][smile4] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/smile4.png");
+  }
+
+  [character="Hiyori"][thinking] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/thinking.png");
+  }
+
+  [character="Hiyori"][thinking2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/thinking2.png");
+  }
+
+  [character="Hiyori"][yare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/hiyori/yare.png");
   }
   
   /** Hokuto Expressions
@@ -308,6 +360,14 @@
   [character="Tatsumi"][aaa] {
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/aaa.png");
   }
+
+  [character="Tatsumi"][apologetic] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/apologetic.png");
+  }
+
+  [character="Tatsumi"][autism] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/autism.png");
+  }
   
   [character="Tatsumi"][kh1] {
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/kh1.png");
@@ -321,6 +381,38 @@
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/libb.png");
   }
   
+  [character="Tatsumi"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/neutral.png");
+  }
+
+  [character="Tatsumi"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/smile.png");
+  }
+
+  [character="Tatsumi"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/smile2.png");
+  }
+
+  [character="Tatsumi"][smile3] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/smile3.png");
+  }
+
+  [character="Tatsumi"][smile4] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/smile4.png");
+  }
+
+  [character="Tatsumi"][smile5] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/smile5.png");
+  }
+
+  [character="Tatsumi"][thinking] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/thinking.png");
+  }
+
+  [character="Tatsumi"][thinking2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/thinking2.png");
+  }
+
   /** Tomoya and others
   ***/
   /** With Aira

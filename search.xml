@@ -28,7 +28,7 @@
       <div class="title-area">
         <div class="title-area__title">Princess Kaguya</div>
         <div class="title-area__subtitle">かぐや姫 (Kaguya-hime)</div>
-        <div class="title-area__start"><a href="event_stories/princess_kaguya/prologue/#1">Start Reading</a></div>
+        <div class="title-area__start"><a href="/en/event_stories/princess_kaguya/prologue/#1">Start Reading</a></div>
       </div>
       <div class="info-area">
         <div class="synopsis">
@@ -129,7 +129,7 @@
         <div class="title-area__title">Princess Kaguya</div>
         <div class="title-area__subtitle">かぐや姫 (Kaguya-hime)</div>
         <div class="title-area__start">
-          <a href="/event_stories/princess_kaguya/prologue/#1">Start Reading</a>
+          <a href="/en/event_stories/princess_kaguya/prologue/#1">Start Reading</a>
         </div>
       </div>
       <div class="info-area">
@@ -488,30 +488,30 @@
           <ul>
             <li>
               <span>Prologue</span>
-              <a href="/event_stories/princess_kaguya/prologue#1">1</a>
+              <a href="/en/event_stories/princess_kaguya/prologue#1">1</a>
             </li>
             <li>
               <span>Get Along</span>
-              <a href="/event_stories/princess_kaguya/get_along#1">1</a>
-              <a href="/event_stories/princess_kaguya/get_along#2">2</a>
-              <a href="/event_stories/princess_kaguya/get_along#3">3</a>
-              <a href="/event_stories/princess_kaguya/get_along#4">4</a>
-              <a href="/event_stories/princess_kaguya/get_along#5">5</a>
-              <a href="/event_stories/princess_kaguya/get_along#6">6</a>
-              <a href="/event_stories/princess_kaguya/get_along#7">7</a>
+              <a href="/en/event_stories/princess_kaguya/get_along#1">1</a>
+              <a href="/en/event_stories/princess_kaguya/get_along#2">2</a>
+              <a href="/en/event_stories/princess_kaguya/get_along#3">3</a>
+              <a href="/en/event_stories/princess_kaguya/get_along#4">4</a>
+              <a href="/en/event_stories/princess_kaguya/get_along#5">5</a>
+              <a href="/en/event_stories/princess_kaguya/get_along#6">6</a>
+              <a href="/en/event_stories/princess_kaguya/get_along#7">7</a>
             </li>
             <li>
               <span>One Night Spectacle</span>
-              <a href="/event_stories/princess_kaguya/one_night_spectacle#1">1</a>
-              <a href="/event_stories/princess_kaguya/one_night_spectacle#2">2</a>
-              <a href="/event_stories/princess_kaguya/one_night_spectacle#3">3</a>
-              <a href="/event_stories/princess_kaguya/one_night_spectacle#4">4</a>
+              <a href="/en/event_stories/princess_kaguya/one_night_spectacle#1">1</a>
+              <a href="/en/event_stories/princess_kaguya/one_night_spectacle#2">2</a>
+              <a href="/en/event_stories/princess_kaguya/one_night_spectacle#3">3</a>
+              <a href="/en/event_stories/princess_kaguya/one_night_spectacle#4">4</a>
             </li>
             <li>
               <span>Epilogue</span>
-              <a href="/event_stories/event_stories//princess_kaguya/epilogue#1">1</a>
-              <a href="/event_stories/princess_kaguya/epilogue#2">2</a>
-              <a href="/event_stories/princess_kaguya/epilogue#3">3</a>
+              <a href="/en/event_stories/event_stories//princess_kaguya/epilogue#1">1</a>
+              <a href="/en/event_stories/princess_kaguya/epilogue#2">2</a>
+              <a href="/en/event_stories/princess_kaguya/epilogue#3">3</a>
             </li>
           </ul>
         </div>
@@ -2510,7 +2510,7 @@
       <div class="title-area">
         <div class="title-area__title">Sex Appeal 101</div>
         <div class="title-area__subtitle">色気のいろは</div>
-        <div class="title-area__start"><a href="/idol_stories/jun/sex_appeal_101/#1">Start Reading</a></div>
+        <div class="title-area__start"><a href="/en/idol_stories/jun/sex_appeal_101/#1">Start Reading</a></div>
       </div>
       <div class="info-area">
         <div class="synopsis">
@@ -2760,6 +2760,7 @@
   <p><span><b>Location:</b> Break Room</span></p>
 </div>
 
+<p><img src="https://cdn.jsdelivr.net/gh/toujokaname/images@main/posts/sxap101/IMG_1747.jpg"></p>
 <div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Mm? Why doesn&#39;t it come out, even after pressing the button? Could it be broken—</p>
 <p>—Ah, the Coke is sold out. HiMERU didn&#39;t notice the button lighting up.</p>
 <p><span class="thought">(As HiMERU, he <em>should</em> buy Coke... Well, if it&#39;s sold out, so be it. He&#39;ll just have to  settle for something else...)</span></p>
@@ -2943,7 +2944,7 @@
       <div class="title-area">
         <div class="title-area__title">Princess Kaguya</div>
         <div class="title-area__subtitle">Get Along</div>
-        <div class="title-area__start"><a href="/princess_kaguya/get_along/#1">Start Reading</a></div>
+        <div class="title-area__start"><a href="/en/event_stories/princess_kaguya/get_along/#1">Start Reading</a></div>
       </div>
       <div class="info-area">
         <div class="synopsis">
@@ -3029,9 +3030,9 @@
 
 <h1 id="get_along">Get Along</h1>
 
-<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya/prologue" title="Previous"><i
-      class="fa fa-arrow-left"></i></a><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
-      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/one_night_spectacle" title="Next"><i
+<div toc style="text-align: center"><a class="btn" href="/en/event_stories/princess_kaguya/prologue" title="Previous"><i
+      class="fa fa-arrow-left"></i></a><a class="btn" href="/en/event_stories/princess_kaguya" title="Directory"><i
+      class="fa-solid fa-moon"></i></a><a class="btn" href="/en/event_stories/princess_kaguya/one_night_spectacle" title="Next"><i
       class="fa fa-arrow-right"></i></a>
 </div>
 
@@ -3060,7 +3061,7 @@
 <p>But I was in a hurry &#39;cause you just didn&#39;t give us enough time to prepare! I had to rush to bring my makeup and beauty products from my dorm room!</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Though that&#39;s also an important attitude to keep in mind when performing &quot;Princess Kaguya&quot;! The reading drama is a story about making a friend&#39;s &quot;wish&quot; come true right on the day of graduation—</p>
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Though that&#39;s also an important attitude to keep in mind when performing &quot;Princess Kaguya&quot;! The reading drama is a story about making a friend&#39;s &quot;wish&quot; come true right on the day of <span class="hold">graduation—</span></p>
 <p>As a part of fleshing out the characters, we need to be able to handle these kinds of unreasonable demands<a class="msr-fn-inline" data-tippy-content="The phrasing of “unreasonable demands” is a reference to Princess Kaguya, since in the story, she gives her suitors impossible tasks to complete for her hand in marriage." id="fnref:1">1</a>, don&#39;t we?</p>
 </div></div>
 
@@ -3080,7 +3081,7 @@
 <div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yup. Since we&#39;re going to live together to prepare for our roles, why don&#39;t we all write our &quot;wishes&quot; on a piece of paper?</p>
 <p>We will make everyone&#39;s &quot;wishes&quot; come true one by one—this way, we can deepen our relationships through resolution!</p>
 <p>So, there you have it. I&#39;ve already written it down on a notepad, so I&#39;ll announce mine first!</p>
-<p>As the leader, I want to make this Shuffle Project a success. That&#39;s my &quot;wish&quot; ☆</p>
+<p>As the leader, I want to make this Shuffle Project a success. That&#39;s my <span class="hold">&quot;wish&quot; ☆</span></p>
 </div></div>
 
 <div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hm. It&#39;s a good initiative. It will help us make the most of the short time we have before the performance.</p>
@@ -3203,16 +3204,128 @@
 <p>Puka, puka... splaaash...♪</p>
 </div></div>
 
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Um. Kanata-san, are you perhaps playing in the bath again...?</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufufu. It is not like that~ Just a little bit more...♪</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>.........</p>
+<p><span class="thought">(Hmm... I can&#39;t fall asleep like I usually do. Maybe it&#39;s the different pillows and bedding.)</span></p>
+<p><span class="thought">(Or is it because of this feeling... that some noise is disturbing my sleep? It sounds strangely familiar...)</span></p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><em>(Whisper)</em> &quot;Please... Listen to my wish! This is our last critical moment...!&quot;</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mm...?</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>&quot;Do something... It&#39;s the last thing I&#39;ll ask for, for the rest of my life!&quot;</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hold on, Hokuto-chan. Are you reading the script from under the covers?</p>
+<p>I can hear your voice all the way over here. It&#39;s late, so let&#39;s go to sleep early and get ready for tomorrow.</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>So you were awake, Narukami.</p>
+<p>I know it&#39;s better to go to bed early, but... The practice period is short, and the main task this time is to read out loud. So I ought to devote my efforts to that.</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I understand how you feel, but it&#39;s hard to sleep when someone&#39;s mumbling in the middle of the room, you know?</p>
+<p>Your voice is so clear that it makes me feel like someone&#39;s chanting Buddhist prayers in the middle of the night.</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I see. I&#39;m reluctant to do so, but if you can hear me even from under the covers, I don&#39;t have a choice. I&#39;ll go outside to practice.</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Uugh. Cold, cold, <em>cold</em>... Hokuto-chan, could you <em>please</em> shut the door?</p>
+<p>Sigh. Now all my sleepiness is gone. Hopefully this won&#39;t happen again...</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Myy. Though winter mornings are a little chilly, they are also refreshing!</p>
+<p>I usually wake up alone, so it&#39;s a new experience to be woken up by someone else, huh!</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Haha. I haven&#39;t woken up a roommate since sharing a dorm with Aira-san. Perhaps due to my hesitation, I had a surprisingly difficult time.</p>
+<p>But. If you don&#39;t mind, please leave the task of waking you up for the rest of the week to me. That much will be a piece of cake.</p>
+<p>As a senior, I had to straighten up, too. When I was in this old building, I remember that I made it a habit to go to bed early and wake up early.</p>
+<p>I have a radio recording with Arashi-san today, and I&#39;d like to take the opportunity to talk about our Shuffle Project with her ♪</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yaaawnnn...</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh my. Arashi-san, that was quite a big yawn.</p>
+<p>Everyone else is awake, but perhaps you&#39;re not so good in the mornings? Fufu, it&#39;s a new side of you that I wouldn&#39;t have known about without this training camp.</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It&#39;s <em>so</em> not like that. I just couldn&#39;t get to sleep until late last night.</p>
+<p>Ah, jeez~ It&#39;s the worst way to wake up. At least I can cover it up with makeup.</p>
+<p>Today I have a guest appearance on Kazehaya-senpai&#39;s radio show, so I&#39;ll go to the bathroom, wash my face, and cheer up...</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Arashi~ Can you please get out of the way?</p>
+<p>Today is an incredibly &quot;dry&quot; &quot;day&quot;. If I dry up, I will die...</p>
+</div></div>
+
+<div class=msr-unit character="Arashi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I&#39;m sorry, but I <em>just</em> started my skincare routine...!</p>
+<p>Can&#39;t you wait just a bit longer? Your lessons don&#39;t start until the afternoon, so let me have priority.</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ehh~...?</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Shinkai-senpai. I&#39;m sorry, but may I use the bathroom next? I have school today, so I must get ready soon. </p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Uuu~... Understood. &quot;Tardiness&quot; is strictly forbidden, after all.</p>
+<p>Siigh... I miss the water... </p>
+<p>I know. There is a &quot;shower&quot; next door, right? I will use the &quot;shower&quot;...♪</p>
+</div></div>
+
+<div class=msr-unit character="Hokuto"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Wha-?! Turn off that shower right now, Shinkai-senpai! You&#39;re spraying water all over here!</p>
+<p>Ghh, now I won&#39;t make it to school on time...!</p>
+</div></div>
+
+<div class=msr-unit character="Kanata"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah. I am sorry, it seems I made a &quot;mistake&quot;.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(...Hmm. It looks like we&#39;re not at all in sync. I suppose it&#39;s difficult for temporary units to create a sense of harmony.)</span></p>
+<p><span class="thought">(I had actually prepared sandwiches for everyone to have for breakfast. But from the looks of things, it seems it&#39;d be best to wait and see how things go for a while.)</span></p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...What a disappointment.</p>
+<p>—And this Shuffle Unit was supposed to be my last job.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh? Hiyori-san, did you say something?</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Nope. Just talking to myself! No need for you to know!</p>
+<p>More importantly, shouldn&#39;t the remaining members have breakfast together? After all, running on an empty stomach would ruin the atmosphere!</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah, yes. Shall we do that, Hiyori-san? Since I was just preparing breakfast—</p>
+<p>.........</p>
+<p><span class="thought">(I thought I heard Hiyori-san say &quot;last job&quot; just now. Did I mishear him...?)</span></p>
+<p><span class="thought">(But, I&#39;m certain I heard it...)</span></p>
+</div></div>
+
+<h2 id="3">Chapter 3</h2>
+
+<div class="msr-location">
+  <p><span><b>Location:</b> Recording Booth</span></p>
+</div>
+
+<div class="msr-narration">
+  <p><span>A few hours later.</span></p>
+</div>
 
 
-
-
-
-
-
-<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya/prologue" title="Previous"><i
-      class="fa fa-arrow-left"></i></a><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
-      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/one_night_spectacle" title="Next"><i
+<div toc style="text-align: center"><a class="btn" href="/en/event_stories/princess_kaguya/prologue" title="Previous"><i
+      class="fa fa-arrow-left"></i></a><a class="btn" href="/en/event_stories/princess_kaguya" title="Directory"><i
+      class="fa-solid fa-moon"></i></a><a class="btn" href="/en/event_stories/princess_kaguya/one_night_spectacle" title="Next"><i
       class="fa fa-arrow-right"></i></a>
 </div>
 
@@ -3239,7 +3352,7 @@
       <div class="title-area">
         <div class="title-area__title">Princess Kaguya</div>
         <div class="title-area__subtitle">Prologue (プロローグ)</div>
-        <div class="title-area__start"><a href="/princess_kaguya/prologue/#1">Start Reading</a></div>
+        <div class="title-area__start"><a href="/en/event_stories/princess_kaguya/prologue/#1">Start Reading</a></div>
       </div>
       <div class="info-area">
         <div class="synopsis">
@@ -3325,8 +3438,8 @@
 
 <h1 id="prologue">Prologue</h1>
 
-<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
-      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/get_along" title="Next"><i
+<div toc style="text-align: center"><a class="btn" href="/en/event_stories/princess_kaguya" title="Directory"><i
+      class="fa-solid fa-moon"></i></a><a class="btn" href="/en/event_stories/princess_kaguya/get_along" title="Next"><i
       class="fa fa-arrow-right"></i></a>
 </div>
 
@@ -3469,433 +3582,12 @@
 <p>Let&#39;s enjoy these extraordinary moments together before we return to the moon<a class="msr-fn-inline" data-tippy-content="This is a reference to the Princess Kaguya story. The name of the unit is also a reference to it, since 月の都 (Tsuki no Miyako, lit. Capital of the Moon) is the name of the moon city Princess Kaguya returns to by the end." id="fnref:3">3</a>. That&#39;s some good weather...♪</p>
 </div></div>
 
-<div toc style="text-align: center"><a class="btn" href="/event_stories/princess_kaguya" title="Directory"><i
-      class="fa-solid fa-moon"></i></a><a class="btn" href="/event_stories/princess_kaguya/get_along" title="Next"><i
+<div toc style="text-align: center"><a class="btn" href="/en/event_stories/princess_kaguya" title="Directory"><i
+      class="fa-solid fa-moon"></i></a><a class="btn" href="/en/event_stories/princess_kaguya/get_along" title="Next"><i
       class="fa fa-arrow-right"></i></a>
 </div>
 
 <h1 id="Translation-Notes"><a href="#Translation-Notes" class="headerlink" title="Translation Notes"></a>Translation Notes</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> Getto Spectacle is written as &quot;月都スペクタクル&quot;, meaning &quot;Moon Capital Spectacle&quot;, however, taking the readings of 月 (<b>get</b>su) and 都 (<b>to</b>), you obtain ゲット (getto), which means Get in English.</li><li id="fn:2"><a href="#fnref:2" class="arrow">↑</a> This is referencing the scout story White Lily.</li><li id="fn:3"><a href="#fnref:3" class="arrow">↑</a> This is a reference to the Princess Kaguya story. The name of the unit is also a reference to it, since 月の都 (Tsuki no Miyako, lit. Capital of the Moon) is the name of the moon city Princess Kaguya returns to by the end.</li></ol></div>]]></content>
-  </entry>
-  <entry>
-    <title>Introducción al Sex Appeal</title>
-    <url>/es/idol_stories/jun/sex_appeal_101/</url>
-    <content><![CDATA[<head>
-  <link rel="stylesheet" type="text/css" href="/edit.css"  />
-  <link rel="stylesheet" type="text/css" href="/esexp.css"  />
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
-  <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
-</head>
-
-<div class="preview-wrapper reverse" 
-  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
-  <div class="grid-wrapper">
-    <div class="preview-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1109931674353025194/latest.png')">
-    </div>
-    <div class="preview-box">
-      <div class="title-area">
-        <div class="title-area__title">Introducción al Sex Appeal</div>
-        <div class="title-area__subtitle">色気のいろは</div>
-        <div class="title-area__start"><a href="/es/idol_stories/jun/sex_appeal_101/#1">Leer</a></div>
-      </div>
-      <div class="info-area">
-        <div class="synopsis">
-          Mientras HiMERU se está sirviendo una bebida de la máquina expendedora, Jun se acerca a él buscando consejos para su próximo trabajo...
-        </div>
-        <div class="info">
-          <div class="info-item season">
-            <div class="label">
-              Estación
-            </div>
-            <div class="value">
-              Otoño
-            </div>
-          </div>
-          <div class="info-item chapters">
-            <div class="label">
-              Capítulos
-            </div>
-            <div class="value">
-              1
-            </div>
-          </div>
-          <div class="info-item writer">
-            <div class="label">
-              Autor
-            </div>
-            <div class="value">
-              Nishioka Maiko
-            </div>
-          </div>
-          <div class="info-item characters">
-            <div class="label">
-              Personajes
-            </div>
-            <div class="value">
-              <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
-              <a href="/categories/Enstars/Jun" character="Jun"></a>
-              <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
-            </div>
-          </div>
-          <div class="info-item tl">
-            <div class="label">
-              Traducción
-            </div>
-            <div class="value">
-              Mello
-            </div>
-          </div>
-          <div class="info-item pr">
-            <div class="label">
-              Publicación
-            </div>
-            <div class="value">
-              25/9/2022
-            </div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<span id="more"></span>
-
-<style>
-  .preview-wrapper {
-    /* in case jquery doesn't work */
-    display: none;
-  }
-
-  @media (max-width: 567px) {
-
-    /* for NexT Mashiro: makes padding smaller on mobile */
-    .post-block {
-      padding: 5px 10px 30px !important;
-    }
-  }
-</style>
-
-<div class="story-wrapper mobile-reverse"
-  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
-  <div class="grid-wrapper">
-    <div class="story-background"
-      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1109931674931843162/latest.png')">
-    </div>
-    <div class="story-box">
-      <div class="story-cover">
-        <div><img src="https://cdn.discordapp.com/attachments/1108310788436938793/1109931674613067846/latest.png">
-        </div>
-      </div>
-      <div class="title-area">
-        <div class="title-area__title">Introducción al Sex Appeal</div>
-        <div class="title-area__subtitle">色気のいろは</div>
-        <div class="title-area__start">
-          <a href="#1">Leer</a>
-        </div>
-      </div>
-      <div class="info-area">
-        <div class="synopsis">
-          Mientras HiMERU se está sirviendo una bebida de la máquina expendedora, Jun se acerca a él buscando consejos para su próximo trabajo...
-        </div>
-        <div class="info">
-          <div class="info-item season">
-            <div class="label">
-              Estación
-            </div>
-            <div class="value">
-              Otoño
-            </div>
-          </div>
-          <div class="info-item chapters">
-            <div class="label">
-              Capítulos
-            </div>
-            <div class="value">
-              1
-            </div>
-          </div>
-          <div class="info-item writer">
-            <div class="label">
-              Autor
-            </div>
-            <div class="value">
-              Nishioka Maiko
-            </div>
-          </div>
-          <div class="info-item characters">
-            <div class="label">
-              Personajes
-            </div>
-            <div class="value">
-              <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
-              <a href="/categories/Enstars/Jun" character="Jun"></a>
-              <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
-            </div>
-          </div>
-          <div class="info-item tl">
-            <div class="label">
-              Translation
-            </div>
-            <div class="value">
-              Mello
-            </div>
-          </div>
-          <div class="info-item pr">
-            <div class="label">
-              Publicación
-            </div>
-            <div class="value">
-              12/25/2022
-            </div>
-          </div>
-        </div>
-        <div class="extra-area">
-          <div class="tab-header">
-            <div class="tab-header__name">Información Extra</div>
-          </div>
-          <div class="tab-content">
-            <div class="tab-item">
-              <div class="label">
-                Scout
-              </div>
-              <div class="value">
-                Rei Feature Scout 2
-              </div>
-            </div>
-            <div class="tab-item">
-              <div class="label">
-                Duración del Scout
-              </div>
-              <div class="value">
-                25/9/2022 (15:00 JST) - 10/10/2022 (15:00 JST)
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="story-cards">
-          <div class="tab-header">
-            <div class="tab-header__name">Cartas Asociadas</div>
-          </div>
-          <div class="tab-content">
-            <div class="cards">
-              <div class="cards-item">
-                <div class="image">
-                  <div class="single unbloomed">
-                    <img
-                      src="https://cdn.discordapp.com/attachments/1108310788436938793/1109937118760931428/28Eye-catching_Mannerisms29_Jun_Sazanami_M.png">
-                  </div>
-                  <div class="single bloomed">
-                    <img
-                      src="https://cdn.discordapp.com/attachments/1108310788436938793/1109937119096488107/28Eye-catching_Mannerisms29_Jun_Sazanami_M_Bloomed.png">
-                  </div>
-                </div>
-                <div class="lightbox">
-                  <div class="card__name">[Manerismos Llamativos] Jun Sazanami</div>
-                  <div class="card__jp">[気になる仕草] 漣 ジュン</div>
-                  <div class="skills">
-                    <ul>
-                      <li id="center">
-                        <div class="name">Los Secretos De La Gesticulación</div>
-                        <div class="desc">Aumenta el Vocal de las cartas Brillantes</div>
-                      </li>
-                      <li id="live">
-                        <div class="name">Curso Intensivo De Sensualidad</div>
-                        <div class="desc">Aumenta el puntaje</div>
-                      </li>
-                      <li id="support">
-                        <div class="name">Observaciones Del Sex Appeal</div>
-                        <div class="desc">Aumenta la probabilidad de obtener Pequeñas Piezas de Estatus Azul</div>
-                      </li>
-                    </ul>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="chapter-area">
-        <div class="chapters">
-          <ul>
-            <span>Introducción al Sex Appeal</span>
-            <a href="#1">1</a>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<script> <!-- IMPORTANT! removes story preview -->
-  $(document).ready(function () {
-    $('.preview-wrapper').remove();
-  }
-  )
-</script>
-
-<h1 id="1">Sex Appeal 101</h1>
-
-<div class="msr-season autumn">
-  <p><span><b>Season:</b> Autumn</span></p>
-</div>
-
-<div class="msr-location">
-  <p><span><b>Location:</b> Break Room</span></p>
-</div>
-
-<div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¿...Mm? ¿Por qué no sale, incluso después de presionar el botón? ¿Podría estar roto—?</p>
-<p>—Ah, se agotó la Coca-Cola. HiMERU no se dio cuenta de que el botón se encendió.</p>
-<p><span class="thought">(Como HiMERU, <em>debería</em> comprar Coca-Cola... Bueno, si está agotada, así sea. Habrá que conformarse con algo más...)</span></p>
-<p><span class="thought">(Entonces, un café negro.)</span></p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Uf.</p>
-<p><span class="thought">(Parece mala suerte no poder obtener lo que planeaba comprar.)</span></p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—¿Mm?</p>
-</div></div>
-
-<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...... <em>(Mirando fijamente a HiMERU)</em></p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Sazanami, si estabas ahí, ¿No podrías al menos haber saludado? ¿Qué estás haciendo siquiera? A HiMERU no le gusta que lo miren así...</p>
-<p>Para empezar, es de mala educación. Ah, tal vez sea culpa de HiMERU por esperar modales, cuando eres un perro callejero.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Sí, sí, ya. Perdón. Soy un perro callejero sin modales. </p>
-</div></div>
-
-<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Bueno, si me siento mal por mirarte así sin avisar. Solo me dio curiosidad.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>? ¿Qué te dio curiosidad?</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>HiMERU siempre ha tenido algo así, ¿no? Feromonas, supongo. Es como que siempre las estás emanando. </p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" cough><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡¿Bwuh?! —¡Cof! ¡¿Cof-?!</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ejem— Haah. ¿Qué dices tan de repente? ¿Te golpeaste la cabeza? HiMERU no emana tal cosa. </p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Nah, es verdad. Tipo... el otro de día te vi en la portada de una revista <span class="hold">gravure<a class="msr-fn-inline" data-tippy-content="El gravure es un género en Japón de fotos provocativas. " id="fnref:1">1</a>.</span></p>
-<p>La que hablaba del sex appeal. El anuncio estaba en todo el edificio de la estación. </p>
-<p>En ese volumen, ¿no te llamaron uno de los idols más sexys de la industria?</p>
-<p>Además. Justo ahora, lo pensé mientras te miraba. Incluso si solo estás comprando una bebida, cada gesto que haces es tan atractivo. Creo que eso <em>tiene</em> que ser sex appeal. </p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—... ¿Qué te pasa hoy? Estás siendo muy halagador. ¿Estás tramando algo? HiMERU no será engañado.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" apologetic><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Solo soy honesto cuando creo que algo es bueno. ¿Qué crees que soy?</p>
-</div></div>
-<div class=msr-unit character="Jun" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Bueno. Si hay una razón. Lo que pasa es que tengo un trabajo pronto de los que no suelo hacer.</p>
-<p>Es para una revista, parece que quieren mostrar a mi yo de secundaria contra mi yo adulto.</p>
-<p>Pensé que sería un buen contraste si pudiera crear una atmósfera madura. </p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm... Así que por eso lo mencionaste.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No tengo mucha seguridad en esa área. Te estaba mirando para ver si podía aprender algunos de tus trucos. </p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Desde el punto de vista de HiMERU, Sazanami parece ser suficiente. Dicho esto, si no piensas que estás hecho para ello, no deberías forzarte. </p>
-<p>Es posible tomar diferentes enfoques dentro de tu propia categoría de experiencia.</p>
-<p>Todos tienen fortalezas y debilidades. ¿Por qué obligarte a usar algo en lo que no eres bueno como un arma?</p>
-</div></div>
-
-<div class=msr-unit character="Jun" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That may be true. But I also don&#39;t like leaving my weaknesses as-is. I feel like my growth as an idol would stop there.</p>
-<p>Plus, a new weapon would broaden my range.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm. HiMERU understands your feelings. And, well, he doesn&#39;t dislike that kind of self-discipline. That said, HiMERU isn&#39;t sure if he&#39;s the right person to ask for advice.</p>
-<p>......</p>
-<p>...HiMERU has heard that people who practice tea ceremony and figure skating have beautiful gestures. That&#39;s because they&#39;re aware of their nerves all the way down to their fingertips, they say.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(HiMERU can&#39;t really tell what Sazanami is talking about.)</span></p>
-<p><span class="thought">(HiMERU wore away at his nerves down to his fingertips in pursuing his goal of becoming the perfect idol, so that any third-party would see him as such.)</span></p>
-<p><span class="thought">(Could his advice really help Sazanami...?)</span></p>
-</div></div>
-
-<div class=msr-unit character="Jun" thinking><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ohh, I got it. It&#39;s true that I never thought about moving in that way.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Being aware down to your fingertips... Umm. Somethin&#39; like this? I&#39;ll brush up my hair...</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>......</p>
-<p>—Sazanami. You&#39;re forcing it a little too much.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Try to be more natural, like this...</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Huuh. As I thought, you&#39;re really good at it. Like an expert.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Like he said, HiMERU doesn&#39;t do this on purpose.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fine, fine. Isn&#39;t it good? I&#39;m complimentin&#39; you.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Uhh, how &#39;bout this?</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm~m. Your hand gesture is good, but the rest is too sloppy. How about showing the nape of your neck a little more?</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" smug2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Take for example... this.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I see...! Like this?</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, no. More. That won&#39;t catch people&#39;s eyes. Be sexier! Flaunt yourself!</p>
-</div></div>
-
-<div class=msr-unit character="Jun" worried><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Gh... This&#39;s hard.</p>
-</div></div>
-
-<div class=msr-unit character="Jun" smug><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>How &#39;bout this?</p>
-</div></div>
-
-<div class=msr-unit character="Kohaku" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¿Pero qué chucha están haciendo...?</p>
-</div></div>
-
-<div class=msr-unit character="Jun" surprise><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡¿S-Sakura-kun?!</p>
-</div></div>
-
-<div class=msr-unit character="Kohaku" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hrmm... ¿Hmm...? <em>(Mirándolos de arriba a abajo)</em></p>
-<p>Lo que hagan es wea suya. Pero incluso si estuvieran siendo discretos, es <em>tan</em> patético que están posando con su pelo así en la sala de descanso.</p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" distress><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s not it...! This is a misunderstanding, Oukawa!</p>
-</div></div>
-
-<div class=msr-unit character="Jun" distraught><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s right! This&#39;s like a special training session! I was just gettin&#39; some tips from HiMERU!</p>
-</div></div>
-
-<div class=msr-unit character="Kohaku" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yaaa... Están poniendo <em>tanto</em> empeño en su entrenamiento especial narcisista. Entonces ya no puedo interferir. Me voy, así que échenle ganas~</p>
-</div></div>
-
-<div class=msr-unit character="Jun" surprise><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡¿Narcisista?! ¡Gaaah! ¡Tampoco es eso! ¡Espera! ¡Escúchame! </p>
-</div></div>
-
-<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡HiMERU irá tras él, Sazanami! ¡No puede ser que Oukawa mantenga un malentendido tan vergonzoso! </p>
-</div></div>
-
-<div class=msr-unit character="Jun" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡Yo debería decir eso! ¡Por favor, espera, Sakura-kun! </p>
-</div></div>
-
-<h1 id="Notas-de-Traduccion"><a href="#Notas-de-Traduccion" class="headerlink" title="Notas de Traducción"></a>Notas de Traducción</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> El gravure es un género en Japón de fotos provocativas.</li></ol></div>]]></content>
   </entry>
   <entry>
     <title>Tatsumi&#39;s 2022 Birthday</title>
@@ -3917,7 +3609,7 @@
     <div class="preview-box">
       <div class="title-area">
         <div class="title-area__title">Tatsumi's 2022 Birthday Party</div>
-        <div class="title-area__start"><a href="/idol_stories/tatsumi/birthday_2022/#1">Start Reading</a></div>
+        <div class="title-area__start"><a href="/en/idol_stories/tatsumi/birthday_2022/#1">Start Reading</a></div>
       </div>
       <div class="info-area">
         <div class="synopsis">
@@ -4336,7 +4028,7 @@
       <div class="title-area">
         <div class="title-area__title">Seeing Off, Sent Off In The Morning</div>
         <div class="title-area__subtitle">送り、送られる朝に</div>
-        <div class="title-area__start"><a href="/idol_stories/tatsumi/seeing_off_sent_off_in_the_morning/#1">Start Reading</a></div>
+        <div class="title-area__start"><a href="/en/idol_stories/tatsumi/seeing_off_sent_off_in_the_morning/#1">Start Reading</a></div>
       </div>
       <div class="info-area">
         <div class="synopsis">
@@ -4584,106 +4276,111 @@
   <p><span><b>Location:</b> Seisoukan Kitchen</span></p>
 </div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(The washed dishes have been placed in the drainer basket, the sink has been cleaned, and the garbage has been thrown away.)</span></p>
+<p><img src="https://cdn.jsdelivr.net/gh/toujokaname/images@main/posts/sosoitm/IMG_1744.jpg"></p>
+<div class=msr-unit character="Tatsumi" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(The washed dishes have been placed in the drainer basket, the sink has been cleaned, and the garbage has been thrown away.)</span></p>
 <p><span class="thought">(Now all that&#39;s left to do is to put the used pans back in their original places, and the cleanup will be finished.)</span></p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah! I saw a figure in the kitchen, and look who it is, it&#39;s Tatsumi-kun!</p>
+<div class=msr-unit character="Hiyori" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah! I saw a figure in the kitchen, and look who it is, it&#39;s Tatsumi-kun!</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh, Hiyori-san. Good morning.</p>
+<div class=msr-unit character="Tatsumi" smile2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh, Hiyori-san. Good morning.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Are you about to cook something? What&#39;s on the menu for breakfast?</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Are you about to cook something? What&#39;s on the menu for breakfast?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah, no, I just finished eating. I&#39;m in the middle of cleaning up, and then I thought I&#39;d make an after-meal drink.</p>
+<div class=msr-unit character="Tatsumi" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ah, no, I just finished eating. I&#39;m in the middle of cleaning up, and then I thought I&#39;d make an after-meal drink.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh, you had a frying pan in your hand, so I thought you were going to start cooking!</p>
-<p>But if you&#39;re going to make after-meal drinks, I&#39;d like you to make one for me, too. Will you make coffee? Or tea?</p>
+<div class=msr-unit character="Hiyori" dejected><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Oh, you had a frying pan in your hand, so I thought you were going to start cooking!</p>
+</div></div>
+<div class=msr-unit character="Hiyori" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>But if you&#39;re going to make after-meal drinks, I&#39;d like you to make one for me, too. Will you make coffee? Or tea?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I&#39;m in the mood for tea this morning. Would you like some tea, too, Hiyori-san?</p>
+<div class=msr-unit character="Tatsumi" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I&#39;m in the mood for tea this morning. Would you like some tea, too, Hiyori-san?</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Of course ♪ I&#39;m going to make some toast and have breakfast with the tea that Tatsumi-kun will make for me...♪</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Of course ♪ I&#39;m going to make some toast and have breakfast with the tea that Tatsumi-kun will make for me...♪</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>If you want to eat toast, I found some jam in the fridge that someone bought as a souvenir. Why don&#39;t you try it?</p>
+<div class=msr-unit character="Tatsumi" smile2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>If you want to eat toast, I found some jam in the fridge that someone bought as a souvenir. Why don&#39;t you try it?</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Huuh, that sounds great! I&#39;ll hurry up with my toast ♪</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Huuh, that sounds great! I&#39;ll hurry up with my toast ♪</p>
 </div></div>
 
 <div class="msr-narration">
   <p>After some time</p>
 </div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>(Munching) ...(Gulp). By the way, I was wondering about something.</p>
+<p><img src="https://cdn.jsdelivr.net/gh/toujokaname/images@main/posts/sosoitm/IMG_1745.jpg"></p>
+<div class=msr-unit character="Hiyori" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><em>(Munching)</em> ...<em>(Gulp)</em>. By the way, I was wondering about something.</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, what is it?</p>
+<div class=msr-unit character="Tatsumi" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, what is it?</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I thought I woke up early today, despite the fact that I had to work in the afternoon. Even so, you had already finished cleaning up after breakfast.</p>
+<div class=msr-unit character="Hiyori" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I thought I woke up early today, despite the fact that I had to work in the afternoon. Even so, you had already finished cleaning up after breakfast.</p>
 <p>Do you always have an early morning like today?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, generally. I always tried to go to bed and get up early while I was living in the old building, so I&#39;m continuing that habit.</p>
+<div class=msr-unit character="Tatsumi" thinking><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yes, generally. I always tried to go to bed and get up early while I was living in the old building, so I&#39;m continuing that habit.</p>
 <p>As for today, I may have woken up exceptionally earlier than usual.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Exceptionally?</p>
+<div class=msr-unit character="Hiyori" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Exceptionally?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I promised to serve breakfast to the ALKALOID members this morning.</p>
+<div class=msr-unit character="Tatsumi" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I promised to serve breakfast to the ALKALOID members this morning.</p>
 <p>That&#39;s why I woke up earlier than usual, to have enough time to get ready.</p>
 <p>After that, the four of us had breakfast together and I saw the three of them off outside the dormitory on their way to school. It was a nice morning...♪</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hmm, I didn&#39;t know that was the case. I&#39;m glad to hear that everyone in ALKALOID is getting along so well...♪</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hmm, I didn&#39;t know that was the case. I&#39;m glad to hear that everyone in ALKALOID is getting along so well...♪</p>
 <p>I remember last year I had Jun-kun cook me breakfast, lunch and dinner—</p>
-<p>...Mm?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>What&#39;s wrong?</p>
+<div class=msr-unit character="Hiyori" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Mm?</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, I suddenly realized it while remembering my days at Reimei.</p>
+<div class=msr-unit character="Tatsumi" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>What&#39;s wrong?</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, I suddenly realized it while remembering my days at Reimei.</p>
 <p>Tatsumi-kun, aren&#39;t you going to school?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Ah.</p>
+<div class=msr-unit character="Tatsumi" thinking><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Aah.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, no, don&#39;t just go &quot;ah&quot;! I thought I heard that you&#39;ve returned to Reimei Academy, or am I just imagining things?</p>
+<div class=msr-unit character="Hiyori" distraught><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, no, don&#39;t just go &quot;aah&quot;! I thought I heard that you&#39;ve returned to Reimei Academy, or am I just imagining things?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, you didn&#39;t imagine it. All of us in ALKALOID have returned to school, and I&#39;ve returned to Reimei Academy too, more or less.</p>
+<div class=msr-unit character="Tatsumi" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, you didn&#39;t imagine it. All of us in ALKALOID have returned to school, and I&#39;ve returned to Reimei Academy too, more or less.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>More or less... What does that mean?</p>
+<div class=msr-unit character="Hiyori" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>More or less... What does that mean?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I have to work, so I don&#39;t go to school every day. I guess I&#39;m just getting used to going back.</p>
+<div class=msr-unit character="Tatsumi" apologetic><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I have to work, so I don&#39;t go to school every day. I guess I&#39;m just getting used to going back.</p>
 <p>You made me realize that today I was supposed to attend.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It&#39;s a little concerning that you&#39;re taking it so easy... If it means you&#39;re getting used to it, then it can&#39;t be helped.</p>
+<div class=msr-unit character="Hiyori" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It&#39;s a little concerning that you&#39;re taking it so easy... If it means you&#39;re getting used to it, then it can&#39;t be helped.</p>
 <p>So, are you going to school today? Or not?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hmm, I think I&#39;m going to at least show up. Attendance is very important.</p>
+<div class=msr-unit character="Tatsumi" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hmm, I think I&#39;m going to at least show up. Attendance is very important.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Well, if that&#39;s the case... I&#39;ll be the one to send you off on your way to Reimei!</p>
+<div class=msr-unit character="Hiyori" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Well, if that&#39;s the case... I&#39;ll be the one to send you off on your way to Reimei!</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>You will, Hiyori-san?</p>
+<div class=msr-unit character="Tatsumi" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>You will, Hiyori-san?</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Because, you&#39;ve already sent off the members of your unit, haven&#39;t you? It&#39;s so sad that you&#39;re the only person who doesn&#39;t get to be sent off by anyone.</p>
+<div class=msr-unit character="Hiyori" smile2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Because, you&#39;ve already sent off the members of your unit, haven&#39;t you? It&#39;s so sad that you&#39;re the only person who doesn&#39;t get to be sent off by anyone.</p>
 <p>Here, after you finish your after-meal tea, go change into your school uniform! I&#39;ll send you off without fail...♪</p>
 </div></div>
 
@@ -4691,71 +4388,78 @@
   <p><span><b>Location:</b> Seisoukan Common Room</span></p>
 </div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Thank you for waiting. I&#39;ve changed my clothes.</p>
+<p><img src="https://cdn.jsdelivr.net/gh/toujokaname/images@main/posts/sosoitm/IMG_1746.jpg"></p>
+<div class=msr-unit character="Tatsumi" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Thank you for waiting. I&#39;ve changed my clothes.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Wow, you look great!</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Wow, you look great!</p>
 <p>I&#39;ve worn it myself and I&#39;m used to seeing Jun-kun in it, but seeing Tatsumi-kun in his uniform is something new...♪</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It&#39;s a bit unbearable to be observed so hard. I haven&#39;t worn this costume for a considerable amount of time.</p>
+<div class=msr-unit character="Tatsumi" apologetic><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It&#39;s a bit unbearable to be observed so hard. I haven&#39;t worn this costume for a considerable amount of time.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ahaha. It&#39;s a natural thing to think after graduation, but isn&#39;t it a little too early for you to call it a &quot;costume&quot;, Tatsumi-kun?</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ahaha. It&#39;s a natural thing to think after graduation, but isn&#39;t it a little too early for you to call it a &quot;costume&quot;, Tatsumi-kun?</p>
 <p>But as long as you are working in this kind of business, you may wear it anytime and anywhere.</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s right. I&#39;m still a student, but somehow I don&#39;t have enough awareness of that.</p>
+<div class=msr-unit character="Tatsumi" apologetic><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s right. I&#39;m still a student, but somehow I don&#39;t have enough awareness of that.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Tatsumi-kun is always so composed.</p>
+<div class=msr-unit character="Hiyori" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Tatsumi-kun is always so composed.</p>
 <p>...By the way, how do you get to the school? What&#39;s the route from Seisoukan?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I use public transportation. How does Jun-san do it?</p>
+<div class=msr-unit character="Tatsumi" thinking><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I use public transportation. How does Jun-san do it?</p>
 <p>If there is a chance to go to school together in the future, I would like to go with him.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hmm, it might not be a good idea to go with him. That boy sometimes runs to and from school, which would tire Tatsumi-kun out!</p>
+<div class=msr-unit character="Hiyori" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hmm, it might not be a good idea to go with him. That boy sometimes runs to and from school, which would tire Tatsumi-kun out!</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>He even uses the route to school as training material... Fufu. Jun-san is very passionate.</p>
+<div class=msr-unit character="Tatsumi" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>He even uses the route to school as training material... Fufu. Jun-san is very passionate.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>He&#39;s a dedicated kid who works hard to improve himself, after all.</p>
-<p>—Wait?</p>
+<div class=msr-unit character="Hiyori" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>He&#39;s a dedicated kid who works hard to improve himself, after all.</p>
+</div></div>
+
+<div class=msr-unit character="Hiyori" distress><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Wait?</p>
 <p>If we keep talking, you won&#39;t be able to go to school, and I&#39;ll be unable to see you off!</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu, it feels strange to have Hiyori-san see me off...</p>
+<div class=msr-unit character="Tatsumi" smile5><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Fufu, it feels strange to have Hiyori-san see me off...</p>
 <p>What do you think, is my tie bent? Is there anything strange?</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mm, there are no problems! You look really good!</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Mm, there are no problems! You look really good!</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Thank you very much. Well then, I think it&#39;s time for me to leave.</p>
+<div class=msr-unit character="Tatsumi" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Thank you very much. Well then, I think it&#39;s time for me to leave.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Okay, take care! Enjoy your school life ♪</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Okay, take care! Enjoy your school life ♪</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Enjoy...</p>
+<div class=msr-unit character="Tatsumi" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Enjoy...</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>?</p>
+<div class=msr-unit character="Hiyori" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>?</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(I wondered how I could have spent my school life back after all these years, but...)</span></p>
+<div class=msr-unit character="Tatsumi" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(I wondered how I could have spent my school life back after all these years, but...)</span></p>
 <p><span class="thought">(I might as well. It would be more rewarding for me if I could find some enjoyment in it instead of spending it in idleness.)</span></p>
-<p>That&#39;s right. As Hiyori-san said, I hope I can enjoy it. It was nice to talk with you before going to school.</p>
 </div></div>
 
-<div class=msr-unit character="Hiyori"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I&#39;m glad I got to spend time with you, too. And thank you for the delicious tea...♪</p>
+<div class=msr-unit character="Tatsumi" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>That&#39;s right. As Hiyori-san said, I hope I can enjoy it. It was nice to talk with you before going to school.</p>
 </div></div>
 
-<div class=msr-unit character="Tatsumi"><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It was my pleasure.</p>
-<p>Well then—I&#39;ll be going now.</p>
+<div class=msr-unit character="Hiyori" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>I&#39;m glad I got to spend time with you, too. And thank you for the delicious tea...♪</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>It was my pleasure.</p>
+</div></div>
+
+<div class=msr-unit character="Tatsumi" smile2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Well then—I&#39;ll be going now.</p>
 </div></div>]]></content>
       <categories>
         <category>Enstars</category>
@@ -4766,5 +4470,427 @@
         <tag>Chitose Umeda</tag>
         <tag>Idol Story</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>Introducción al Sex Appeal</title>
+    <url>/es/idol_stories/jun/sex_appeal_101/</url>
+    <content><![CDATA[<head>
+  <link rel="stylesheet" type="text/css" href="/edit.css"  />
+  <link rel="stylesheet" type="text/css" href="/esexp.css"  />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js"></script>
+</head>
+
+<div class="preview-wrapper reverse" 
+  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
+  <div class="grid-wrapper">
+    <div class="preview-background"
+      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1109931674353025194/latest.png')">
+    </div>
+    <div class="preview-box">
+      <div class="title-area">
+        <div class="title-area__title">Introducción al Sex Appeal</div>
+        <div class="title-area__subtitle">色気のいろは</div>
+        <div class="title-area__start"><a href="/es/idol_stories/jun/sex_appeal_101/#1">Leer</a></div>
+      </div>
+      <div class="info-area">
+        <div class="synopsis">
+          Mientras HiMERU se sirve una bebida de la máquina expendedora, Jun se le acerca buscando consejos para su próximo trabajo...
+        </div>
+        <div class="info">
+          <div class="info-item season">
+            <div class="label">
+              Estación
+            </div>
+            <div class="value">
+              Otoño
+            </div>
+          </div>
+          <div class="info-item chapters">
+            <div class="label">
+              Capítulos
+            </div>
+            <div class="value">
+              1
+            </div>
+          </div>
+          <div class="info-item writer">
+            <div class="label">
+              Autor
+            </div>
+            <div class="value">
+              Nishioka Maiko
+            </div>
+          </div>
+          <div class="info-item characters">
+            <div class="label">
+              Personajes
+            </div>
+            <div class="value">
+              <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
+              <a href="/categories/Enstars/Jun" character="Jun"></a>
+              <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
+            </div>
+          </div>
+          <div class="info-item tl">
+            <div class="label">
+              Traducción
+            </div>
+            <div class="value">
+              Mello
+            </div>
+          </div>
+          <div class="info-item pr">
+            <div class="label">
+              Publicación
+            </div>
+            <div class="value">
+              25/9/2022
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<span id="more"></span>
+
+<style>
+  .preview-wrapper {
+    /* in case jquery doesn't work */
+    display: none;
+  }
+
+  @media (max-width: 567px) {
+
+    /* for NexT Mashiro: makes padding smaller on mobile */
+    .post-block {
+      padding: 5px 10px 30px !important;
+    }
+  }
+</style>
+
+<div class="story-wrapper mobile-reverse"
+  style="--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;">
+  <div class="grid-wrapper">
+    <div class="story-background"
+      style="background-image: url('https://cdn.discordapp.com/attachments/1108310788436938793/1109931674931843162/latest.png')">
+    </div>
+    <div class="story-box">
+      <div class="story-cover">
+        <div><img src="https://cdn.discordapp.com/attachments/1108310788436938793/1109931674613067846/latest.png">
+        </div>
+      </div>
+      <div class="title-area">
+        <div class="title-area__title">Introducción al Sex Appeal</div>
+        <div class="title-area__subtitle">色気のいろは</div>
+        <div class="title-area__start">
+          <a href="#1">Leer</a>
+        </div>
+      </div>
+      <div class="info-area">
+        <div class="synopsis">
+          Mientras HiMERU se está sirviendo una bebida de la máquina expendedora, Jun se acerca a él buscando consejos para su próximo trabajo...
+        </div>
+        <div class="info">
+          <div class="info-item season">
+            <div class="label">
+              Estación
+            </div>
+            <div class="value">
+              Otoño
+            </div>
+          </div>
+          <div class="info-item chapters">
+            <div class="label">
+              Capítulos
+            </div>
+            <div class="value">
+              1
+            </div>
+          </div>
+          <div class="info-item writer">
+            <div class="label">
+              Autor
+            </div>
+            <div class="value">
+              Nishioka Maiko
+            </div>
+          </div>
+          <div class="info-item characters">
+            <div class="label">
+              Personajes
+            </div>
+            <div class="value">
+              <a href="/categories/Enstars/HiMERU" character="HiMERU"></a>
+              <a href="/categories/Enstars/Jun" character="Jun"></a>
+              <a href="/categories/Enstars/Kohaku" character="Kohaku"></a>
+            </div>
+          </div>
+          <div class="info-item tl">
+            <div class="label">
+              Translation
+            </div>
+            <div class="value">
+              Mello
+            </div>
+          </div>
+          <div class="info-item pr">
+            <div class="label">
+              Publicación
+            </div>
+            <div class="value">
+              12/25/2022
+            </div>
+          </div>
+        </div>
+        <div class="extra-area">
+          <div class="tab-header">
+            <div class="tab-header__name">Información Extra</div>
+          </div>
+          <div class="tab-content">
+            <div class="tab-item">
+              <div class="label">
+                Scout
+              </div>
+              <div class="value">
+                Rei Feature Scout 2
+              </div>
+            </div>
+            <div class="tab-item">
+              <div class="label">
+                Duración del Scout
+              </div>
+              <div class="value">
+                25/9/2022 (15:00 JST) - 10/10/2022 (15:00 JST)
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="story-cards">
+          <div class="tab-header">
+            <div class="tab-header__name">Cartas Asociadas</div>
+          </div>
+          <div class="tab-content">
+            <div class="cards">
+              <div class="cards-item">
+                <div class="image">
+                  <div class="single unbloomed">
+                    <img
+                      src="https://cdn.discordapp.com/attachments/1108310788436938793/1109937118760931428/28Eye-catching_Mannerisms29_Jun_Sazanami_M.png">
+                  </div>
+                  <div class="single bloomed">
+                    <img
+                      src="https://cdn.discordapp.com/attachments/1108310788436938793/1109937119096488107/28Eye-catching_Mannerisms29_Jun_Sazanami_M_Bloomed.png">
+                  </div>
+                </div>
+                <div class="lightbox">
+                  <div class="card__name">[Manerismos Llamativos] Jun Sazanami</div>
+                  <div class="card__jp">[気になる仕草] 漣 ジュン</div>
+                  <div class="skills">
+                    <ul>
+                      <li id="center">
+                        <div class="name">Los Secretos De La Gesticulación</div>
+                        <div class="desc">Aumenta el Vocal de las cartas Brillantes</div>
+                      </li>
+                      <li id="live">
+                        <div class="name">Curso Intensivo De Sensualidad</div>
+                        <div class="desc">Aumenta el puntaje</div>
+                      </li>
+                      <li id="support">
+                        <div class="name">Observaciones Del Sex Appeal</div>
+                        <div class="desc">Aumenta la probabilidad de obtener Pequeñas Piezas de Estatus Azul</div>
+                      </li>
+                    </ul>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="chapter-area">
+        <div class="chapters">
+          <ul>
+            <span>Introducción al Sex Appeal</span>
+            <a href="#1">1</a>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script> <!-- IMPORTANT! removes story preview -->
+  $(document).ready(function () {
+    $('.preview-wrapper').remove();
+  }
+  )
+</script>
+
+<h1 id="1">Introducción al Sex Appeal</h1>
+
+<div class="msr-season autumn">
+  <p><span><b>Estación:</b> Otoño</span></p>
+</div>
+
+<div class="msr-location">
+  <p><span><b>Ubicación:</b> Sala de Descanso</span></p>
+</div>
+
+<p><img src="https://cdn.jsdelivr.net/gh/toujokaname/images@main/posts/sxap101/IMG_1747.jpg"></p>
+<div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¿...Mm? ¿Por qué no sale, incluso después de presionar el botón? ¿Podría estar roto—?</p>
+<p>—Ah, se agotó la Coca-Cola. HiMERU no se dio cuenta de que el botón se encendió.</p>
+<p><span class="thought">(Como HiMERU, <em>debería</em> comprar Coca-Cola... Bueno, si está agotada, así sea. Habrá que conformarse con algo más...)</span></p>
+<p><span class="thought">(Entonces, un café negro.)</span></p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...Uf.</p>
+<p><span class="thought">(Parece mala suerte no poder obtener lo que planeaba comprar.)</span></p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" autism><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—¿Mm?</p>
+</div></div>
+
+<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>...... <em>(Mirando fijamente a HiMERU)</em></p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Sazanami, si estabas ahí, ¿No podrías al menos haber saludado? ¿Qué estás haciendo siquiera? A HiMERU no le gusta que lo miren así...</p>
+<p>Para empezar, es de mala educación. Ah, tal vez sea culpa de HiMERU por esperar modales, cuando eres un perro callejero.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Sí, sí, ya. Perdón. Soy un perro callejero sin modales. </p>
+</div></div>
+
+<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Bueno, si me siento mal por mirarte así sin avisar. Solo me dio curiosidad.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>? ¿Qué te dio curiosidad?</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>HiMERU siempre ha tenido algo así, ¿no? Feromonas, supongo. Es como que siempre las estás emanando. </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" cough><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡¿Bwuh?! —¡Cof! ¡¿Cof-?!</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ejem— Haah. ¿Qué dices tan de repente? ¿Te golpeaste la cabeza? HiMERU no emana tal cosa. </p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Nah, es verdad. Tipo... el otro de día te vi en la portada de una revista <span class="hold">gravure<a class="msr-fn-inline" data-tippy-content="El gravure es un género en Japón de fotos provocativas. " id="fnref:1">1</a>.</span></p>
+<p>La que hablaba del sex appeal. El anuncio estaba en todo el edificio de la estación. </p>
+<p>En ese volumen, ¿no te llamaron uno de los idols más sexys de la industria?</p>
+<p>Además. Justo ahora, lo pensé mientras te miraba. Incluso si solo estás comprando una bebida, cada gesto que haces es tan atractivo. Creo que eso <em>tiene</em> que ser sex appeal. </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—... ¿Qué te pasa hoy? Estás siendo muy halagador. ¿Estás tramando algo? HiMERU no será engañado.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" apologetic><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Solo soy honesto cuando creo que algo es bueno. ¿Qué crees que soy?</p>
+</div></div>
+<div class=msr-unit character="Jun" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Bueno. Si hay una razón. Lo que pasa es que tengo un trabajo pronto de los que no suelo hacer.</p>
+<p>Es para una revista, parece que quieren mostrar a mi yo de secundaria contra mi yo adulto.</p>
+<p>Pensé que sería un buen contraste si pudiera crear una atmósfera madura. </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm... Así que por eso lo mencionaste.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No tengo mucha seguridad en esa área. Te estaba mirando para ver si podía aprender algunos de tus trucos. </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" neutral><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Desde el punto de vista de HiMERU, Sazanami parece ser suficiente. Dicho esto, si no piensas que estás hecho para ello, no deberías forzarte. </p>
+<p>Es posible tomar diferentes enfoques dentro de tu propia categoría de experiencia.</p>
+<p>Todos tienen fortalezas y debilidades. ¿Por qué obligarte a usar algo en lo que no eres bueno como un arma?</p>
+</div></div>
+
+<div class=msr-unit character="Jun" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Bueno, puede que estés en lo cierto. Pero no me gusta dejar mis debilidades así nomás. Siento que mi crecimiento como idol pararía allí. </p>
+<p>Ademas, una nueva arma ampliaría mi rango. </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm. HiMERU entiende tus sentimientos. Y, bueno, no le disgusta ese tipo de autodisciplina. Dicho esto, HiMERU no está seguro de ser la persona indicada a la que pedir este tipo de consejos. </p>
+<p>......</p>
+<p>HiMERU ha oído que las personas que participan en ceremonias de té y el patinaje artístico tienen gestos hermosos. Dicen que es debido a que son conscientes de sus nervios hasta la punta de los dedos. </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p><span class="thought">(HiMERU no sabe muy bien de qué está hablando Sazanami.)</span></p>
+<p><span class="thought">(HiMERU se desgastó los nervios hasta la punta de los dedos persiguiendo su objetivo de convertirse en el ídolo perfecto, para que cualquier tercero lo viera como tal.)</span></p>
+<p><span class="thought">(¿Podrían sus consejos ayudar a Sazanami...?)</span></p>
+</div></div>
+
+<div class=msr-unit character="Jun" thinking><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ohh, ya veo. Es verdad que nunca pensé en moverme así.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Ser consciente hasta de la punta de los dedos... Umm. ¿Algo así? Me peinaré el pelo...</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>......</p>
+<p>—Sazanami. Lo estás forzando demasiado.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Intenta ser más natural. Así... </p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Huuh. Síp, eres muy bueno en esto. Como un experto. </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" disappointed><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Como él dijo, HiMERU no hace esto a propósito. </p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile4><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Bueno, bueno. ¿No te agrada? Te estoy halagando, sabes. </p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Uhh, ¿qué tal esto? </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" thinking2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>—Hm~m. El gesto de tu mano está bien, pero el resto es demasiado torpe. ¿Qué tal si muestras un poco más la nuca?</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" smug2><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Toma por ejemplo... esto.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smile3><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡Aah, ya...! ¿Así? </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>No, no. Más. Eso no atraerá los ojos de la gente. ¡Sé más sexy! ¡Exhíbete!</p>
+</div></div>
+
+<div class=msr-unit character="Jun" worried><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Gh... Es difícil.</p>
+</div></div>
+
+<div class=msr-unit character="Jun" smug><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¿Qué tal esto?</p>
+</div></div>
+
+<div class=msr-unit character="Kohaku" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¿Pero qué chucha están haciendo...?</p>
+</div></div>
+
+<div class=msr-unit character="Jun" surprise><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡¿S-Sakura-kun?!</p>
+</div></div>
+
+<div class=msr-unit character="Kohaku" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Hrmm... ¿Hmm...? <em>(Mirándolos de arriba a abajo)</em></p>
+<p>Lo que hagan es wea suya. Pero incluso si estuvieran siendo discretos, es <em>tan</em> patético que están posando con su pelo así en la sala de descanso.</p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" distress><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡No es eso...! ¡Es un malentendido, Oukawa!</p>
+</div></div>
+
+<div class=msr-unit character="Jun" distraught><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡Exacto! ¡Es como una sesión de entrenamiento especial! ¡HiMERU solo me estaba dando unos tips!</p>
+</div></div>
+
+<div class=msr-unit character="Kohaku" yare><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>Yaaa... Están poniendo <em>tanto</em> empeño en su entrenamiento especial narcisista. Entonces no puedo interferir. Me voy, así que échenle ganas~</p>
+</div></div>
+
+<div class=msr-unit character="Jun" surprise><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡¿Narcisista?! ¡Gaaah! ¡Tampoco es eso! ¡Espera! ¡Escúchame! </p>
+</div></div>
+
+<div class=msr-unit character="HiMERU" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡HiMERU irá tras él, Sazanami! ¡No puede ser que Oukawa mantenga un malentendido tan vergonzoso! </p>
+</div></div>
+
+<div class=msr-unit character="Jun" angry><div class=msr-icon><div class=msr-icon__wrapper><div class=msr-icon__base></div></div></div><div class=msr-name></div><div class=msr-line><p>¡Yo debería decir eso! ¡Por favor, espera, Sakura-kun! </p>
+</div></div>
+
+<h1 id="Notas-de-Traduccion"><a href="#Notas-de-Traduccion" class="headerlink" title="Notas de Traducción"></a>Notas de Traducción</h1><div class="msr-fn"><ol><li id="fn:1"><a href="#fnref:1" class="arrow">↑</a> El gravure es un género en Japón de fotos provocativas.</li></ol></div>]]></content>
   </entry>
 </search>
