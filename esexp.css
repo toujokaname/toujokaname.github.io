@@ -23,7 +23,7 @@
   ***/
   [character="hajimehinata"][attribute] {
     --color: #da93bd;
-    --light-mode: hsl(324.51deg 58.79% 88.53%);
+    --light-mode: hsl(324.51deg 58.79% 90%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/hajime_hinata.png");
     --name: "Hajime・Hinata";
   }
@@ -114,7 +114,7 @@
   
   [character="himerukaoru"][attribute] {
     --color: #c3cba4;
-    --light-mode: hsl(72.3deg 48.12% 86.34%);
+    --light-mode: hsl(72.3deg 48.12% 90%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/himeru_kaoru.png");
     --name: "HiMERU・Kaoru";
   }
@@ -123,7 +123,7 @@
   ***/
   [character="himeruniki"][attribute] {
     --color: #6da1c7;
-    --light-mode: hsl(206.25deg 38.1% 83.53%);
+    --light-mode: hsl(206.25deg 38.1% 90%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/himeru_niki.png");
     --name: "HiMERU・Niki";
   }
@@ -133,7 +133,7 @@
 
   [character="himerutetora"][attribute] {
     --color: #5d758f;
-    --light-mode: hsl(211.2, 31.05%, 85.15%);
+    --light-mode: hsl(211.2, 31.05%, 90%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/himeru_tetora.png");
     --name: "HiMERU・Tetora";
   }
@@ -288,19 +288,18 @@
   ***/
   [character="kanataarashi"][attribute] {
     --color: #77b599;
-    --light-mode: hsl(152.31deg 39.39% 87.06%);
+    --light-mode: hsl(152, 62%, 92%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/kanata_arashi.png");
     --name: "Kanata・Arashi";
   }
 
-  
   /** Kaoru and others
   ***/
   /** With Rei
   ***/
   [character="kaorurei"][attribute] {
     --color: #a27d65;
-    --light-mode: hsl(23.61deg 25.21% 81.05%);
+    --light-mode: hsl(24, 53%, 90%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/kaoru_rei.png");
     --name: "Kaoru・Rei";
   }
@@ -328,7 +327,7 @@
   ***/
   [character="natsumemidori"][attribute] {
     --color: #6b2a3a;
-    --light-mode: hsl(345.88deg 35.92% 81.57%);
+    --light-mode: hsl(345.88deg 35.92% 90%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/natsume_midori.png");
     --name: "Natsume・Midori";
   }
@@ -346,7 +345,7 @@
   ***/
   [character="reikaoru"][attribute] {
     --color: #a27d65;
-    --light-mode: hsl(23.61deg 25.21% 81.05%);
+    --light-mode: hsl(23.61deg 25.21% 90%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/rei_kaoru.png");
     --name: "Rei・Kaoru";
   }
@@ -420,7 +419,7 @@
   
   [character="tomoyaaira"][attribute] {
     --color: #fff5dd;
-    --light-mode: hsl(42.2deg 100% 93.36%);
+    --light-mode: hsl(42.2deg 100% 90%);
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/pairs/tomoya_aira.png");
     --name: "Tomoya・Aira";
   }

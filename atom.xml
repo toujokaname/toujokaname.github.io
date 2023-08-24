@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>toujokaname</title>
+  <icon>http://example.com/icon.png</icon>
+  <subtitle>I like the idiot you.</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-08-24T13:00:02.375Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Mello</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Princess Kaguya — Get Along</title>
+    <link href="http://example.com/en/event_stories/princess_kaguya/get_along/"/>
+    <id>http://example.com/en/event_stories/princess_kaguya/get_along/</id>
+    <published>2023-02-11T05:02:38.000Z</published>
+    <updated>2023-08-24T13:00:02.375Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1107544413837725736/1107555605822050354/latest.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Princess Kaguya&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;Get Along&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/event_stories/princess_kaguya/get_along/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          The members of Getto Spectacle begin living together in ALKALOID&#39;s former room at Seisoukan&#39;s old building. To
+          prepare themselves for their performance, they decide to come up with &quot;wishes&quot; to fulfill during the week.
+          However, living together proves to be difficult...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Winter
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              7
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Kino Seitaro with Akira
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Hokuto&quot; character=&quot;Hokuto&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Kanata&quot; character=&quot;Kanata&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Arashi&quot; character=&quot;Arashi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hiyori&quot; character=&quot;Hiyori&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              8/31/2021
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Princess Kaguya — Prologue</title>
+    <link href="http://example.com/en/event_stories/princess_kaguya/prologue/"/>
+    <id>http://example.com/en/event_stories/princess_kaguya/prologue/</id>
+    <published>2023-02-11T05:02:37.000Z</published>
+    <updated>2023-08-23T00:39:47.107Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1107544413837725736/1113143204208967811/IMG_0296.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Princess Kaguya&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;Prologue (プロローグ)&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/event_stories/princess_kaguya/prologue/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          The chapter starts with Hiyori revealing that this will be his last performance as an idol. The timeline then
+          goes back one week earlier, to a meeting in which the plans for the Shuffle Unit &quot;Getto Spectacle&quot; are
+          revealed...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Winter
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              1
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Kino Seitaro with Akira
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hokuto&quot; character=&quot;Hokuto&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Arashi&quot; character=&quot;Arashi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Kanata&quot; character=&quot;Kanata&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hiyori&quot; character=&quot;Hiyori&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Anzu&quot; character=&quot;Anzu&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              8/31/2021
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Princess Kaguya</title>
+    <link href="http://example.com/en/event_stories/princess_kaguya/"/>
+    <id>http://example.com/en/event_stories/princess_kaguya/</id>
+    <published>2023-02-11T05:02:36.000Z</published>
+    <updated>2023-08-23T00:39:47.107Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;style&gt;
+    .reverse .preview-background.kgyhm {
+      background-position: top 35% left 54%;
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background kgyhm&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1107544413837725736/1108313753734352956/IMG_0058.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Princess Kaguya&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;かぐや姫 (Kaguya-hime)&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/event_stories/princess_kaguya/prologue/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          This time, the Shuffle Project partners with a popular educational program based on the theme of Princess
+          Kaguya. The five members begin living together at a training camp, but they&#39;re not in sync with each other.
+          Then, Hiyori reveals something to &lt;span style=&quot;display:inline-block&quot;&gt;them...&lt;a
+              target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://twitter.com/ensemble_stars/status/1431496771394588678&quot;&gt;➹&lt;/a&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Winter
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              15
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Kino Seitaro with Akira
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hokuto&quot; character=&quot;Hokuto&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Arashi&quot; character=&quot;Arashi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Kanata&quot; character=&quot;Kanata&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hiyori&quot; character=&quot;Hiyori&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Anzu&quot; character=&quot;Anzu&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              8/31/2021
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
+    
+    <category term="Hiyori" scheme="http://example.com/categories/Enstars/Hiyori/"/>
+    
+    <category term="Arashi" scheme="http://example.com/categories/Enstars/Arashi/"/>
+    
+    <category term="Hokuto" scheme="http://example.com/categories/Enstars/Hokuto/"/>
+    
+    <category term="Kanata" scheme="http://example.com/categories/Enstars/Kanata/"/>
+    
+    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
+    
+    
+    <category term="Kino Seitaro" scheme="http://example.com/tags/Kino-Seitaro/"/>
+    
+    <category term="Akira" scheme="http://example.com/tags/Akira/"/>
+    
+    <category term="Event Story" scheme="http://example.com/tags/Event-Story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Lucky Scramble</title>
+    <link href="http://example.com/en/scout_stories/lucky_scramble/"/>
+    <id>http://example.com/en/scout_stories/lucky_scramble/</id>
+    <published>2022-12-30T10:07:30.000Z</published>
+    <updated>2023-08-23T23:01:37.413Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;style&gt;
+    .reverse .preview-background.ls {
+      background-position: top 35% left 47%;
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background ls&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1106364706387660831/1106364717892644934/28Lucky_Bunny29_HiMERU_CG.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Lucky SCRAMBLE&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;強運SCRAMBLE&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/scout_stories/lucky_scramble/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          HiMERU appeared on a fortune-telling show hosted by Rei. He was skeptical about the results
+          of
+          the show, but one after another, lucky events started &lt;span style=&quot;display:inline-block&quot;&gt;happening...&lt;a
+              target=&quot;_blank&quot; rel=&quot;noopener&quot; href=&quot;https://twitter.com/ensemble_stars/status/1607979663971713025&quot;&gt;➹&lt;/a&gt;&lt;/span&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Winter
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              9
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Chitose Umeda
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Rei&quot; character=&quot;Rei&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Tetora&quot; character=&quot;Tetora&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Kaoru&quot; character=&quot;Kaoru&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Tomoya&quot; character=&quot;Tomoya&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Aira&quot; character=&quot;Aira&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Niki&quot; character=&quot;Niki&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Rinne&quot; character=&quot;Rinne&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Kohaku&quot; character=&quot;Kohaku&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              12/30/2022
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Rei" scheme="http://example.com/categories/Enstars/Rei/"/>
+    
+    <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
+    
+    <category term="Kaoru" scheme="http://example.com/categories/Enstars/Kaoru/"/>
+    
+    <category term="Kohaku" scheme="http://example.com/categories/Enstars/Kohaku/"/>
+    
+    <category term="Niki" scheme="http://example.com/categories/Enstars/Niki/"/>
+    
+    <category term="Tetora" scheme="http://example.com/categories/Enstars/Tetora/"/>
+    
+    <category term="Aira" scheme="http://example.com/categories/Enstars/Aira/"/>
+    
+    <category term="Rinne" scheme="http://example.com/categories/Enstars/Rinne/"/>
+    
+    <category term="Tomoya" scheme="http://example.com/categories/Enstars/Tomoya/"/>
+    
+    
+    <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
+    
+    <category term="Scout Stories" scheme="http://example.com/tags/Scout-Stories/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Tatsumi&#39;s 2022 Birthday</title>
+    <link href="http://example.com/en/idol_stories/tatsumi/birthday_2022/"/>
+    <id>http://example.com/en/idol_stories/tatsumi/birthday_2022/</id>
+    <published>2022-12-27T17:53:04.000Z</published>
+    <updated>2023-08-23T18:59:05.653Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+
+&lt;style&gt;
+  .chapter-area&gt;.mini-talks .mt-content&gt;.item {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 5px;
+  }
+&lt;/style&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1112489701392269402/IMG_0276.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Tatsumi&#39;s 2022 Birthday Party&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/tatsumi/birthday_2022/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          &lt;i&gt;
+            &lt;center style=&quot;
+            color: #409775;
+        &quot;&gt;&quot;Something I want… is it? The best gift I could get is to be celebrated, so nothing comes to mind
+              right
+              now.&quot;&lt;/center&gt;
+          &lt;/i&gt;
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Date
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              December 28th
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              5
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Happy Elements K.K
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Jun&quot; character=&quot;Jun&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hajime&quot; character=&quot;Hajime&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hiiro&quot; character=&quot;Hiiro&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hokuto&quot; character=&quot;Hokuto&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Anzu&quot; character=&quot;Anzu&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              12/28/2022
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
+    
+    <category term="Jun" scheme="http://example.com/categories/Enstars/Jun/"/>
+    
+    <category term="Hajime" scheme="http://example.com/categories/Enstars/Hajime/"/>
+    
+    <category term="Hokuto" scheme="http://example.com/categories/Enstars/Hokuto/"/>
+    
+    <category term="Hiiro" scheme="http://example.com/categories/Enstars/Hiiro/"/>
+    
+    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
+    
+    
+    <category term="Happy Elements K.K" scheme="http://example.com/tags/Happy-Elements-K-K/"/>
+    
+    <category term="Birthday Story" scheme="http://example.com/tags/Birthday-Story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Seeing Off, Sent Off In The Morning</title>
+    <link href="http://example.com/en/idol_stories/tatsumi/seeing_off_sent_off_in_the_morning/"/>
+    <id>http://example.com/en/idol_stories/tatsumi/seeing_off_sent_off_in_the_morning/</id>
+    <published>2022-12-25T15:43:01.000Z</published>
+    <updated>2023-08-23T18:25:41.597Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1109921921715408947/latest.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Seeing Off, Sent Off In The Morning&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;送り、送られる朝に&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/tatsumi/seeing_off_sent_off_in_the_morning/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          Tatsumi and Hiyori meet at the Seisoukan kitchen in the morning. After he reminds Tatsumi that he&#39;s supposed
+          to attend his Reimei classes, Hiyori sends him off to school...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Summer
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              1
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Chitose Umeda
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hiyori&quot; character=&quot;Hiyori&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              12/25/2022
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
+    
+    <category term="Hiyori" scheme="http://example.com/categories/Enstars/Hiyori/"/>
+    
+    
+    <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
+    
+    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Introducción al Sex Appeal</title>
+    <link href="http://example.com/es/idol_stories/jun/sex_appeal_101/"/>
+    <id>http://example.com/es/idol_stories/jun/sex_appeal_101/</id>
+    <published>2022-12-13T15:29:25.000Z</published>
+    <updated>2023-08-23T18:25:41.613Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot; 
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1109931674353025194/latest.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Introducción al Sex Appeal&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;色気のいろは&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/es/idol_stories/jun/sex_appeal_101/#1&quot;&gt;Leer&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          Mientras HiMERU se sirve una bebida de la máquina expendedora, Jun se le acerca buscando consejos para su próximo trabajo...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Estación
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Otoño
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Capítulos
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              1
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Autor
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Nishioka Maiko
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Personajes
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Jun&quot; character=&quot;Jun&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Kohaku&quot; character=&quot;Kohaku&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Traducción
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Publicación
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              25/9/2022
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="es" scheme="http://example.com/categories/es/"/>
+    
+    <category term="Enstars" scheme="http://example.com/categories/es/Enstars/"/>
+    
+    <category term="HiMERU" scheme="http://example.com/categories/es/Enstars/HiMERU/"/>
+    
+    <category term="Jun" scheme="http://example.com/categories/es/Enstars/Jun/"/>
+    
+    <category term="Kohaku" scheme="http://example.com/categories/es/Enstars/Kohaku/"/>
+    
+    
+    <category term="es, Nishioka Maiko" scheme="http://example.com/tags/es-Nishioka-Maiko/"/>
+    
+    <category term="es, Idol Story" scheme="http://example.com/tags/es-Idol-Story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Sex Appeal 101</title>
+    <link href="http://example.com/en/idol_stories/jun/sex_appeal_101/"/>
+    <id>http://example.com/en/idol_stories/jun/sex_appeal_101/</id>
+    <published>2022-12-13T15:29:25.000Z</published>
+    <updated>2023-08-23T18:25:41.608Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot; 
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1109931674353025194/latest.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Sex Appeal 101&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;色気のいろは&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/jun/sex_appeal_101/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          As HiMERU is getting himself a drink from the vending machine, Jun approaches him, seeking advice for an
+          upcoming job...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Autumn
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              1
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Nishioka Maiko
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Jun&quot; character=&quot;Jun&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Kohaku&quot; character=&quot;Kohaku&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              9/25/2022
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
+    
+    <category term="Jun" scheme="http://example.com/categories/Enstars/Jun/"/>
+    
+    <category term="Kohaku" scheme="http://example.com/categories/Enstars/Kohaku/"/>
+    
+    
+    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
+    
+    <category term="Nishioka Maiko" scheme="http://example.com/tags/Nishioka-Maiko/"/>
+    
+  </entry>
+  
+</feed>
