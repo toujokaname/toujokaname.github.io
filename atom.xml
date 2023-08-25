@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-25T15:12:07.348Z</updated>
+  <updated>2023-08-25T21:34:17.382Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,460 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>A Carefree Relationship</title>
+    <link href="http://example.com/en/idol_stories/tatsumi/a_carefree_relationship/"/>
+    <id>http://example.com/en/idol_stories/tatsumi/a_carefree_relationship/</id>
+    <published>2023-05-10T10:42:25.000Z</published>
+    <updated>2023-08-25T21:34:17.382Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1112485174186348674/IMG_0274.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;A Carefree Relationship&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;気遣い無用の関係&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/a_carefree_relationship/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          Tatsumi comes across Leon and Koga, who feels conflicted about entering a jewelry shop that doesn&#39;t allow
+          pets...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Summer
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              1
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Suika
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Koga&quot; character=&quot;Koga&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              5/10/2023
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
+    
+    <category term="Koga" scheme="http://example.com/categories/Enstars/Koga/"/>
+    
+    
+    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
+    
+    <category term="Suika" scheme="http://example.com/tags/Suika/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>An Appraiser Appears?</title>
+    <link href="http://example.com/en/idol_stories/tatsumi/an_appraiser_appears/"/>
+    <id>http://example.com/en/idol_stories/tatsumi/an_appraiser_appears/</id>
+    <published>2023-04-28T22:17:25.000Z</published>
+    <updated>2023-08-25T21:15:41.615Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;style&gt;
+    .story-cover img {
+      object-fit: contain;
+    }
+
+    .reverse .preview-background.aaa {
+      background-position: top 35% left 47%;
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background aaa&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1110754023352574013/latest.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;An Appraiser Appears?&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;鑑定士あらわる?&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/tatsumi/an_appraiser_appears/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          For their activities in Gardenia, the circle goes out to the mountains for mushroom picking. After Natsume and
+          Midori stay behind, Tatsumi, Hajime and Hinata go pick mushrooms by themselves. Then, Tatsumi&#39;s ability to
+          sense ill omens comes in handy...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Autumn
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              1
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Chitose Umeda
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Hinata&quot; character=&quot;Hinata&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Natsume&quot; character=&quot;Natsume&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Midori&quot; character=&quot;Midori&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Hajime&quot; character=&quot;Hajime&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              10/10/2022
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
+    
+    <category term="Hajime" scheme="http://example.com/categories/Enstars/Hajime/"/>
+    
+    <category term="Hinata" scheme="http://example.com/categories/Enstars/Hinata/"/>
+    
+    <category term="Midori" scheme="http://example.com/categories/Enstars/Midori/"/>
+    
+    <category term="Natsume" scheme="http://example.com/categories/Enstars/Natsume/"/>
+    
+    
+    <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
+    
+    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Basic Appeal Talks</title>
+    <link href="http://example.com/en/minitalks/appeal_talks/"/>
+    <id>http://example.com/en/minitalks/appeal_talks/</id>
+    <published>2023-03-15T20:48:04.000Z</published>
+    <updated>2023-08-25T17:54:11.500Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1106010528863748106/1110568803718406165/ezgif-2-38b47d9010.gif&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Basic Appeal Talks&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/minitalks/appeal_talks/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          Compilation of Appeal Talks found in Basic courses.
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Summer
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Minitalks
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              6
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Happy Elements K.K
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Anzu&quot; character=&quot;Anzu&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              3/16/2020
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
+    
+    <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
+    
+    <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
+    
+    
+    <category term="Happy Elements K.K" scheme="http://example.com/tags/Happy-Elements-K-K/"/>
+    
+    <category term="Minitalks" scheme="http://example.com/tags/Minitalks/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Light In Both Body And Soul</title>
+    <link href="http://example.com/en/idol_stories/tatsumi/light_in_both_body_and_soul/"/>
+    <id>http://example.com/en/idol_stories/tatsumi/light_in_both_body_and_soul/</id>
+    <published>2023-03-08T23:22:25.000Z</published>
+    <updated>2023-08-25T16:59:37.610Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;style&gt;
+    .reverse .preview-background.libb {
+      background-position: top 35% left 50%;
+    }
+  &lt;/style&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background libb&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1110323877902561360/28Everyday_Changes29_Tatsumi_Kazehaya_CG.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Light In Both Body And Soul&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;身も心も軽やかに&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/tatsumi/light_in_both_body_and_soul/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          Tatsumi starts feeling physical discomfort after all the work ALKALOID did in the summer. When he comes across
+          Tsumugi and tells him about this, they decide
+          to do some stretches together...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Season
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Summer
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Chapters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              1
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Writer
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Chitose Umeda
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Characters
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Tsumugi&quot; character=&quot;Tsumugi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Enstars/Eichi&quot; character=&quot;Eichi&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Translation
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Released
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              7/10/2021
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
+    
+    <category term="Tsumugi" scheme="http://example.com/categories/Enstars/Tsumugi/"/>
+    
+    <category term="Eichi" scheme="http://example.com/categories/Enstars/Eichi/"/>
+    
+    
+    <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
+    
+    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
+    
+  </entry>
+  
+  <entry>
     <title>HiMERU Idol Stories</title>
     <link href="http://example.com/en/idol_stories/himeru/idol_stories/"/>
     <id>http://example.com/en/idol_stories/himeru/idol_stories/</id>
     <published>2023-02-27T17:23:25.000Z</published>
-    <updated>2023-08-25T15:12:07.348Z</updated>
+    <updated>2023-08-25T16:54:48.757Z</updated>
     
     
     <summary type="html">&lt;head&gt;
@@ -41,7 +490,7 @@
     &lt;div class=&quot;preview-box&quot;&gt;
       &lt;div class=&quot;title-area&quot;&gt;
         &lt;div class=&quot;title-area__title&quot;&gt;HiMERU Idol Stories&lt;/div&gt;
-        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/himeru_is/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/himeru/idol_stories&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;info-area&quot;&gt;
         &lt;div class=&quot;synopsis&quot;&gt;
@@ -109,9 +558,9 @@
     
     <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
     
-    <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
-    
     <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
+    
+    <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
     
     <category term="Kohaku" scheme="http://example.com/categories/Enstars/Kohaku/"/>
     
@@ -129,7 +578,7 @@
     <link href="http://example.com/en/idol_stories/tatsumi/idol_stories/"/>
     <id>http://example.com/en/idol_stories/tatsumi/idol_stories/</id>
     <published>2023-02-27T17:16:25.000Z</published>
-    <updated>2023-08-25T15:10:59.690Z</updated>
+    <updated>2023-08-25T16:56:01.431Z</updated>
     
     
     <summary type="html">&lt;head&gt;
@@ -149,7 +598,7 @@
     &lt;div class=&quot;preview-box&quot;&gt;
     &lt;div class=&quot;title-area&quot;&gt;
       &lt;div class=&quot;title-area__title&quot;&gt;Tatsumi Idol Stories&lt;/div&gt;
-      &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/tatsumi_is/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+      &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/tatsumi/idol_stories/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
     &lt;/div&gt;
     &lt;div class=&quot;info-area&quot;&gt;
       &lt;div class=&quot;synopsis&quot;&gt;
@@ -218,15 +667,15 @@
     
     <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
     
+    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
+    
     <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
     
     <category term="Hiyori" scheme="http://example.com/categories/Enstars/Hiyori/"/>
     
-    <category term="Jun" scheme="http://example.com/categories/Enstars/Jun/"/>
-    
-    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
-    
     <category term="Mayoi" scheme="http://example.com/categories/Enstars/Mayoi/"/>
+    
+    <category term="Jun" scheme="http://example.com/categories/Enstars/Jun/"/>
     
     
     <category term="Akira" scheme="http://example.com/tags/Akira/"/>
@@ -732,11 +1181,11 @@
     
     <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
     
+    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
+    
     <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
     
     <category term="Hiyori" scheme="http://example.com/categories/Enstars/Hiyori/"/>
-    
-    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
     
     <category term="Arashi" scheme="http://example.com/categories/Enstars/Arashi/"/>
     
@@ -754,11 +1203,45 @@
   </entry>
   
   <entry>
+    <title>Musical Guidance, Tsukinaga-Style ☆</title>
+    <link href="http://example.com/en/idol_stories/leo/musical_guidance_tsukinaga_style/"/>
+    <id>http://example.com/en/idol_stories/leo/musical_guidance_tsukinaga_style/</id>
+    <published>2023-01-16T18:36:25.000Z</published>
+    <updated>2023-08-25T20:24:11.752Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link</summary>
+        
+      
+    
+    
+    
+    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
+    
+    <category term="Leo" scheme="http://example.com/categories/Enstars/Leo/"/>
+    
+    <category term="Tomoya" scheme="http://example.com/categories/Enstars/Tomoya/"/>
+    
+    
+    <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
+    
+    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Lucky Scramble</title>
     <link href="http://example.com/en/scout_stories/lucky_scramble/"/>
     <id>http://example.com/en/scout_stories/lucky_scramble/</id>
     <published>2022-12-30T10:07:30.000Z</published>
-    <updated>2023-08-25T13:49:57.595Z</updated>
+    <updated>2023-08-25T20:25:52.872Z</updated>
     
     
     <summary type="html">&lt;head&gt;
@@ -862,15 +1345,17 @@
     
     <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
     
-    <category term="Rei" scheme="http://example.com/categories/Enstars/Rei/"/>
-    
     <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
+    
+    <category term="Rei" scheme="http://example.com/categories/Enstars/Rei/"/>
     
     <category term="Kaoru" scheme="http://example.com/categories/Enstars/Kaoru/"/>
     
-    <category term="Niki" scheme="http://example.com/categories/Enstars/Niki/"/>
+    <category term="Tomoya" scheme="http://example.com/categories/Enstars/Tomoya/"/>
     
     <category term="Kohaku" scheme="http://example.com/categories/Enstars/Kohaku/"/>
+    
+    <category term="Niki" scheme="http://example.com/categories/Enstars/Niki/"/>
     
     <category term="Tetora" scheme="http://example.com/categories/Enstars/Tetora/"/>
     
@@ -878,12 +1363,10 @@
     
     <category term="Rinne" scheme="http://example.com/categories/Enstars/Rinne/"/>
     
-    <category term="Tomoya" scheme="http://example.com/categories/Enstars/Tomoya/"/>
-    
     
     <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
     
-    <category term="Scout Stories" scheme="http://example.com/tags/Scout-Stories/"/>
+    <category term="Scout Story" scheme="http://example.com/tags/Scout-Story/"/>
     
   </entry>
   
@@ -996,17 +1479,17 @@
     
     <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
     
+    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
+    
     <category term="Tatsumi" scheme="http://example.com/categories/Enstars/Tatsumi/"/>
     
     <category term="Jun" scheme="http://example.com/categories/Enstars/Jun/"/>
     
-    <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
-    
     <category term="Hajime" scheme="http://example.com/categories/Enstars/Hajime/"/>
     
-    <category term="Hokuto" scheme="http://example.com/categories/Enstars/Hokuto/"/>
-    
     <category term="Hiiro" scheme="http://example.com/categories/Enstars/Hiiro/"/>
+    
+    <category term="Hokuto" scheme="http://example.com/categories/Enstars/Hokuto/"/>
     
     
     <category term="Happy Elements K.K" scheme="http://example.com/tags/Happy-Elements-K-K/"/>
@@ -1220,9 +1703,9 @@
     <category term="Kohaku" scheme="http://example.com/categories/Enstars/Kohaku/"/>
     
     
-    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
-    
     <category term="Nishioka Maiko" scheme="http://example.com/tags/Nishioka-Maiko/"/>
+    
+    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
     
   </entry>
   
@@ -1231,7 +1714,7 @@
     <link href="http://example.com/es/idol_stories/jun/sex_appeal_101/"/>
     <id>http://example.com/es/idol_stories/jun/sex_appeal_101/</id>
     <published>2022-12-13T15:29:25.000Z</published>
-    <updated>2023-08-23T18:25:41.613Z</updated>
+    <updated>2023-08-25T18:03:37.739Z</updated>
     
     
     <summary type="html">&lt;head&gt;
@@ -1328,9 +1811,9 @@
     <category term="Kohaku" scheme="http://example.com/categories/es/Enstars/Kohaku/"/>
     
     
-    <category term="es, Nishioka Maiko" scheme="http://example.com/tags/es-Nishioka-Maiko/"/>
+    <category term="Español, Nishioka Maiko" scheme="http://example.com/tags/Espanol-Nishioka-Maiko/"/>
     
-    <category term="es, Idol Story" scheme="http://example.com/tags/es-Idol-Story/"/>
+    <category term="Español, Idol Story" scheme="http://example.com/tags/Espanol-Idol-Story/"/>
     
   </entry>
   
