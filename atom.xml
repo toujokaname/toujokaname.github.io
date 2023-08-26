@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-08-26T20:17:34.452Z</updated>
+  <updated>2023-08-26T22:51:05.367Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -17,11 +17,116 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>Una Mañana De Enviar y Ser Enviado</title>
+    <link href="http://example.com/es/idol_stories/tatsumi/a_morning_of_seeing_and_sending_off/"/>
+    <id>http://example.com/es/idol_stories/tatsumi/a_morning_of_seeing_and_sending_off/</id>
+    <published>2023-08-26T22:04:21.000Z</published>
+    <updated>2023-08-26T22:51:05.367Z</updated>
+    
+    
+    <summary type="html">&lt;head&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
+  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
+  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
+  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
+&lt;/head&gt;
+
+&lt;div class=&quot;preview-wrapper reverse&quot;
+  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
+  &lt;div class=&quot;grid-wrapper&quot;&gt;
+    &lt;div class=&quot;preview-background&quot;
+      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1109921921715408947/latest.png&#39;)&quot;&gt;
+    &lt;/div&gt;
+    &lt;div class=&quot;preview-box&quot;&gt;
+      &lt;div class=&quot;title-area&quot;&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;Una Mañana De Enviar y Ser Enviado&lt;/div&gt;
+        &lt;div class=&quot;title-area__subtitle&quot;&gt;送り、送られる朝に&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/es/idol_stories/tatsumi/a_morning_of_seeing_and_sending_off/#1&quot;&gt;Leer&lt;/a&gt;&lt;/div&gt;
+      &lt;/div&gt;
+      &lt;div class=&quot;info-area&quot;&gt;
+        &lt;div class=&quot;synopsis&quot;&gt;
+          Tatsumi y Hiyori se encuentran en la cocina de Seisoukan en la mañana. Después de recordarle a Tatsumi que debe asistir a sus clases de Reimei, Hiyori le envía a la escuela...
+        &lt;/div&gt;
+        &lt;div class=&quot;info&quot;&gt;
+          &lt;div class=&quot;info-item season&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Estación
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Verano
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item chapters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Capítulos
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              1
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item writer&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Autor
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Chitose Umeda
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item characters&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Personajes
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              &lt;a href=&quot;/categories/Espanol/Enstars/Tatsumi&quot; character=&quot;Tatsumi&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Espanol/Enstars/Hiyori&quot; character=&quot;Hiyori&quot;&gt;&lt;/a&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item tl&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Traducción
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              Mello
+            &lt;/div&gt;
+          &lt;/div&gt;
+          &lt;div class=&quot;info-item pr&quot;&gt;
+            &lt;div class=&quot;label&quot;&gt;
+              Publicación
+            &lt;/div&gt;
+            &lt;div class=&quot;value&quot;&gt;
+              25/12/2022
+            &lt;/div&gt;
+          &lt;/div&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</summary>
+    
+    
+    
+    <category term="Español" scheme="http://example.com/categories/Espanol/"/>
+    
+    <category term="Enstars" scheme="http://example.com/categories/Espanol/Enstars/"/>
+    
+    <category term="Tatsumi" scheme="http://example.com/categories/Espanol/Enstars/Tatsumi/"/>
+    
+    <category term="Hiyori" scheme="http://example.com/categories/Espanol/Enstars/Hiyori/"/>
+    
+    
+    <category term="Español, Idol Story" scheme="http://example.com/tags/Espanol-Idol-Story/"/>
+    
+    <category term="Español, Chitose Umeda" scheme="http://example.com/tags/Espanol-Chitose-Umeda/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Introducción al Sex Appeal</title>
     <link href="http://example.com/es/idol_stories/jun/sex_appeal_101/"/>
     <id>http://example.com/es/idol_stories/jun/sex_appeal_101/</id>
     <published>2023-08-22T18:03:25.000Z</published>
-    <updated>2023-08-26T20:17:34.452Z</updated>
+    <updated>2023-08-26T22:09:24.738Z</updated>
     
     
     <summary type="html">&lt;head&gt;
@@ -78,9 +183,9 @@
               Personajes
             &lt;/div&gt;
             &lt;div class=&quot;value&quot;&gt;
-              &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
-              &lt;a href=&quot;/categories/Enstars/Jun&quot; character=&quot;Jun&quot;&gt;&lt;/a&gt;
-              &lt;a href=&quot;/categories/Enstars/Kohaku&quot; character=&quot;Kohaku&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Espanol/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Espanol/Enstars/Jun&quot; character=&quot;Jun&quot;&gt;&lt;/a&gt;
+              &lt;a href=&quot;/categories/Espanol/Enstars/Kohaku&quot; character=&quot;Kohaku&quot;&gt;&lt;/a&gt;
             &lt;/div&gt;
           &lt;/div&gt;
           &lt;div class=&quot;info-item tl&quot;&gt;
@@ -347,9 +452,9 @@
     
     <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
     
-    <category term="Tetora" scheme="http://example.com/categories/Enstars/Tetora/"/>
-    
     <category term="Hinata" scheme="http://example.com/categories/Enstars/Hinata/"/>
+    
+    <category term="Tetora" scheme="http://example.com/categories/Enstars/Tetora/"/>
     
     
     <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
@@ -459,18 +564,18 @@
     
     <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
     
-    <category term="Souma" scheme="http://example.com/categories/Enstars/Souma/"/>
-    
     <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
+    
+    <category term="Souma" scheme="http://example.com/categories/Enstars/Souma/"/>
     
     <category term="Kanata" scheme="http://example.com/categories/Enstars/Kanata/"/>
     
     <category term="Ibara" scheme="http://example.com/categories/Enstars/Ibara/"/>
     
     
-    <category term="Scout Story" scheme="http://example.com/tags/Scout-Story/"/>
-    
     <category term="Nishioka Maiko" scheme="http://example.com/tags/Nishioka-Maiko/"/>
+    
+    <category term="Scout Story" scheme="http://example.com/tags/Scout-Story/"/>
     
   </entry>
   
@@ -1020,9 +1125,9 @@
     
     <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
     
-    <category term="Ibara" scheme="http://example.com/categories/Enstars/Ibara/"/>
-    
     <category term="Kohaku" scheme="http://example.com/categories/Enstars/Kohaku/"/>
+    
+    <category term="Ibara" scheme="http://example.com/categories/Enstars/Ibara/"/>
     
     
     <category term="Akira" scheme="http://example.com/tags/Akira/"/>
@@ -1643,9 +1748,9 @@
     
     <category term="Anzu" scheme="http://example.com/categories/Enstars/Anzu/"/>
     
-    <category term="Kanata" scheme="http://example.com/categories/Enstars/Kanata/"/>
-    
     <category term="Hiyori" scheme="http://example.com/categories/Enstars/Hiyori/"/>
+    
+    <category term="Kanata" scheme="http://example.com/categories/Enstars/Kanata/"/>
     
     <category term="Arashi" scheme="http://example.com/categories/Enstars/Arashi/"/>
     
@@ -1871,28 +1976,28 @@
     
     <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
     
-    <category term="Rei" scheme="http://example.com/categories/Enstars/Rei/"/>
-    
     <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
     
-    <category term="Tetora" scheme="http://example.com/categories/Enstars/Tetora/"/>
-    
-    <category term="Tomoya" scheme="http://example.com/categories/Enstars/Tomoya/"/>
-    
-    <category term="Kaoru" scheme="http://example.com/categories/Enstars/Kaoru/"/>
+    <category term="Rei" scheme="http://example.com/categories/Enstars/Rei/"/>
     
     <category term="Kohaku" scheme="http://example.com/categories/Enstars/Kohaku/"/>
     
+    <category term="Kaoru" scheme="http://example.com/categories/Enstars/Kaoru/"/>
+    
+    <category term="Tomoya" scheme="http://example.com/categories/Enstars/Tomoya/"/>
+    
     <category term="Niki" scheme="http://example.com/categories/Enstars/Niki/"/>
+    
+    <category term="Tetora" scheme="http://example.com/categories/Enstars/Tetora/"/>
     
     <category term="Aira" scheme="http://example.com/categories/Enstars/Aira/"/>
     
     <category term="Rinne" scheme="http://example.com/categories/Enstars/Rinne/"/>
     
     
-    <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
-    
     <category term="Scout Story" scheme="http://example.com/tags/Scout-Story/"/>
+    
+    <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
     
   </entry>
   
@@ -2025,11 +2130,11 @@
   </entry>
   
   <entry>
-    <title>Seeing Off, Sent Off In The Morning</title>
-    <link href="http://example.com/en/idol_stories/tatsumi/seeing_off_sent_off_in_the_morning/"/>
-    <id>http://example.com/en/idol_stories/tatsumi/seeing_off_sent_off_in_the_morning/</id>
+    <title>A Morning Of Seeing And Sending Off</title>
+    <link href="http://example.com/en/idol_stories/tatsumi/a_morning_of_seeing_and_sending_off/"/>
+    <id>http://example.com/en/idol_stories/tatsumi/a_morning_of_seeing_and_sending_off/</id>
     <published>2022-12-25T15:43:01.000Z</published>
-    <updated>2023-08-26T17:37:52.795Z</updated>
+    <updated>2023-08-26T22:03:23.524Z</updated>
     
     
     <summary type="html">&lt;head&gt;
@@ -2048,9 +2153,9 @@
     &lt;/div&gt;
     &lt;div class=&quot;preview-box&quot;&gt;
       &lt;div class=&quot;title-area&quot;&gt;
-        &lt;div class=&quot;title-area__title&quot;&gt;Seeing Off, Sent Off In The Morning&lt;/div&gt;
+        &lt;div class=&quot;title-area__title&quot;&gt;A Morning Of Seeing And Sending Off&lt;/div&gt;
         &lt;div class=&quot;title-area__subtitle&quot;&gt;送り、送られる朝に&lt;/div&gt;
-        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/tatsumi/seeing_off_sent_off_in_the_morning/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
+        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/tatsumi/a_morning_of_seeing_and_sending_off/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
       &lt;/div&gt;
       &lt;div class=&quot;info-area&quot;&gt;
         &lt;div class=&quot;synopsis&quot;&gt;
@@ -2123,113 +2228,6 @@
     
     
     <category term="Chitose Umeda" scheme="http://example.com/tags/Chitose-Umeda/"/>
-    
-    <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Sex Appeal 101</title>
-    <link href="http://example.com/en/idol_stories/jun/sex_appeal_101/"/>
-    <id>http://example.com/en/idol_stories/jun/sex_appeal_101/</id>
-    <published>2022-12-13T15:29:25.000Z</published>
-    <updated>2023-08-26T17:37:22.631Z</updated>
-    
-    
-    <summary type="html">&lt;head&gt;
-  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/edit.css&quot;  /&gt;
-  &lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;/esexp.css&quot;  /&gt;
-  &lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro@1.2.3/src/hint.min.css&quot;&gt;
-  &lt;script src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js&quot;&gt;&lt;/script&gt;
-  &lt;script src=&quot;https://cdn.jsdelivr.net/gh/enstars/mashiro@v2.2.1/dist/mashiro.js&quot;&gt;&lt;/script&gt;
-&lt;/head&gt;
-
-&lt;div class=&quot;preview-wrapper reverse&quot; 
-  style=&quot;--storyColor: #00677e;--storyColor-rgb: 0,103,126;--storyColor-h: 191;--storyColor-s: 100%;--storyColor-l: 24.7%;&quot;&gt;
-  &lt;div class=&quot;grid-wrapper&quot;&gt;
-    &lt;div class=&quot;preview-background&quot;
-      style=&quot;background-image: url(&#39;https://cdn.discordapp.com/attachments/1108310788436938793/1109931674353025194/latest.png&#39;)&quot;&gt;
-    &lt;/div&gt;
-    &lt;div class=&quot;preview-box&quot;&gt;
-      &lt;div class=&quot;title-area&quot;&gt;
-        &lt;div class=&quot;title-area__title&quot;&gt;Sex Appeal 101&lt;/div&gt;
-        &lt;div class=&quot;title-area__subtitle&quot;&gt;色気のいろは&lt;/div&gt;
-        &lt;div class=&quot;title-area__start&quot;&gt;&lt;a href=&quot;/en/idol_stories/jun/sex_appeal_101/#1&quot;&gt;Start Reading&lt;/a&gt;&lt;/div&gt;
-      &lt;/div&gt;
-      &lt;div class=&quot;info-area&quot;&gt;
-        &lt;div class=&quot;synopsis&quot;&gt;
-          As HiMERU is getting himself a drink from the vending machine, Jun approaches him, seeking advice for an
-          upcoming job...
-        &lt;/div&gt;
-        &lt;div class=&quot;info&quot;&gt;
-          &lt;div class=&quot;info-item season&quot;&gt;
-            &lt;div class=&quot;label&quot;&gt;
-              Season
-            &lt;/div&gt;
-            &lt;div class=&quot;value&quot;&gt;
-              Autumn
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;info-item chapters&quot;&gt;
-            &lt;div class=&quot;label&quot;&gt;
-              Chapters
-            &lt;/div&gt;
-            &lt;div class=&quot;value&quot;&gt;
-              1
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;info-item writer&quot;&gt;
-            &lt;div class=&quot;label&quot;&gt;
-              Writer
-            &lt;/div&gt;
-            &lt;div class=&quot;value&quot;&gt;
-              Nishioka Maiko
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;info-item characters&quot;&gt;
-            &lt;div class=&quot;label&quot;&gt;
-              Characters
-            &lt;/div&gt;
-            &lt;div class=&quot;value&quot;&gt;
-              &lt;a href=&quot;/categories/Enstars/HiMERU&quot; character=&quot;HiMERU&quot;&gt;&lt;/a&gt;
-              &lt;a href=&quot;/categories/Enstars/Jun&quot; character=&quot;Jun&quot;&gt;&lt;/a&gt;
-              &lt;a href=&quot;/categories/Enstars/Kohaku&quot; character=&quot;Kohaku&quot;&gt;&lt;/a&gt;
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;info-item tl&quot;&gt;
-            &lt;div class=&quot;label&quot;&gt;
-              Translation
-            &lt;/div&gt;
-            &lt;div class=&quot;value&quot;&gt;
-              Mello
-            &lt;/div&gt;
-          &lt;/div&gt;
-          &lt;div class=&quot;info-item pr&quot;&gt;
-            &lt;div class=&quot;label&quot;&gt;
-              Released
-            &lt;/div&gt;
-            &lt;div class=&quot;value&quot;&gt;
-              9/25/2022
-            &lt;/div&gt;
-          &lt;/div&gt;
-        &lt;/div&gt;
-      &lt;/div&gt;
-    &lt;/div&gt;
-  &lt;/div&gt;
-&lt;/div&gt;</summary>
-    
-    
-    
-    <category term="Enstars" scheme="http://example.com/categories/Enstars/"/>
-    
-    <category term="HiMERU" scheme="http://example.com/categories/Enstars/HiMERU/"/>
-    
-    <category term="Jun" scheme="http://example.com/categories/Enstars/Jun/"/>
-    
-    <category term="Kohaku" scheme="http://example.com/categories/Enstars/Kohaku/"/>
-    
-    
-    <category term="Nishioka Maiko" scheme="http://example.com/tags/Nishioka-Maiko/"/>
     
     <category term="Idol Story" scheme="http://example.com/tags/Idol-Story/"/>
     
