@@ -7,6 +7,33 @@
     --charahead: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/anzu_charahead.png");
   }
   
+  /** Aira Expressions
+  ***/
+  [character="Aira"][disappointed] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/aira/disappointed.png");
+  }
+  
+  [character="Aira"][ggh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/aira/ggh.png");
+  }
+
+  [character="Aira"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/aira/neutral.png");
+  }
+  
+  [character="Aira"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/aira/smile.png");
+  }
+
+  [character="Aira"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/aira/smile2.png");
+  }
+  
+  [character="Aira"][smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/aira/smug.png");
+  }
+
+
   /** Arashi Expressions
   ***/
   [character="Arashi"][kh1] {
@@ -293,6 +320,64 @@
     --name: "Kanata・Arashi";
   }
 
+  /** Kaoru Expressions
+  ***/
+  [character="Kaoru"][apologetic] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/apologetic.png");
+  }
+  
+  [character="Kaoru"][autism] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/autism.png");
+  }
+
+  [character="Kaoru"][disappointed] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/disappointed.png");
+  }
+  
+  [character="Kaoru"][distress] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/distress.png");
+  }
+
+  [character="Kaoru"][glare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/glare.png");
+  }
+  
+  [character="Kaoru"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/neutral.png");
+  }
+
+  [character="Kaoru"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/smile.png");
+  }
+  
+  [character="Kaoru"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/smile2.png");
+  }
+
+  [character="Kaoru"][smile3] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/smile3.png");
+  }
+  
+  [character="Kaoru"][smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/smug.png");
+  }
+
+  [character="Kaoru"][smug2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/smug2.png");
+  }
+
+  [character="Kaoru"][surprise] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/surprise.png");
+  }
+
+  [character="Kaoru"][thinking] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/thinking.png");
+  }
+
+  [character="Kaoru"][yare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kaoru/yare.png");
+  }
+
   /** Kaoru and others
   ***/
   /** With Rei
@@ -308,6 +393,30 @@
   ***/
   [character="Kohaku"][angry] {
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kohaku/angry.png");
+  }
+
+  [character="Kohaku"][autism] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kohaku/autism.png");
+  }
+
+  [character="Kohaku"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kohaku/neutral.png");
+  }
+
+  [character="Kohaku"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kohaku/smile.png");
+  }
+
+  [character="Kohaku"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kohaku/smile2.png");
+  }
+
+  [character="Kohaku"][smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kohaku/smug.png");
+  }
+
+  [character="Kohaku"][smug2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/kohaku/smug2.png");
   }
   
   [character="Kohaku"][yare] {
@@ -332,11 +441,145 @@
     --name: "Natsume・Midori";
   }
   
+  /** Niki Expressions
+  ***/
+  
+  [character="Niki"][apologetic] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/apologetic.png");
+  }
+
+  [character="Niki"][autism] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/autism.png");
+  }
+
+  [character="Niki"][dejected] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/dejected.png");
+  }
+
+  [character="Niki"][disappointed] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/disappointed.png");
+  }
+
+  [character="Niki"][distraught] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/distraught.png");
+  }
+
+  [character="Niki"][distress] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/distress.png");
+  }
+
+  [character="Niki"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/neutral.png");
+  }
+
+  [character="Niki"][nyeh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/nyeh.png");
+  }
+
+  [character="Niki"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/smile.png");
+  }
+
+  [character="Niki"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/smile2.png");
+  }
+
+  [character="Niki"][smile3] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/smile3.png");
+  }
+
+  [character="Niki"][smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/smug.png");
+  }
+
+  [character="Niki"][smug2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/smug2.png");
+  }
+
+  [character="Niki"][surprise] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/surprise.png");
+  }
+
+  [character="Niki"][thinking] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/thinking.png");
+  }
+
+  [character="Niki"][yare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/niki/yare.png");
+  }
   
   /** Rei Expressions
   ***/
+  [character="Rei"][apologetic] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/apologetic.png");
+  }
+
+  [character="Rei"][autism] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/autism.png");
+  }
+
+  [character="Rei"][dejected] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/dejected.png");
+  }
+
+  [character="Rei"][disappointed] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/disappointed.png");
+  }
+
+  [character="Rei"][distraught] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/distraught.png");
+  }
+
+  [character="Rei"][distress] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/distress.png");
+  }
+
+  [character="Rei"][laugh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/laugh.png");
+  }
+
   [character="Rei"][lb] {
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/lb.png");
+  }
+
+  [character="Rei"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/neutral.png");
+  }
+
+  [character="Rei"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/smile.png");
+  }
+
+  [character="Rei"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/smile2.png");
+  }
+
+  [character="Rei"][smile3] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/smile3.png");
+  }
+
+  [character="Rei"][smile4] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/smile4.png");
+  }
+
+  [character="Rei"][smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/smug.png");
+  }
+
+  [character="Rei"][surprise] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/surprise.png");
+  }
+
+  [character="Rei"][thinking] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/thinking.png");
+  }
+
+  [character="Rei"][thinking2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/thinking2.png");
+  }
+
+  [character="Rei"][yare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rei/yare.png");
   }
   
   /** Rei and others
@@ -352,7 +595,37 @@
   
   /** Rinne Expressions
   ***/
-  
+  [character="Rinne"][autism] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rinne/autism.png");
+  }
+
+  [character="Rinne"][disappointed] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rinne/disappointed.png");
+  }
+
+  [character="Rinne"][distress] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rinne/distress.png");
+  }
+
+  [character="Rinne"][glare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rinne/glare.png");
+  }
+
+  [character="Rinne"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rinne/neutral.png");
+  }
+
+  [character="Rinne"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rinne/smile.png");
+  }
+
+  [character="Rinne"][smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rinne/smug.png");
+  }
+
+  [character="Rinne"][yare] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/rinne/yare.png");
+  }
   
   /** Tatsumi Expressions
   ***/
@@ -410,6 +683,78 @@
 
   [character="Tatsumi"][thinking2] {
     --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tatsumi/thinking2.png");
+  }
+
+  /** Tetora Expressions
+  ***/
+  [character="Tetora"][apologetic] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/apologetic.png");
+  }
+
+  [character="Tetora"][autism] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/autism.png");
+  }
+
+  [character="Tetora"][disappointed] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/disappointed.png");
+  }
+
+  [character="Tetora"][distraught] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/distraught.png");
+  }
+
+  [character="Tetora"][distress] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/distress.png");
+  }
+
+  [character="Tetora"][ggh] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/ggh.png");
+  }
+
+  [character="Tetora"][neutral] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/neutral.png");
+  }
+
+  [character="Tetora"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/smile.png");
+  }
+
+  [character="Tetora"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/smile2.png");
+  }
+
+  [character="Tetora"][smug] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/smug.png");
+  }
+
+  [character="Tetora"][surprise] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/surprise.png");
+  }
+
+  [character="Tetora"][thinking] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/thinking.png");
+  }
+
+  [character="Tetora"][worried] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tetora/worried.png");
+  }
+
+  /** Tomoya Expressions
+  ***/
+  [character="Tomoya"][distraught] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tomoya/distraught.png");
+  }
+
+  [character="Tomoya"][smile] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tomoya/smile.png");
+  }
+
+  [character="Tomoya"][smile2] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tomoya/smile2.png");
+  }
+
+  [character="Tomoya"][smile3] {
+    --icon: url("https://cdn.jsdelivr.net/gh/toujokaname/images@main/icons/tomoya/smile3.png");
   }
 
   /** Tomoya and others
